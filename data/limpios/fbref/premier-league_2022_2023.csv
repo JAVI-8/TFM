@@ -1,0 +1,592 @@
+nombre,Posicion,club_actual,partidos_jugados,titularidades,minutos_jugados,goles,asistencias,amarillas,rojas,carreras_progresivas,pases_progresivos,Pases_progresivos_recibidos,temporada,liga
+brenden aaronson,"MF,FW",Leeds United,36,28,2372,1,3,2,0,43,86,151,2022-2023,premier-league
+george abbott,MF,Tottenham,1,0,1,0,0,0,0,0,0,0,2022-2023,premier-league
+che adams,FW,Southampton,28,23,1992,5,3,1,0,17,34,115,2022-2023,premier-league
+tyler adams,MF,Leeds United,24,24,2156,0,0,6,1,19,136,20,2022-2023,premier-league
+tosin adarabioyo,DF,Fulham,25,23,2085,1,0,4,0,16,95,3,2022-2023,premier-league
+nayef aguerd,DF,West Ham,18,17,1595,2,0,4,0,2,25,4,2022-2023,premier-league
+naouirou ahamada,"MF,FW",Crystal Palace,8,0,94,0,0,1,0,1,2,11,2022-2023,premier-league
+rayan aït-nouri,DF,Wolves,21,9,1076,1,0,4,0,30,43,76,2022-2023,premier-league
+kristoffer ajer,DF,Brentford,9,9,763,0,0,0,0,10,31,12,2022-2023,premier-league
+manuel akanji,DF,Manchester City,29,24,2287,0,1,2,0,24,116,17,2022-2023,premier-league
+nathan aké,DF,Manchester City,26,22,1873,1,0,2,0,25,140,30,2022-2023,premier-league
+marc albrighton,"FW,MF",Leicester City,6,1,237,1,0,0,0,4,7,18,2022-2023,premier-league
+thiago alcántara,MF,Liverpool,18,14,1254,0,0,2,0,13,120,24,2022-2023,premier-league
+carlos alcaraz,"MF,FW",Southampton,18,13,1029,4,2,3,0,20,28,32,2022-2023,premier-league
+trent alexander-arnold,DF,Liverpool,37,34,2923,2,9,5,0,43,235,139,2022-2023,premier-league
+alisson,GK,Liverpool,37,37,3330,0,1,1,0,0,3,0,2022-2023,premier-league
+dele alli,MF,Everton,2,0,40,0,0,0,0,0,1,1,2022-2023,premier-league
+miguel almirón,FW,Newcastle Utd,34,29,2491,11,2,2,0,77,124,264,2022-2023,premier-league
+julián álvarez,"FW,MF",Manchester City,31,13,1465,9,0,0,0,38,37,99,2022-2023,premier-league
+daniel amartey,DF,Leicester City,20,18,1610,0,0,1,0,23,66,5,2022-2023,premier-league
+samuel amo-ameyaw,MF,Southampton,1,0,4,0,0,0,0,2,1,0,2022-2023,premier-league
+joachim andersen,DF,Crystal Palace,32,32,2782,1,0,8,0,16,105,7,2022-2023,premier-league
+elliot anderson,"MF,FW",Newcastle Utd,22,3,410,0,1,0,0,23,24,35,2022-2023,premier-league
+jaidon anthony,"MF,FW",Bournemouth,30,11,1257,3,1,2,0,31,49,72,2022-2023,premier-league
+michail antonio,FW,West Ham,33,21,1829,5,3,2,0,49,27,120,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+antony,FW,Manchester Utd,25,23,1802,4,2,5,0,95,74,168,2022-2023,premier-league
+cameron archer,"FW,MF",Aston Villa,6,0,49,0,0,0,0,3,0,3,2022-2023,premier-league
+alphonse areola,GK,West Ham,5,2,309,0,0,0,0,0,0,0,2022-2023,premier-league
+joe aribo,"MF,FW",Southampton,21,13,1224,2,0,2,0,19,39,64,2022-2023,premier-league
+adam armstrong,"FW,MF",Southampton,30,14,1335,2,1,2,0,39,16,70,2022-2023,premier-league
+stuart armstrong,"MF,FW",Southampton,32,14,1408,2,1,6,0,61,75,88,2022-2023,premier-league
+kepa arrizabalaga,GK,Chelsea,29,29,2565,0,0,1,0,0,0,0,2022-2023,premier-league
+pierre-emerick aubameyang,FW,Chelsea,15,5,554,1,0,1,0,9,3,29,2022-2023,premier-league
+ludwig augustinsson,DF,Aston Villa,3,1,77,0,0,1,0,0,0,3,2022-2023,premier-league
+serge aurier,DF,Nott'ham Forest,24,22,1943,1,0,2,0,37,71,50,2022-2023,premier-league
+taiwo awoniyi,FW,Nott'ham Forest,27,17,1404,10,1,2,0,18,12,55,2022-2023,premier-league
+yasin ayari,MF,Brighton,3,1,67,0,0,0,0,0,2,2,2022-2023,premier-league
+andré ayew,"FW,MF",Nott'ham Forest,13,1,316,0,0,1,0,3,11,16,2022-2023,premier-league
+jordan ayew,"FW,MF",Crystal Palace,38,31,2714,4,3,5,0,83,63,174,2022-2023,premier-league
+luke ayling,DF,Leeds United,29,22,2054,2,1,3,0,28,77,100,2022-2023,premier-league
+césar azpilicueta,DF,Chelsea,25,16,1527,0,0,3,0,23,71,81,2022-2023,premier-league
+benoît badiashile,DF,Chelsea,11,10,905,1,0,2,0,11,56,2,2022-2023,premier-league
+leon bailey,"FW,MF",Aston Villa,33,26,1967,4,4,4,0,85,28,182,2022-2023,premier-league
+stefan bajcetic,MF,Liverpool,11,6,526,1,0,2,0,10,24,1,2022-2023,premier-league
+dominic ballard,"FW,MF",Southampton,2,0,26,0,0,0,0,1,0,1,2022-2023,premier-league
+patrick bamford,FW,Leeds United,28,18,1515,4,2,3,0,17,23,96,2022-2023,premier-league
+shandon baptiste,MF,Brentford,23,4,618,0,1,3,1,8,39,23,2022-2023,premier-league
+harvey barnes,"FW,MF",Leicester City,34,32,2711,13,1,3,0,100,79,257,2022-2023,premier-league
+gavin bazunu,GK,Southampton,32,32,2880,0,0,0,0,0,1,0,2022-2023,premier-league
+mads bech sørensen,"DF,MF",Brentford,4,0,21,0,0,0,0,0,1,0,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+jan bednarek,DF,Southampton,20,20,1672,0,0,5,0,8,45,2,2022-2023,premier-league
+jan bednarek,DF,Aston Villa,3,1,100,0,0,0,0,1,5,0,2022-2023,premier-league
+donny van de beek,MF,Manchester Utd,7,2,167,0,0,0,0,2,6,20,2022-2023,premier-league
+asmir begović,GK,Everton,1,1,90,0,0,0,0,0,0,0,2022-2023,premier-league
+armel bella kotchap,DF,Southampton,24,24,1879,0,2,4,0,9,39,2,2022-2023,premier-league
+saïd benrahma,"FW,MF",West Ham,35,22,2069,6,3,0,0,109,82,237,2022-2023,premier-league
+rodrigo bentancur,MF,Tottenham,18,17,1500,5,2,8,0,26,76,19,2022-2023,premier-league
+daniel bentley,GK,Wolves,2,2,180,0,0,0,0,0,0,0,2022-2023,premier-league
+victor bernth kristiansen,DF,Leicester City,12,11,892,0,1,2,0,17,31,24,2022-2023,premier-league
+owen bevan,DF,Bournemouth,1,0,9,0,0,0,0,0,0,0,2022-2023,premier-league
+giulian biancone,DF,Nott'ham Forest,2,0,17,0,0,0,0,2,0,1,2022-2023,premier-league
+philip billing,"MF,FW",Bournemouth,36,34,2764,7,1,5,0,37,80,101,2022-2023,premier-league
+yves bissouma,MF,Tottenham,23,10,1010,0,0,6,0,14,62,10,2022-2023,premier-league
+willy boly,DF,Nott'ham Forest,11,9,685,0,1,2,0,1,12,0,2022-2023,premier-league
+sven botman,DF,Newcastle Utd,36,35,3127,0,0,2,0,8,87,5,2022-2023,premier-league
+jarrod bowen,"FW,MF",West Ham,38,36,3233,6,5,2,0,101,72,213,2022-2023,premier-league
+james bree,DF,Southampton,5,4,367,0,0,1,0,4,5,12,2022-2023,premier-league
+armando broja,FW,Chelsea,12,2,294,1,0,0,0,8,4,17,2022-2023,premier-league
+david brooks,"FW,MF",Bournemouth,6,2,173,0,0,1,0,5,11,10,2022-2023,premier-league
+lewis brunt,DF,Leicester City,1,0,23,0,0,0,0,0,0,2,2022-2023,premier-league
+emi buendía,"MF,FW",Aston Villa,38,27,2412,5,2,0,0,60,138,137,2022-2023,premier-league
+hugo bueno,DF,Wolves,21,16,1310,0,1,1,0,52,39,64,2022-2023,premier-league
+facundo buonanotte,"FW,MF",Brighton,13,6,565,1,1,2,0,9,13,42,2022-2023,premier-league
+dan burn,DF,Newcastle Utd,38,35,3111,1,0,5,0,29,118,46,2022-2023,premier-league
+cafú,MF,Nott'ham Forest,1,0,7,0,0,0,0,0,1,0,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+moisés caicedo,MF,Brighton,37,34,3139,1,1,10,0,38,219,61,2022-2023,premier-league
+tom cairney,MF,Fulham,33,6,988,2,0,2,0,34,92,57,2022-2023,premier-league
+duje ćaleta-car,DF,Southampton,13,9,946,1,0,2,0,5,33,0,2022-2023,premier-league
+dominic calvert-lewin,FW,Everton,17,15,1165,2,1,3,0,18,15,56,2022-2023,premier-league
+chem campbell,"FW,MF",Wolves,5,0,74,0,0,0,0,2,4,10,2022-2023,premier-league
+joão cancelo,DF,Manchester City,17,16,1274,2,1,3,1,73,106,125,2022-2023,premier-league
+thomas cannon,FW,Everton,2,0,25,0,0,0,0,1,0,2,2022-2023,premier-league
+sergi canós,"FW,DF",Brentford,5,0,77,0,0,0,0,4,2,7,2022-2023,premier-league
+diego carlos,DF,Aston Villa,3,2,205,0,0,0,0,1,11,0,2022-2023,premier-league
+fabio carvalho,"MF,FW",Liverpool,13,4,347,2,0,0,0,9,12,26,2022-2023,premier-league
+casemiro,MF,Manchester Utd,28,24,2124,4,3,7,2,14,152,34,2022-2023,premier-league
+matty cash,DF,Aston Villa,26,20,1820,0,1,4,0,42,75,57,2022-2023,premier-league
+timothy castagne,DF,Leicester City,37,36,3254,2,3,3,0,39,106,149,2022-2023,premier-league
+jonny castro,DF,Wolves,18,14,1261,1,0,3,1,24,70,46,2022-2023,premier-league
+nathaniel chalobah,MF,Fulham,4,1,12,0,0,0,1,0,0,0,2022-2023,premier-league
+trevoh chalobah,DF,Chelsea,25,18,1608,0,0,4,0,17,71,27,2022-2023,premier-league
+calum chambers,"DF,MF",Aston Villa,14,2,353,0,0,2,0,6,16,2,2022-2023,premier-league
+shea charles,DF,Manchester City,1,0,28,0,0,0,0,1,1,0,2022-2023,premier-league
+ben chilwell,"DF,MF",Chelsea,23,15,1408,2,2,3,0,43,41,131,2022-2023,premier-league
+ryan christie,"MF,FW",Bournemouth,32,22,1834,1,1,2,0,39,71,71,2022-2023,premier-league
+carney chukwuemeka,"MF,FW",Chelsea,14,2,354,0,0,0,0,21,23,21,2022-2023,premier-league
+bobby clark,MF,Liverpool,1,0,8,0,0,0,0,0,1,2,2022-2023,premier-league
+nathaniel clyne,DF,Crystal Palace,22,19,1640,0,0,3,0,14,52,29,2022-2023,premier-league
+conor coady,DF,Everton,24,23,2096,1,1,2,0,4,43,1,2022-2023,premier-league
+jack colback,MF,Nott'ham Forest,11,4,497,0,0,0,0,5,16,3,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+séamus coleman,DF,Everton,23,20,1656,1,0,1,0,13,61,37,2022-2023,premier-league
+nathan collins,DF,Wolves,26,19,1814,0,0,2,1,11,64,5,2022-2023,premier-league
+levi colwill,DF,Brighton,17,13,1220,0,2,1,0,16,70,3,2022-2023,premier-league
+lewis cook,MF,Bournemouth,28,18,1720,0,2,4,0,9,63,10,2022-2023,premier-league
+steve cook,DF,Nott'ham Forest,12,11,957,0,0,4,0,1,19,0,2022-2023,premier-league
+liam cooper,DF,Leeds United,18,16,1426,1,0,5,0,3,47,2,2022-2023,premier-league
+maxwel cornet,FW,West Ham,14,2,245,0,0,0,0,9,5,26,2022-2023,premier-league
+diego costa,FW,Wolves,23,16,1241,1,0,5,1,19,13,60,2022-2023,premier-league
+vladimír coufal,DF,West Ham,27,24,2136,0,1,5,0,53,82,109,2022-2023,premier-league
+philippe coutinho,"MF,FW",Aston Villa,20,7,788,1,0,3,0,18,48,68,2022-2023,premier-league
+conor coventry,"MF,FW",West Ham,1,0,1,0,0,0,0,0,0,0,2022-2023,premier-league
+matthew craig,MF,Tottenham,1,0,14,0,0,0,0,0,0,0,2022-2023,premier-league
+aaron cresswell,DF,West Ham,28,24,2235,0,1,3,0,35,145,82,2022-2023,premier-league
+marc cucurella,DF,Chelsea,24,21,1671,0,2,4,0,30,73,65,2022-2023,premier-league
+matheus cunha,FW,Wolves,17,12,965,2,0,1,0,16,14,43,2022-2023,premier-league
+patson daka,FW,Leicester City,30,13,1187,4,4,2,0,18,17,82,2022-2023,premier-league
+diogo dalot,DF,Manchester Utd,26,24,2154,1,2,6,0,46,92,85,2022-2023,premier-league
+mikkel damsgaard,"MF,FW",Brentford,26,9,988,0,0,4,0,9,44,45,2022-2023,premier-league
+danilo,MF,Nott'ham Forest,13,12,976,3,2,1,0,13,34,22,2022-2023,premier-league
+arnaut danjuma,"FW,MF",Tottenham,9,1,169,1,0,0,0,5,2,19,2022-2023,premier-league
+josh dasilva,MF,Brentford,36,14,1389,4,2,1,0,60,62,69,2022-2023,premier-league
+david datro fofana,FW,Chelsea,3,1,70,0,0,0,0,2,2,9,2022-2023,premier-league
+ben davies,DF,Tottenham,31,26,2288,2,2,4,0,39,107,69,2022-2023,premier-league
+tom davies,MF,Everton,19,4,538,0,0,3,0,2,30,13,2022-2023,premier-league
+craig dawson,DF,West Ham,8,8,720,0,0,2,0,0,18,1,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+craig dawson,DF,Wolves,17,17,1414,1,0,4,0,5,44,1,2022-2023,premier-league
+kevin de bruyne,MF,Manchester City,32,28,2417,7,16,1,0,100,246,245,2022-2023,premier-league
+bobby de cordova-reid,"FW,DF",Fulham,36,29,2475,4,1,8,0,46,63,186,2022-2023,premier-league
+siriki dembélé,"FW,MF",Bournemouth,6,0,110,0,0,0,0,5,4,11,2022-2023,premier-league
+leander dendoncker,MF,Aston Villa,20,7,697,0,0,0,0,1,18,2,2022-2023,premier-league
+leander dendoncker,MF,Wolves,4,2,214,0,0,0,0,1,6,3,2022-2023,premier-league
+emmanuel dennis,"FW,MF",Nott'ham Forest,19,6,720,2,2,3,0,24,17,63,2022-2023,premier-league
+halil dervişoğlu,MF,Brentford,1,0,8,0,0,0,0,0,0,0,2022-2023,premier-league
+kiernan dewsbury-hall,MF,Leicester City,31,28,2306,2,2,5,1,68,132,91,2022-2023,premier-league
+ibrahima diallo,MF,Southampton,18,11,819,0,0,4,0,9,28,6,2022-2023,premier-league
+rúben dias,DF,Manchester City,26,22,1998,0,0,3,0,14,98,2,2022-2023,premier-league
+luis díaz,FW,Liverpool,17,11,996,4,2,2,0,39,49,116,2022-2023,premier-league
+eric dier,DF,Tottenham,33,31,2818,2,1,3,0,9,87,14,2022-2023,premier-league
+lucas digne,DF,Aston Villa,28,18,1502,1,0,5,0,29,57,89,2022-2023,premier-league
+issa diop,DF,Fulham,25,21,2012,1,0,2,0,13,70,4,2022-2023,premier-league
+moussa djenepo,"DF,FW",Southampton,16,7,710,0,2,1,0,27,19,39,2022-2023,premier-league
+ben doak,FW,Liverpool,2,0,26,0,0,0,0,1,1,4,2022-2023,premier-league
+matt doherty,"DF,MF",Tottenham,12,7,667,1,0,0,0,16,20,57,2022-2023,premier-league
+abdoulaye doucouré,MF,Everton,25,17,1533,5,2,6,1,23,38,66,2022-2023,premier-league
+cheick doucouré,MF,Crystal Palace,34,34,2769,0,3,10,1,18,140,17,2022-2023,premier-league
+flynn downes,MF,West Ham,21,7,762,0,0,2,0,3,22,11,2022-2023,premier-league
+kami doyle,MF,Southampton,1,0,7,0,0,0,0,0,0,0,2022-2023,premier-league
+cody drameh,DF,Leeds United,1,1,69,0,0,0,0,0,2,3,2022-2023,premier-league
+martin dúbravka,GK,Newcastle Utd,2,1,157,0,0,0,0,0,0,0,2022-2023,premier-league
+shane duffy,"DF,FW",Fulham,5,0,20,0,0,0,0,0,0,0,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+lewis dunk,DF,Brighton,36,36,3239,1,0,4,0,19,158,5,2022-2023,premier-league
+jáder durán,"FW,MF",Aston Villa,12,0,136,0,0,1,0,4,4,13,2022-2023,premier-league
+malcolm ebiowei,"MF,FW",Crystal Palace,3,0,34,0,0,0,0,2,2,9,2022-2023,premier-league
+ederson,GK,Manchester City,35,35,3150,0,1,3,0,0,0,0,2022-2023,premier-league
+odsonne édouard,FW,Crystal Palace,35,20,1803,5,2,3,0,29,32,100,2022-2023,premier-league
+samuel edozie,"FW,MF",Southampton,17,5,567,0,0,0,0,26,13,39,2022-2023,premier-league
+anthony elanga,FW,Manchester Utd,16,5,426,0,1,0,0,12,8,28,2022-2023,premier-league
+harvey elliott,"MF,FW",Liverpool,32,18,1613,1,2,2,0,54,142,129,2022-2023,premier-league
+mohamed elneny,MF,Arsenal,5,1,113,0,0,0,0,1,2,1,2022-2023,premier-league
+mohamed elyounoussi,"MF,FW",Southampton,33,27,2168,1,1,4,0,56,50,98,2022-2023,premier-league
+emerson,DF,Tottenham,26,20,1735,2,1,2,1,47,80,103,2022-2023,premier-league
+julio enciso,"FW,MF",Brighton,20,7,806,4,2,1,0,39,31,74,2022-2023,premier-league
+christian eriksen,MF,Manchester Utd,28,25,2048,1,8,3,0,23,164,66,2022-2023,premier-league
+pervis estupiñán,DF,Brighton,35,31,2675,1,5,4,0,91,157,183,2022-2023,premier-league
+jonny evans,DF,Leicester City,13,12,1051,0,0,1,0,6,35,0,2022-2023,premier-league
+eberechi eze,"MF,FW",Crystal Palace,38,30,2636,10,4,3,0,69,131,129,2022-2023,premier-league
+łukasz fabiański,GK,West Ham,36,36,3111,0,0,1,0,0,0,0,2022-2023,premier-league
+fabinho,MF,Liverpool,36,31,2671,0,2,11,0,15,161,39,2022-2023,premier-league
+wout faes,DF,Leicester City,31,31,2786,1,2,6,1,11,74,2,2022-2023,premier-league
+felipe,DF,Nott'ham Forest,16,15,1418,0,1,4,0,3,22,4,2022-2023,premier-league
+joão félix,"FW,MF",Chelsea,16,11,941,4,0,1,1,34,47,79,2022-2023,premier-league
+evan ferguson,FW,Brighton,19,10,950,6,2,1,0,11,14,58,2022-2023,premier-league
+bruno fernandes,"MF,FW",Manchester Utd,37,37,3316,8,8,6,0,89,263,231,2022-2023,premier-league
+enzo fernández,MF,Chelsea,18,18,1547,0,2,3,0,22,168,18,2022-2023,premier-league
+roberto firmino,"FW,MF",Liverpool,25,13,1213,11,4,0,0,16,78,96,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+junior firpo,DF,Leeds United,19,14,1368,1,1,6,1,20,54,34,2022-2023,premier-league
+phil foden,FW,Manchester City,32,22,1842,11,6,1,0,68,88,275,2022-2023,premier-league
+wesley fofana,DF,Leicester City,2,2,180,0,0,1,0,3,6,1,2022-2023,premier-league
+wesley fofana,DF,Chelsea,15,12,1183,1,0,3,0,29,43,12,2022-2023,premier-league
+pablo fornals,"FW,MF",West Ham,32,17,1503,3,1,0,0,33,89,101,2022-2023,premier-league
+adam forshaw,MF,Leeds United,12,5,479,0,0,0,0,4,33,7,2022-2023,premier-league
+fraser forster,GK,Tottenham,14,13,1215,0,0,1,0,0,0,0,2022-2023,premier-league
+tyrese francois,FW,Fulham,1,0,1,0,0,0,0,0,0,1,2022-2023,premier-league
+ryan fraser,FW,Newcastle Utd,8,3,313,0,0,1,0,8,9,23,2022-2023,premier-league
+fred,MF,Manchester Utd,35,12,1249,2,2,6,0,10,76,50,2022-2023,premier-league
+ryan fredericks,DF,Bournemouth,12,5,533,0,0,1,0,13,15,28,2022-2023,premier-league
+remo freuler,MF,Nott'ham Forest,28,24,2161,0,0,4,0,7,54,11,2022-2023,premier-league
+cody gakpo,"FW,MF",Liverpool,21,17,1458,7,2,0,0,36,50,109,2022-2023,premier-league
+conor gallagher,MF,Chelsea,35,18,1621,3,1,11,1,40,105,104,2022-2023,premier-league
+idrissa gana gueye,MF,Everton,33,32,2577,0,1,7,0,27,98,19,2022-2023,premier-league
+alejandro garnacho,"FW,MF",Manchester Utd,19,5,569,3,2,3,0,33,12,85,2022-2023,premier-league
+james garner,"MF,DF",Everton,16,7,804,0,1,3,0,8,33,18,2022-2023,premier-league
+david de gea,GK,Manchester Utd,38,38,3420,0,0,0,0,0,0,0,2022-2023,premier-league
+joe gelhardt,FW,Leeds United,15,1,212,0,2,1,0,2,6,21,2022-2023,premier-league
+saman ghoddos,"MF,FW",Brentford,15,0,139,0,0,0,0,1,8,6,2022-2023,premier-league
+morgan gibbs-white,"FW,MF",Wolves,2,2,180,0,0,1,0,4,12,12,2022-2023,premier-league
+morgan gibbs-white,"MF,FW",Nott'ham Forest,35,34,2971,5,8,5,0,69,131,157,2022-2023,premier-league
+bryan gil,"MF,FW",Tottenham,4,2,148,0,1,1,0,4,5,15,2022-2023,premier-league
+billy gilmour,MF,Brighton,14,7,507,0,1,1,0,5,35,4,2022-2023,premier-league
+wilfried gnonto,"FW,MF",Leeds United,24,14,1354,2,4,7,0,66,35,136,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+ben godfrey,DF,Everton,13,10,802,0,1,2,0,9,19,7,2022-2023,premier-league
+joão gomes,MF,Wolves,11,7,653,1,0,5,0,7,19,8,2022-2023,premier-league
+toti gomes,DF,Wolves,17,10,984,1,0,6,0,4,27,23,2022-2023,premier-league
+joe gomez,DF,Liverpool,21,15,1466,0,0,3,0,15,108,5,2022-2023,premier-league
+sergio gómez,"DF,MF",Manchester City,12,2,349,0,1,0,0,10,18,20,2022-2023,premier-league
+anthony gordon,"FW,MF",Newcastle Utd,16,4,487,1,0,1,0,20,15,45,2022-2023,premier-league
+anthony gordon,FW,Everton,16,12,1095,3,0,6,0,28,19,67,2022-2023,premier-league
+demarai gray,"FW,MF",Everton,33,27,2507,4,1,3,0,94,46,199,2022-2023,premier-league
+jack grealish,FW,Manchester City,28,23,2055,5,7,4,0,143,100,310,2022-2023,premier-league
+sam greenwood,"MF,FW",Leeds United,18,3,424,1,2,1,0,7,15,10,2022-2023,premier-league
+pascal groß,"MF,DF",Brighton,37,37,3239,9,8,6,0,62,255,209,2022-2023,premier-league
+vicente guaita,GK,Crystal Palace,27,27,2430,0,0,1,0,0,1,0,2022-2023,premier-league
+gonçalo guedes,"FW,MF",Wolves,13,8,707,1,1,1,0,20,16,54,2022-2023,premier-league
+marc guéhi,DF,Crystal Palace,37,37,3329,1,0,8,0,17,106,3,2022-2023,premier-league
+bruno guimarães,MF,Newcastle Utd,32,32,2726,4,5,7,0,41,222,42,2022-2023,premier-league
+i̇lkay gündoğan,MF,Manchester City,31,27,2353,8,4,0,0,53,170,124,2022-2023,premier-league
+darko gyabi,FW,Leeds United,1,0,8,0,0,0,0,0,2,0,2022-2023,premier-league
+erling haaland,FW,Manchester City,35,33,2769,36,8,5,0,35,58,151,2022-2023,premier-league
+lewis hall,DF,Chelsea,9,8,654,0,0,1,0,19,25,40,2022-2023,premier-league
+luke harris,"MF,FW",Fulham,3,0,13,0,0,0,0,0,1,0,2022-2023,premier-league
+jack harrison,"FW,MF",Leeds United,36,34,2708,5,7,2,0,103,103,255,2022-2023,premier-league
+kai havertz,"FW,MF",Chelsea,35,30,2569,7,1,5,0,59,89,218,2022-2023,premier-league
+jan paul van hecke,DF,Brighton,8,3,295,0,0,2,0,3,21,0,2022-2023,premier-league
+hwang hee-chan,"FW,MF",Wolves,27,12,1130,3,1,1,0,25,30,60,2022-2023,premier-league
+dean henderson,GK,Nott'ham Forest,18,18,1620,0,0,2,0,0,0,0,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+jordan henderson,MF,Liverpool,35,23,2074,0,2,2,0,37,189,90,2022-2023,premier-league
+wayne hennessey,GK,Nott'ham Forest,4,3,271,0,0,0,0,0,0,0,2022-2023,premier-league
+rico henry,DF,Brentford,37,37,3238,0,2,4,0,55,107,111,2022-2023,premier-league
+son heung-min,"MF,FW",Tottenham,36,33,2888,10,6,2,0,82,79,196,2022-2023,premier-league
+aaron hickey,DF,Brentford,26,23,1916,0,1,7,0,41,81,47,2022-2023,premier-league
+jack hinshelwood,FW,Brighton,1,0,2,0,0,0,0,0,0,1,2022-2023,premier-league
+joseph hodge,MF,Wolves,6,1,175,0,0,1,0,1,8,5,2022-2023,premier-league
+rob holding,DF,Arsenal,14,6,566,1,0,0,0,3,24,2,2022-2023,premier-league
+mason holgate,DF,Everton,8,5,507,0,0,3,1,4,14,5,2022-2023,premier-league
+will hughes,MF,Crystal Palace,27,7,842,1,1,4,0,14,32,23,2022-2023,premier-league
+omari hutchinson,FW,Chelsea,1,0,23,0,0,0,0,1,0,2,2022-2023,premier-league
+pierre højbjerg,MF,Tottenham,35,35,3131,4,5,5,0,46,235,66,2022-2023,premier-league
+kelechi iheanacho,"FW,MF",Leicester City,28,11,1127,5,5,0,0,33,27,99,2022-2023,premier-league
+danny ings,FW,West Ham,17,7,775,2,2,1,0,9,12,44,2022-2023,premier-league
+danny ings,FW,Aston Villa,18,8,824,6,0,3,0,15,12,46,2022-2023,premier-league
+alexander isak,FW,Newcastle Utd,22,17,1522,10,1,3,0,41,48,122,2022-2023,premier-league
+daniel iversen,GK,Leicester City,12,12,1080,0,0,0,0,0,0,0,2022-2023,premier-league
+alex iwobi,"MF,FW",Everton,38,38,3378,2,7,2,0,90,194,145,2022-2023,premier-league
+daniel james,FW,Leeds United,4,2,198,0,0,0,0,6,3,9,2022-2023,premier-league
+daniel james,FW,Fulham,20,5,621,2,1,0,0,24,15,48,2022-2023,premier-league
+reece james,"DF,MF",Chelsea,16,14,1244,1,1,4,0,52,90,115,2022-2023,premier-league
+vitaly janelt,"MF,DF",Brentford,35,24,2208,3,1,3,0,14,82,28,2022-2023,premier-league
+pontus jansson,DF,Brentford,12,9,724,1,0,0,0,1,14,0,2022-2023,premier-league
+mathias jensen,MF,Brentford,37,37,2803,5,6,5,0,21,141,77,2022-2023,premier-league
+gabriel jesus,FW,Arsenal,26,24,2064,11,6,6,0,44,64,194,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+raúl jiménez,FW,Wolves,15,8,846,0,1,0,0,5,14,45,2022-2023,premier-league
+joelinton,"MF,FW",Newcastle Utd,32,30,2661,6,1,12,0,64,130,150,2022-2023,premier-league
+ben johnson,DF,West Ham,17,9,866,0,0,0,0,15,37,22,2022-2023,premier-league
+brennan johnson,"FW,MF",Nott'ham Forest,38,33,2934,8,3,6,0,88,30,155,2022-2023,premier-league
+sam johnstone,GK,Crystal Palace,9,9,810,0,0,1,0,0,0,0,2022-2023,premier-league
+curtis jones,MF,Liverpool,18,12,1035,3,1,2,0,31,69,75,2022-2023,premier-league
+jorginho,MF,Arsenal,14,9,855,0,1,0,0,15,99,8,2022-2023,premier-league
+jorginho,MF,Chelsea,18,15,1279,2,0,4,0,13,80,10,2022-2023,premier-league
+mateo joseph,"FW,MF",Leeds United,3,0,26,0,0,0,0,0,0,2,2022-2023,premier-league
+diogo jota,FW,Liverpool,22,12,1131,7,4,2,0,34,30,104,2022-2023,premier-league
+hamed junior traorè,"FW,MF",Bournemouth,7,5,427,0,0,0,0,19,26,21,2022-2023,premier-league
+james justin,DF,Leicester City,14,14,1252,0,0,0,0,20,47,50,2022-2023,premier-league
+mathias jørgensen,DF,Brentford,18,11,1103,0,0,2,0,1,35,1,2022-2023,premier-league
+sasa kalajdzic,FW,Wolves,1,1,45,0,0,0,0,0,0,1,2022-2023,premier-league
+boubacar kamara,MF,Aston Villa,24,21,1777,0,1,4,0,16,84,8,2022-2023,premier-league
+harry kane,FW,Tottenham,38,38,3405,30,3,6,0,60,180,193,2022-2023,premier-league
+n'golo kanté,MF,Chelsea,7,6,518,0,1,1,0,19,34,36,2022-2023,premier-league
+michael keane,DF,Everton,12,10,985,1,2,0,0,2,31,4,2022-2023,premier-league
+neeskens kebano,FW,Fulham,17,9,764,0,3,0,0,39,24,68,2022-2023,premier-league
+thilo kehrer,DF,West Ham,27,25,2230,0,2,4,0,15,60,29,2022-2023,premier-league
+naby keïta,MF,Liverpool,8,3,293,0,0,1,0,5,15,21,2022-2023,premier-league
+caoimhín kelleher,GK,Liverpool,1,1,90,0,0,0,0,0,0,0,2022-2023,premier-league
+lloyd kelly,DF,Bournemouth,23,23,2040,0,2,3,0,14,47,10,2022-2023,premier-league
+max kilman,DF,Wolves,37,37,3307,0,0,3,0,30,127,5,2022-2023,premier-league
+jakub kiwior,DF,Arsenal,7,5,427,1,0,0,0,0,6,6,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+mateusz klich,"MF,FW",Leeds United,14,0,280,0,0,2,0,5,16,21,2022-2023,premier-league
+robin koch,DF,Leeds United,36,36,3175,0,0,7,0,11,114,11,2022-2023,premier-league
+ibrahima konaté,DF,Liverpool,18,17,1552,0,0,5,0,7,56,5,2022-2023,premier-league
+ezri konsa,DF,Aston Villa,38,37,3322,0,0,6,0,7,56,11,2022-2023,premier-league
+kalidou koulibaly,DF,Chelsea,23,20,1800,2,1,7,1,10,81,4,2022-2023,premier-league
+cheikhou kouyaté,MF,Nott'ham Forest,21,10,882,1,0,3,0,7,19,14,2022-2023,premier-league
+mateo kovačić,MF,Chelsea,27,17,1707,1,2,8,0,37,153,30,2022-2023,premier-league
+emil krafth,DF,Newcastle Utd,1,0,1,0,0,0,0,0,0,0,2022-2023,premier-league
+rasmus kristensen,DF,Leeds United,26,21,1960,3,1,4,0,15,89,70,2022-2023,premier-league
+dejan kulusevski,"MF,FW",Tottenham,30,23,2067,2,7,2,0,87,67,195,2022-2023,premier-league
+layvin kurzawa,DF,Fulham,3,2,135,0,0,1,0,1,2,2,2022-2023,premier-league
+adam lallana,"MF,FW",Brighton,16,12,722,2,1,0,0,10,33,43,2022-2023,premier-league
+tariq lamptey,DF,Brighton,20,3,453,0,0,1,0,28,26,58,2022-2023,premier-league
+manuel lanzini,"MF,FW",West Ham,10,2,252,1,0,0,0,2,19,6,2022-2023,premier-league
+aymeric laporte,DF,Manchester City,12,11,993,0,0,0,0,30,85,11,2022-2023,premier-league
+juan larios,DF,Southampton,5,2,152,0,0,0,0,10,4,1,2022-2023,premier-league
+jamaal lascelles,DF,Newcastle Utd,7,2,218,0,0,4,0,0,3,0,2022-2023,premier-league
+roméo lavia,MF,Southampton,29,26,2221,1,0,9,0,22,102,14,2022-2023,premier-league
+dexter lembikisa,DF,Wolves,1,0,23,0,0,0,0,2,3,3,2022-2023,premier-league
+mario lemina,MF,Wolves,19,17,1299,0,1,4,1,6,42,9,2022-2023,premier-league
+clément lenglet,DF,Tottenham,26,24,2019,0,2,4,0,33,85,7,2022-2023,premier-league
+bernd leno,GK,Fulham,36,36,3240,0,0,3,0,0,0,0,2022-2023,premier-league
+jefferson lerma,MF,Bournemouth,37,37,3252,5,0,7,0,22,142,30,2022-2023,premier-league
+jamal lewis,"DF,FW",Newcastle Utd,2,0,11,0,0,0,0,0,1,1,2022-2023,premier-league
+rico lewis,"DF,MF",Manchester City,14,10,903,0,0,1,0,22,48,26,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+keane lewis-potter,"FW,MF",Brentford,10,3,321,0,1,0,0,8,6,39,2022-2023,premier-league
+victor lindelöf,DF,Manchester Utd,20,14,1365,0,0,1,0,3,36,1,2022-2023,premier-league
+jesse lingard,"FW,MF",Nott'ham Forest,17,12,923,0,0,1,0,11,33,38,2022-2023,premier-league
+valentino livramento,"DF,FW",Southampton,2,0,28,0,0,0,0,0,0,0,2022-2023,premier-league
+diego llorente,DF,Leeds United,8,7,649,0,0,1,0,2,27,1,2022-2023,premier-league
+hugo lloris,GK,Tottenham,25,25,2205,0,0,0,0,0,0,0,2022-2023,premier-league
+renan lodi,DF,Nott'ham Forest,28,26,2214,0,1,7,0,24,31,70,2022-2023,premier-league
+ruben loftus-cheek,"MF,DF",Chelsea,25,19,1536,0,1,1,0,56,90,86,2022-2023,premier-league
+sean longstaff,MF,Newcastle Utd,33,28,2518,1,4,2,0,21,116,115,2022-2023,premier-league
+jamal lowe,"MF,FW",Bournemouth,2,0,12,0,0,0,0,0,1,0,2022-2023,premier-league
+douglas luiz,MF,Aston Villa,37,33,2927,6,6,6,1,48,148,35,2022-2023,premier-league
+saša lukić,MF,Fulham,12,4,412,0,0,1,0,8,13,5,2022-2023,premier-league
+lyanco,DF,Southampton,21,11,1180,1,1,4,0,13,35,4,2022-2023,premier-league
+alexis mac allister,MF,Brighton,35,31,2886,10,2,8,0,69,174,77,2022-2023,premier-league
+james maddison,"MF,FW",Leicester City,30,28,2480,10,9,10,0,77,151,155,2022-2023,premier-league
+noni madueke,FW,Chelsea,12,7,643,1,0,0,0,48,36,100,2022-2023,premier-league
+gabriel magalhães,DF,Arsenal,38,38,3409,3,0,5,0,18,153,16,2022-2023,premier-league
+harry maguire,DF,Manchester Utd,16,8,767,0,0,4,0,8,26,4,2022-2023,premier-league
+riyad mahrez,"FW,MF",Manchester City,30,22,1920,5,10,2,0,78,76,242,2022-2023,premier-league
+kobbie mainoo,MF,Manchester Utd,1,0,11,0,0,0,0,2,1,1,2022-2023,premier-league
+ainsley maitland-niles,"DF,MF",Southampton,22,13,1407,0,0,3,0,15,57,35,2022-2023,premier-league
+tyrell malacia,DF,Manchester Utd,22,14,1396,0,0,6,0,19,44,33,2022-2023,premier-league
+orel mangala,MF,Nott'ham Forest,27,20,1550,1,1,3,0,14,43,8,2022-2023,premier-league
+javier manquillo,DF,Newcastle Utd,4,0,37,0,0,0,0,2,4,1,2022-2023,premier-league
+sekou mara,"FW,MF",Southampton,22,4,555,1,2,1,0,7,7,27,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+solly march,"FW,DF",Brighton,33,31,2715,7,7,2,0,110,135,357,2022-2023,premier-league
+emiliano marcondes,MF,Bournemouth,1,0,9,0,0,0,0,0,1,0,2022-2023,premier-league
+marquinhos,MF,Arsenal,1,0,1,0,0,0,0,0,0,0,2022-2023,premier-league
+anthony martial,FW,Manchester Utd,21,11,978,6,2,0,0,18,35,87,2022-2023,premier-league
+gabriel martinelli,FW,Arsenal,36,34,2789,15,5,3,0,124,94,350,2022-2023,premier-league
+emiliano martínez,GK,Aston Villa,36,36,3139,0,0,7,0,0,0,0,2022-2023,premier-league
+lisandro martínez,DF,Manchester Utd,27,24,2114,1,0,6,0,12,83,2,2022-2023,premier-league
+pape matar sarr,"MF,FW",Tottenham,11,2,218,0,1,1,0,1,13,0,2022-2023,premier-league
+jean-philippe mateta,FW,Crystal Palace,29,6,770,2,0,3,0,9,6,43,2022-2023,premier-league
+joël matip,DF,Liverpool,14,12,1092,1,0,3,0,28,59,2,2022-2023,premier-league
+neal maupay,FW,Everton,27,11,1118,1,0,4,0,8,11,61,2022-2023,premier-league
+kevin mbabu,"DF,FW",Fulham,6,1,144,0,1,1,0,4,8,11,2022-2023,premier-league
+bryan mbeumo,FW,Brentford,38,36,2906,9,8,5,0,66,88,235,2022-2023,premier-league
+james mcarthur,MF,Crystal Palace,4,0,54,0,0,0,0,0,1,0,2022-2023,premier-league
+alex mccarthy,GK,Southampton,6,6,540,0,0,0,0,0,0,0,2022-2023,premier-league
+john mcginn,"MF,FW",Aston Villa,34,30,2693,1,3,7,0,34,140,66,2022-2023,premier-league
+scott mckenna,DF,Nott'ham Forest,20,19,1571,0,0,4,0,5,35,2,2022-2023,premier-league
+weston mckennie,MF,Leeds United,19,16,1437,0,1,7,0,14,82,33,2022-2023,premier-league
+dwight mcneil,"FW,MF",Everton,36,28,2498,7,3,5,0,76,69,128,2022-2023,premier-league
+scott mctominay,MF,Manchester Utd,24,10,1160,1,0,8,0,20,33,19,2022-2023,premier-league
+ben mee,DF,Brentford,37,37,3269,3,1,2,0,8,84,14,2022-2023,premier-league
+edouard mendy,GK,Chelsea,10,9,855,0,0,1,0,0,0,0,2022-2023,premier-league
+nampalys mendy,MF,Leicester City,19,7,757,1,0,1,0,2,28,4,2022-2023,premier-league
+chris mepham,DF,Bournemouth,26,24,2199,0,0,7,0,2,42,1,2022-2023,premier-league
+illan meslier,GK,Leeds United,34,34,3060,0,0,3,0,0,0,0,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+alex mighten,FW,Nott'ham Forest,1,0,8,0,0,0,0,0,0,1,2022-2023,premier-league
+lewis miley,MF,Newcastle Utd,1,0,15,0,0,0,0,0,0,0,2022-2023,premier-league
+luka milivojević,MF,Crystal Palace,18,5,512,0,0,2,0,2,20,2,2022-2023,premier-league
+james milner,"MF,DF",Liverpool,31,7,913,0,1,2,0,21,70,78,2022-2023,premier-league
+yerry mina,DF,Everton,7,7,594,2,0,2,0,1,13,3,2022-2023,premier-league
+tyrone mings,DF,Aston Villa,35,35,3150,1,2,7,0,20,111,7,2022-2023,premier-league
+tyrick mitchell,DF,Crystal Palace,36,34,2891,0,2,5,1,23,106,90,2022-2023,premier-league
+kaoru mitoma,"FW,MF",Brighton,33,24,2318,7,5,0,0,143,90,260,2022-2023,premier-league
+aleksandar mitrović,FW,Fulham,24,23,2008,14,1,7,0,24,44,97,2022-2023,premier-league
+kieffer moore,FW,Bournemouth,27,12,1279,4,0,1,0,10,23,56,2022-2023,premier-league
+andrew moran,FW,Brighton,1,0,12,0,0,0,0,0,0,1,2022-2023,premier-league
+álex moreno,DF,Aston Villa,19,14,1329,0,3,3,0,65,37,122,2022-2023,premier-league
+mason mount,"MF,FW",Chelsea,24,20,1648,3,2,4,0,48,98,114,2022-2023,premier-league
+lucas moura,"MF,DF",Tottenham,15,0,153,1,0,0,1,4,13,15,2022-2023,premier-league
+joão moutinho,MF,Wolves,31,20,1780,0,2,3,0,23,132,32,2022-2023,premier-league
+divin mubama,FW,West Ham,3,0,38,0,0,0,0,0,0,1,2022-2023,premier-league
+mykhailo mudryk,"FW,MF",Chelsea,15,7,657,0,2,1,0,25,20,43,2022-2023,premier-league
+jacob murphy,FW,Newcastle Utd,36,14,1251,4,2,0,0,67,57,141,2022-2023,premier-league
+enock mwepu,"FW,MF",Brighton,6,2,213,0,1,0,0,5,6,17,2022-2023,premier-league
+vitaliy mykolenko,DF,Everton,34,30,2655,0,0,4,0,31,100,72,2022-2023,premier-league
+keylor navas,GK,Nott'ham Forest,17,17,1529,0,0,2,0,0,1,0,2022-2023,premier-league
+wilfred ndidi,MF,Leicester City,27,19,1679,0,0,4,0,11,51,7,2022-2023,premier-league
+reiss nelson,FW,Arsenal,11,0,212,3,2,0,0,19,6,34,2022-2023,premier-league
+neto,GK,Bournemouth,27,27,2385,0,0,4,0,0,0,0,2022-2023,premier-league
+pedro neto,"FW,MF",Wolves,18,13,964,0,0,1,0,37,24,111,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+rúben neves,MF,Wolves,35,33,3019,6,1,12,0,28,218,18,2022-2023,premier-league
+moussa niakhate,DF,Nott'ham Forest,14,14,1163,0,0,1,0,2,15,3,2022-2023,premier-league
+eddie nketiah,FW,Arsenal,30,9,1089,4,1,3,0,32,15,82,2022-2023,premier-league
+matheus nunes,MF,Wolves,34,30,2467,1,1,2,1,59,84,129,2022-2023,premier-league
+darwin núñez,FW,Liverpool,29,19,1695,9,3,1,1,61,29,181,2022-2023,premier-league
+ethan nwaneri,FW,Arsenal,1,0,1,0,0,0,0,0,0,0,2022-2023,premier-league
+christian nørgaard,MF,Brentford,22,21,1763,1,3,6,0,4,73,8,2022-2023,premier-league
+lewis o'brien,MF,Nott'ham Forest,13,6,584,1,0,2,0,13,21,3,2022-2023,premier-league
+odeluga offiah,DF,Brighton,2,0,25,0,0,0,0,1,1,1,2022-2023,premier-league
+angelo ogbonna,DF,West Ham,16,13,1237,0,0,0,0,0,11,2,2022-2023,premier-league
+michael olise,"FW,MF",Crystal Palace,37,31,2749,2,11,2,0,111,133,243,2022-2023,premier-league
+robin olsen,GK,Aston Villa,4,2,281,0,0,0,0,0,0,0,2022-2023,premier-league
+amadou onana,MF,Everton,33,29,2488,1,2,9,0,27,79,49,2022-2023,premier-league
+josh onomah,MF,Fulham,2,0,15,0,0,0,0,1,0,0,2022-2023,premier-league
+paul onuachu,FW,Southampton,11,4,407,0,0,0,0,1,7,22,2022-2023,premier-league
+frank onyeka,MF,Brentford,21,8,848,0,2,0,0,9,28,21,2022-2023,premier-league
+mislav oršić,MF,Southampton,1,0,7,0,0,0,0,0,0,0,2022-2023,premier-league
+stefan ortega,GK,Manchester City,3,3,270,0,0,0,0,0,0,0,2022-2023,premier-league
+dango ouattara,"MF,FW",Bournemouth,19,15,1241,1,3,1,0,39,23,87,2022-2023,premier-league
+alex oxlade-chamberlain,"FW,MF",Liverpool,9,4,335,1,0,0,0,11,14,28,2022-2023,premier-league
+david ozoh,FW,Crystal Palace,1,0,1,0,0,0,0,0,0,0,2022-2023,premier-league
+joão palhinha,MF,Fulham,35,35,3108,3,0,14,0,8,101,18,2022-2023,premier-league
+cole palmer,"MF,FW",Manchester City,14,2,370,0,1,1,0,29,13,40,2022-2023,premier-league
+emerson palmieri,DF,West Ham,22,16,1320,1,0,2,0,39,45,57,2022-2023,premier-league
+lucas paquetá,MF,West Ham,28,27,2151,4,3,5,0,25,147,63,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+thomas partey,MF,Arsenal,33,28,2483,3,0,5,0,34,231,35,2022-2023,premier-league
+nathan patterson,"DF,MF",Everton,19,14,1279,0,0,3,0,16,24,51,2022-2023,premier-league
+ben pearson,MF,Bournemouth,7,3,286,0,0,1,0,2,5,4,2022-2023,premier-league
+facundo pellistri,"FW,MF",Manchester Utd,4,0,64,0,0,0,0,1,1,2,2022-2023,premier-league
+andreas pereira,MF,Fulham,33,33,2692,4,6,8,0,53,121,133,2022-2023,premier-league
+ricardo pereira,"DF,MF",Leicester City,10,5,454,1,1,2,0,5,27,14,2022-2023,premier-league
+ayoze pérez,"MF,FW",Leicester City,8,3,382,0,1,0,0,17,20,43,2022-2023,premier-league
+ivan perišić,"DF,MF",Tottenham,34,23,2108,1,8,6,0,87,61,181,2022-2023,premier-league
+romain perraud,DF,Southampton,29,22,1835,2,2,4,0,33,62,122,2022-2023,premier-league
+máximo perrone,MF,Manchester City,1,0,19,0,0,0,0,0,2,1,2022-2023,premier-league
+cameron peupion,MF,Brighton,1,0,6,0,0,0,0,0,0,2,2022-2023,premier-league
+kalvin phillips,MF,Manchester City,12,2,300,0,0,1,0,1,18,2,2022-2023,premier-league
+nathaniel phillips,DF,Liverpool,2,1,66,0,0,0,0,0,9,0,2022-2023,premier-league
+jordan pickford,GK,Everton,37,37,3330,0,1,6,0,0,2,0,2022-2023,premier-league
+ethan pinnock,DF,Brentford,30,30,2700,3,0,0,0,2,52,16,2022-2023,premier-league
+daniel podence,"FW,MF",Wolves,32,20,1771,6,0,5,0,43,95,148,2022-2023,premier-league
+nick pope,GK,Newcastle Utd,37,37,3261,0,0,3,1,0,1,0,2022-2023,premier-league
+pedro porro,"DF,MF",Tottenham,15,13,1131,3,3,0,0,34,39,95,2022-2023,premier-league
+dennis praet,"MF,FW",Leicester City,22,6,649,1,0,1,0,15,17,42,2022-2023,premier-league
+isaac price,MF,Everton,1,0,33,0,0,1,0,1,1,0,2022-2023,premier-league
+christian pulisic,"FW,DF",Chelsea,24,8,821,1,1,1,0,35,23,76,2022-2023,premier-league
+aaron ramsdale,GK,Arsenal,38,38,3420,0,0,1,0,0,8,0,2022-2023,premier-league
+jacob ramsey,"MF,FW",Aston Villa,35,31,2636,6,7,5,0,94,98,119,2022-2023,premier-league
+marcus rashford,FW,Manchester Utd,35,32,2879,17,5,2,0,85,88,245,2022-2023,premier-league
+david raya,GK,Brentford,38,38,3420,0,0,1,0,0,13,0,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+tim ream,DF,Fulham,33,33,2897,1,0,2,0,28,142,2,2022-2023,premier-league
+nathan redmond,DF,Southampton,1,0,1,0,0,0,0,0,0,1,2022-2023,premier-league
+harrison reed,MF,Fulham,37,35,2866,3,4,5,0,30,102,107,2022-2023,premier-league
+declan rice,MF,West Ham,37,36,3273,4,1,5,0,89,240,37,2022-2023,premier-league
+chris richards,DF,Crystal Palace,9,4,447,0,0,0,0,4,14,3,2022-2023,premier-league
+richarlison,"MF,FW",Tottenham,27,12,1010,1,3,3,0,33,28,75,2022-2023,premier-league
+jaïro riedewald,"DF,MF",Crystal Palace,6,0,64,0,0,0,0,1,1,1,2022-2023,premier-league
+matt ritchie,"FW,MF",Newcastle Utd,7,0,39,0,0,0,0,1,1,9,2022-2023,premier-league
+andrew robertson,DF,Liverpool,34,29,2583,0,8,3,0,80,166,194,2022-2023,premier-league
+antonee robinson,DF,Fulham,35,35,3088,0,1,8,0,113,129,153,2022-2023,premier-league
+joel robles,GK,Leeds United,4,4,360,0,0,1,0,0,0,0,2022-2023,premier-league
+marc roca,MF,Leeds United,32,29,2315,1,2,7,0,25,172,28,2022-2023,premier-league
+marek rodák,GK,Fulham,2,2,180,0,0,0,0,0,0,0,2022-2023,premier-league
+rodri,MF,Manchester City,36,34,2911,2,6,5,0,76,260,37,2022-2023,premier-league
+rodrigo,"FW,MF",Leeds United,31,23,1935,13,1,6,0,40,44,143,2022-2023,premier-league
+mads roerslev,DF,Brentford,20,12,1108,0,0,0,0,8,19,36,2022-2023,premier-league
+cristian romero,DF,Tottenham,27,26,2364,0,1,11,1,19,92,9,2022-2023,premier-league
+oriol romeu,MF,Southampton,1,1,74,0,0,0,0,2,4,0,2022-2023,premier-league
+cristiano ronaldo,FW,Manchester Utd,10,4,525,1,0,2,0,9,12,33,2022-2023,premier-league
+connor ronan,MF,Wolves,1,0,1,0,0,0,0,0,0,1,2022-2023,premier-league
+salomón rondón,FW,Everton,7,1,109,0,0,0,0,0,1,7,2022-2023,premier-league
+joe rothwell,MF,Bournemouth,20,12,1016,0,1,1,0,12,33,12,2022-2023,premier-league
+georginio rutter,"FW,MF",Leeds United,11,1,273,0,1,0,0,5,6,21,2022-2023,premier-league
+josé sá,GK,Wolves,36,36,3240,0,0,2,0,0,0,0,2022-2023,premier-league
+marcel sabitzer,MF,Manchester Utd,11,7,627,0,1,1,0,8,38,26,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+allan saint-maximin,FW,Newcastle Utd,25,12,1120,1,5,1,0,93,69,111,2022-2023,premier-league
+bukayo saka,FW,Arsenal,38,37,3181,14,11,6,0,179,109,520,2022-2023,premier-league
+mohamed salah,FW,Liverpool,38,37,3290,19,12,2,0,120,149,421,2022-2023,premier-league
+william saliba,DF,Arsenal,27,27,2415,2,1,4,0,13,99,2,2022-2023,premier-league
+mohammed salisu,DF,Southampton,22,21,1973,0,1,5,0,5,82,4,2022-2023,premier-league
+albert sambi lokonga,MF,Arsenal,6,2,198,0,0,0,0,0,12,2,2022-2023,premier-league
+albert sambi lokonga,MF,Crystal Palace,9,6,536,0,0,2,0,2,20,2,2022-2023,premier-league
+davinson sánchez,DF,Tottenham,18,8,858,0,0,1,0,5,35,4,2022-2023,premier-league
+robert sánchez,GK,Brighton,23,23,2070,0,0,2,0,0,0,0,2022-2023,premier-league
+jadon sancho,"FW,MF",Manchester Utd,26,21,1686,6,3,0,0,88,76,173,2022-2023,premier-league
+morgan sanson,MF,Aston Villa,2,0,11,0,0,0,0,0,1,0,2022-2023,premier-league
+pablo sarabia,"FW,MF",Wolves,13,9,765,1,0,3,0,17,41,54,2022-2023,premier-league
+jeremy sarmiento,MF,Brighton,9,1,176,0,1,1,0,5,11,20,2022-2023,premier-league
+gianluca scamacca,FW,West Ham,16,11,926,3,0,3,0,13,17,48,2022-2023,premier-league
+gustavo scarpa,"MF,FW",Nott'ham Forest,6,2,181,0,0,1,0,9,12,4,2022-2023,premier-league
+kevin schade,FW,Brentford,18,7,732,0,1,2,0,24,15,57,2022-2023,premier-league
+fabian schär,DF,Newcastle Utd,36,36,3206,1,3,7,0,27,139,32,2022-2023,premier-league
+jeffrey schlupp,"MF,FW",Crystal Palace,34,30,2531,3,1,7,0,32,98,67,2022-2023,premier-league
+nélson semedo,DF,Wolves,36,31,2632,0,1,11,1,50,110,147,2022-2023,premier-league
+antoine semenyo,"FW,MF",Bournemouth,11,2,258,1,0,0,0,5,5,11,2022-2023,premier-league
+marcos senesi,DF,Bournemouth,31,29,2491,2,0,7,0,9,66,3,2022-2023,premier-league
+ryan sessegnon,DF,Tottenham,17,9,813,2,0,4,0,24,22,64,2022-2023,premier-league
+luke shaw,DF,Manchester Utd,31,30,2552,1,2,8,0,53,140,76,2022-2023,premier-league
+jonjo shelvey,MF,Newcastle Utd,3,0,37,0,0,0,0,0,3,0,2022-2023,premier-league
+jonjo shelvey,MF,Nott'ham Forest,8,6,540,0,0,2,0,1,34,0,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+bernardo silva,"MF,FW",Manchester City,34,24,2205,4,5,5,0,90,130,188,2022-2023,premier-league
+thiago silva,DF,Chelsea,27,26,2352,0,2,2,0,8,104,2,2022-2023,premier-league
+ellis simms,FW,Everton,11,2,228,1,0,0,0,2,4,19,2022-2023,premier-league
+luis sinisterra,FW,Leeds United,19,13,867,5,0,3,1,30,39,84,2022-2023,premier-league
+oliver skipp,MF,Tottenham,23,18,1491,1,0,7,0,14,56,25,2022-2023,premier-league
+adam smith,DF,Bournemouth,37,34,2943,0,1,11,0,28,83,54,2022-2023,premier-league
+emile smith rowe,"MF,FW",Arsenal,12,0,172,0,2,0,0,2,7,11,2022-2023,premier-league
+cédric soares,DF,Arsenal,2,0,29,0,0,0,0,1,3,0,2022-2023,premier-league
+cédric soares,DF,Fulham,6,2,198,0,0,0,0,4,12,12,2022-2023,premier-league
+dominic solanke,"FW,MF",Bournemouth,33,32,2860,6,7,2,0,70,47,167,2022-2023,premier-league
+manor solomon,FW,Fulham,19,4,572,4,0,0,0,16,24,51,2022-2023,premier-league
+tomáš souček,MF,West Ham,36,32,2815,2,3,3,0,11,88,52,2022-2023,premier-league
+boubakary soumaré,MF,Leicester City,26,20,1629,0,0,9,0,17,73,20,2022-2023,premier-league
+harry souttar,DF,Leicester City,12,11,992,0,1,2,0,6,29,4,2022-2023,premier-league
+çağlar söyüncü,DF,Leicester City,7,6,529,1,0,2,0,5,12,0,2022-2023,premier-league
+djed spence,"FW,DF",Tottenham,4,0,7,0,0,0,0,2,0,2,2022-2023,premier-league
+jack stacey,DF,Bournemouth,10,3,299,0,0,2,0,9,2,15,2022-2023,premier-league
+junior stanislas,MF,Bournemouth,4,0,61,0,0,0,0,0,4,5,2022-2023,premier-league
+jay stansfield,FW,Fulham,3,1,87,0,0,0,0,2,0,4,2022-2023,premier-league
+jason steele,GK,Brighton,15,15,1350,0,1,1,0,0,0,0,2022-2023,premier-league
+jack stephens,DF,Southampton,2,0,46,0,0,0,0,3,3,0,2022-2023,premier-league
+jack stephens,DF,Bournemouth,15,13,1173,0,0,3,0,7,34,3,2022-2023,premier-league
+raheem sterling,"FW,MF",Chelsea,28,23,1891,6,3,4,0,81,59,186,2022-2023,premier-league
+john stones,"DF,MF",Manchester City,23,21,1846,2,2,2,0,28,101,34,2022-2023,premier-league
+pascal struijk,DF,Leeds United,29,26,2200,2,1,5,0,24,119,53,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+kamaldeen sulemana,"FW,MF",Southampton,18,10,966,2,1,1,0,32,36,80,2022-2023,premier-league
+crysencio summerville,FW,Leeds United,28,12,1426,4,2,4,0,51,45,92,2022-2023,premier-league
+sam surridge,FW,Nott'ham Forest,20,1,323,1,0,2,0,2,6,17,2022-2023,premier-league
+japhet tanganga,DF,Tottenham,4,2,146,0,0,0,0,1,5,2,2022-2023,premier-league
+matt targett,DF,Newcastle Utd,17,6,610,0,0,1,0,3,43,13,2022-2023,premier-league
+james tarkowski,DF,Everton,38,38,3420,1,1,6,0,13,106,11,2022-2023,premier-league
+marcus tavernier,"MF,FW",Bournemouth,23,19,1743,5,4,1,0,67,56,137,2022-2023,premier-league
+tetê,FW,Leicester City,13,9,734,1,0,0,0,22,26,55,2022-2023,premier-league
+kenny tete,DF,Fulham,31,29,2569,1,5,8,0,75,103,69,2022-2023,premier-league
+luke thomas,DF,Leicester City,17,11,1073,0,0,3,0,10,48,13,2022-2023,premier-league
+youri tielemans,MF,Leicester City,31,27,2344,3,2,4,0,35,181,56,2022-2023,premier-league
+kieran tierney,DF,Arsenal,27,6,795,0,1,0,0,25,36,31,2022-2023,premier-league
+harry toffolo,DF,Nott'ham Forest,19,9,940,0,0,2,0,8,29,43,2022-2023,premier-league
+takehiro tomiyasu,DF,Arsenal,21,6,663,0,1,2,0,14,51,28,2022-2023,premier-league
+james tomkins,DF,Crystal Palace,6,3,338,1,0,3,1,1,2,1,2022-2023,premier-league
+ivan toney,FW,Brentford,33,33,2951,20,4,9,0,14,79,165,2022-2023,premier-league
+adama traoré,"FW,MF",Wolves,34,12,1496,2,1,2,0,85,36,157,2022-2023,premier-league
+bertrand traoré,"FW,MF",Aston Villa,8,1,233,2,0,1,0,9,9,28,2022-2023,premier-league
+boubacar traoré,MF,Wolves,10,4,411,0,1,2,0,4,8,2,2022-2023,premier-league
+mark travers,GK,Bournemouth,12,11,1035,0,0,0,0,0,0,0,2022-2023,premier-league
+kieran trippier,DF,Newcastle Utd,38,38,3341,1,7,5,0,45,260,151,2022-2023,premier-league
+leandro trossard,FW,Arsenal,20,10,931,1,10,0,0,36,57,102,2022-2023,premier-league
+leandro trossard,"FW,MF",Brighton,16,16,1315,7,2,1,0,40,67,118,2022-2023,premier-league
+kostas tsimikas,DF,Liverpool,20,9,771,0,4,3,0,23,26,77,2022-2023,premier-league
+deniz undav,"FW,MF",Brighton,22,6,628,5,0,2,0,12,10,40,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+yan valery,DF,Southampton,1,1,45,0,0,0,0,0,0,0,2022-2023,premier-league
+virgil van dijk,DF,Liverpool,32,32,2835,3,1,3,0,10,127,8,2022-2023,premier-league
+raphaël varane,DF,Manchester Utd,24,22,1911,0,0,1,0,17,63,4,2022-2023,premier-league
+jamie vardy,FW,Leicester City,37,19,1857,3,4,1,0,16,14,101,2022-2023,premier-league
+joël veltman,DF,Brighton,31,25,2188,1,1,6,0,43,153,49,2022-2023,premier-league
+fabio vieira,"MF,FW",Arsenal,22,3,514,1,2,0,0,8,35,40,2022-2023,premier-league
+matías viña,DF,Bournemouth,12,5,458,2,0,1,0,10,17,19,2022-2023,premier-league
+rúben vinagre,"DF,MF",Everton,2,0,26,0,0,0,0,2,0,1,2022-2023,premier-league
+carlos vinícius,FW,Fulham,28,11,1109,5,2,3,0,9,15,46,2022-2023,premier-league
+theo walcott,"FW,MF",Southampton,20,13,1129,2,2,1,0,21,14,62,2022-2023,premier-league
+kyle walker,DF,Manchester City,27,22,1958,0,0,3,0,50,162,75,2022-2023,premier-league
+kyle walker-peters,DF,Southampton,31,30,2650,1,0,4,0,102,97,114,2022-2023,premier-league
+aaron wan-bissaka,DF,Manchester Utd,19,16,1435,0,0,2,0,41,55,64,2022-2023,premier-league
+danny ward,GK,Leicester City,26,26,2340,0,0,0,0,0,0,0,2022-2023,premier-league
+joel ward,DF,Crystal Palace,28,24,2256,1,0,6,0,22,101,46,2022-2023,premier-league
+james ward-prowse,MF,Southampton,38,38,3371,9,4,6,0,19,189,58,2022-2023,premier-league
+ollie watkins,FW,Aston Villa,37,36,3127,15,6,4,0,50,39,196,2022-2023,premier-league
+adam webster,DF,Brighton,27,23,1985,0,0,2,0,19,119,9,2022-2023,premier-league
+wout weghorst,"FW,MF",Manchester Utd,17,10,797,0,1,1,0,3,17,41,2022-2023,premier-league
+danny welbeck,FW,Brighton,31,21,1854,6,3,0,0,31,49,134,2022-2023,premier-league
+ben white,DF,Arsenal,38,36,3055,2,5,5,0,64,249,124,2022-2023,premier-league
+harvey white,MF,Tottenham,1,0,5,0,0,0,0,0,0,1,2022-2023,premier-league
+joseph whitworth,GK,Crystal Palace,2,2,180,0,0,0,0,0,0,0,2022-2023,premier-league
+neco williams,DF,Nott'ham Forest,31,20,1882,1,0,7,0,51,33,67,2022-2023,premier-league
+willian,FW,Fulham,27,25,2126,5,5,2,0,97,113,152,2022-2023,premier-league
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,premier-league
+joe willock,MF,Newcastle Utd,35,31,2558,3,6,1,0,97,121,152,2022-2023,premier-league
+callum wilson,FW,Newcastle Utd,31,21,1877,18,5,4,0,27,19,118,2022-2023,premier-league
+harry wilson,FW,Fulham,29,13,1100,2,3,1,0,18,37,87,2022-2023,premier-league
+yoane wissa,FW,Brentford,38,16,1606,7,3,3,0,24,27,104,2022-2023,premier-league
+maximilian wöber,DF,Leeds United,16,14,1266,0,0,3,0,15,54,15,2022-2023,premier-league
+chris wood,FW,Newcastle Utd,18,4,446,2,0,0,0,1,4,23,2022-2023,premier-league
+chris wood,FW,Nott'ham Forest,7,5,372,1,0,0,0,2,7,12,2022-2023,premier-league
+joe worrall,DF,Nott'ham Forest,30,21,2224,1,0,6,0,5,67,1,2022-2023,premier-league
+granit xhaka,MF,Arsenal,37,36,2993,7,7,4,0,42,196,175,2022-2023,premier-league
+ryan yates,MF,Nott'ham Forest,26,21,1837,0,2,5,0,11,43,27,2022-2023,premier-league
+ashley young,DF,Aston Villa,29,23,2036,1,0,7,0,29,107,33,2022-2023,premier-league
+illia zabarnyi,DF,Bournemouth,5,3,299,0,0,0,0,1,11,0,2022-2023,premier-league
+wilfried zaha,"FW,MF",Crystal Palace,27,27,2288,7,2,5,0,86,75,238,2022-2023,premier-league
+denis zakaria,MF,Chelsea,7,5,411,0,0,0,0,9,6,3,2022-2023,premier-league
+jordan zemura,DF,Bournemouth,19,17,1454,0,1,1,0,39,45,48,2022-2023,premier-league
+oleksandr zinchenko,DF,Arsenal,27,26,2118,1,2,3,0,67,227,68,2022-2023,premier-league
+hakim ziyech,"FW,MF",Chelsea,18,6,661,0,3,1,0,20,42,69,2022-2023,premier-league
+kurt zouma,DF,West Ham,25,24,1989,2,0,0,0,3,31,1,2022-2023,premier-league
+martin ødegaard,MF,Arsenal,37,37,3127,15,7,4,0,83,266,193,2022-2023,premier-league

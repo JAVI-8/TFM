@@ -3,7 +3,7 @@ import os
 from scrape_fbref_defense import build_defense_url, extract_fbref_defensive_table
 from scrape_fbref_multi import get_fbref_tables_from_url, build_fbref_url
 from scrape_understat import get_understat_data
-
+from limpiar_datos import limpiar
 # Definir ligas y temporadas
 ligas = [
     {"name": "Premier League", "slug": "premier-league", "code": 9, "understat": "EPL"},
@@ -49,8 +49,10 @@ for liga in ligas:
         try:
             año_understat = temporada.split("-")[0]
             df_understat = get_understat_data(liga["understat"], año_understat)
-            nombre_archivo_understat = f"data/understat/{liga['slug']}_{año_understat}.csv"
+            nombre_archivo_understat = f"data/understat/{liga['slug']}_{temporada.replace('-', '_')}.csv"
             df_understat.to_csv(nombre_archivo_understat, index=False)
             print(f"Understat guardado correctamente en {nombre_archivo_understat}")
         except Exception as e:
             print(f"Understat error en {liga['name']} {temporada}: {e}")
+
+limpiar()

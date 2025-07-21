@@ -1,0 +1,620 @@
+nombre,Posicion,club_actual,partidos_jugados,titularidades,minutos_jugados,goles,asistencias,amarillas,rojas,carreras_progresivas,pases_progresivos,Pases_progresivos_recibidos,temporada,liga
+abner,DF,Betis,13,7,607,0,0,2,0,8,16,25,2022-2023,laliga
+álvaro aceves,GK,Valladolid,1,0,13,0,0,0,0,0,0,0,2022-2023,laliga
+marcos acuña,DF,Sevilla,30,21,1912,3,2,10,3,49,102,94,2022-2023,laliga
+julen agirrezabala,GK,Athletic Club,8,7,675,0,0,0,0,0,0,0,2022-2023,laliga
+álvaro aguado,MF,Valladolid,34,18,1888,1,2,4,0,29,139,50,2022-2023,laliga
+joseph aidoo,DF,Celta Vigo,35,35,3119,3,0,6,1,15,95,2,2022-2023,laliga
+sergio akieme,DF,Almería,29,27,2297,1,0,5,0,60,58,84,2022-2023,laliga
+babatunde akinsola,FW,Valladolid,1,0,11,0,0,0,0,1,0,3,2022-2023,laliga
+paul akouokou,"MF,DF",Betis,12,3,447,0,0,3,0,1,10,1,2022-2023,laliga
+david alaba,DF,Real Madrid,23,21,1838,1,3,3,0,16,67,60,2022-2023,laliga
+ángel alarcón,"FW,MF",Barcelona,4,0,25,0,0,0,0,0,1,2,2022-2023,laliga
+tomás alarcón,MF,Cádiz,4,2,223,0,0,2,1,2,9,6,2022-2023,laliga
+jordi alba,DF,Barcelona,24,14,1419,2,3,6,1,42,141,157,2022-2023,laliga
+raúl albiol,DF,Villarreal,25,24,2119,0,0,6,0,12,100,3,2022-2023,laliga
+rubén alcaraz,MF,Cádiz,31,22,2043,3,0,11,1,30,105,20,2022-2023,laliga
+omar alderete,DF,Getafe,25,23,2047,1,1,9,0,28,96,8,2022-2023,laliga
+iván alejo,"MF,FW",Cádiz,31,13,1311,0,1,13,1,52,16,103,2022-2023,laliga
+carles aleñá,"MF,FW",Getafe,35,26,2119,2,2,12,1,24,87,78,2022-2023,laliga
+alejandro alfaro,MF,Elche,1,0,15,0,0,0,0,0,0,0,2022-2023,laliga
+ángel algobia,MF,Getafe,26,11,1138,0,0,3,0,10,42,11,2022-2023,laliga
+mohamed ali cho,"FW,MF",Real Sociedad,19,5,587,1,2,1,0,30,8,63,2022-2023,laliga
+domingos andré ribeiro almeida,MF,Valencia,34,29,2539,2,4,3,0,74,197,71,2022-2023,laliga
+marcos alonso,DF,Barcelona,24,11,1172,1,0,3,0,26,71,13,2022-2023,laliga
+carlos álvarez,MF,Sevilla,1,0,10,0,0,1,0,0,0,1,2022-2023,laliga
+gastón álvarez,DF,Getafe,22,16,1501,2,0,7,1,11,38,27,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+yeray álvarez,DF,Athletic Club,28,27,2332,1,1,7,1,32,152,8,2022-2023,laliga
+selim amallah,"MF,FW",Valladolid,7,3,267,2,1,2,1,11,10,9,2022-2023,laliga
+amath,"MF,FW",Mallorca,28,12,1227,2,0,2,1,33,16,69,2022-2023,laliga
+jordan amavi,DF,Getafe,5,1,200,0,0,2,1,4,5,5,2022-2023,laliga
+marcos andré,"FW,MF",Valencia,17,3,447,1,0,2,1,2,7,20,2022-2023,laliga
+fabrizio angileri,DF,Getafe,15,7,585,0,0,2,1,4,16,14,2022-2023,laliga
+josep antoni gayá,"DF,MF",Mallorca,2,1,98,0,0,0,0,0,0,0,2022-2023,laliga
+josé antonio,"MF,DF",Cádiz,2,0,46,0,1,0,0,2,3,2,2022-2023,laliga
+anuar,"MF,FW",Valladolid,3,3,210,1,0,1,0,6,3,4,2022-2023,laliga
+mauro arambarri,MF,Getafe,13,13,992,0,1,5,1,8,33,7,2022-2023,laliga
+ronald araújo,DF,Barcelona,22,21,1800,0,2,5,1,29,79,11,2022-2023,laliga
+adu ares,"FW,MF",Athletic Club,8,0,84,0,0,0,0,8,4,19,2022-2023,laliga
+sergio arribas,"MF,FW",Real Madrid,2,0,19,0,0,0,0,0,2,0,2022-2023,laliga
+roberto arroyo,MF,Valladolid,1,0,15,0,0,0,0,1,0,4,2022-2023,laliga
+ricard artero,"MF,FW",Girona,7,0,133,0,0,0,0,4,3,9,2022-2023,laliga
+santiago arzamendia,"DF,MF",Cádiz,12,5,483,0,0,0,0,8,17,22,2022-2023,laliga
+sergio asenjo,GK,Valladolid,10,10,900,0,0,0,0,0,0,0,2022-2023,laliga
+marco asensio,"FW,MF",Real Madrid,31,15,1442,9,6,1,0,56,70,108,2022-2023,laliga
+iago aspas,FW,Celta Vigo,37,31,2868,12,3,6,0,80,162,239,2022-2023,laliga
+pierre-emerick aubameyang,FW,Barcelona,1,0,9,0,0,0,0,0,0,0,2022-2023,laliga
+ludwig augustinsson,DF,Mallorca,4,1,132,0,0,0,0,0,5,6,2022-2023,laliga
+ezequiel ávila,"FW,MF",Osasuna,29,23,1709,8,2,7,1,23,39,96,2022-2023,laliga
+iddrisu baba,"MF,DF",Mallorca,29,20,1705,0,0,5,0,3,47,8,2022-2023,laliga
+srđan babić,DF,Almería,34,33,2998,3,0,5,0,21,63,5,2022-2023,laliga
+loïc bade,DF,Sevilla,19,16,1449,1,0,4,0,7,42,2,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+édgar badía,GK,Elche,36,36,3240,0,0,2,0,0,0,0,2022-2023,laliga
+alex baena,"MF,FW",Villarreal,35,19,1947,6,2,13,1,50,124,110,2022-2023,laliga
+alejandro balde,DF,Barcelona,33,30,2471,1,6,4,0,95,79,234,2022-2023,laliga
+mikel balenziaga,DF,Athletic Club,3,1,115,0,0,0,0,0,7,6,2022-2023,laliga
+iván balliu,DF,Rayo Vallecano,37,37,3232,0,0,6,0,75,131,147,2022-2023,laliga
+léo baptistão,"FW,MF",Almería,28,24,1726,5,1,7,0,38,51,83,2022-2023,laliga
+keidi bare,MF,Espanyol,18,4,503,0,1,0,0,6,28,11,2022-2023,laliga
+kike barja,"FW,MF",Osasuna,27,15,1312,1,6,1,0,61,35,185,2022-2023,laliga
+ander barrenetxea,"FW,DF",Real Sociedad,23,9,878,3,1,4,0,36,27,72,2022-2023,laliga
+pablo barrios,MF,Atlético Madrid,21,6,724,0,1,4,0,16,51,27,2022-2023,laliga
+rodrigo battaglia,MF,Mallorca,15,8,686,0,0,5,0,3,19,3,2022-2023,laliga
+bebé,FW,Rayo Vallecano,4,0,60,0,0,1,0,5,1,10,2022-2023,laliga
+héctor bellerín,DF,Barcelona,3,1,143,0,0,0,0,2,13,6,2022-2023,laliga
+fran beltrán,MF,Celta Vigo,36,33,2855,0,2,4,0,27,138,33,2022-2023,laliga
+iker benito,"FW,MF",Osasuna,4,2,176,0,0,0,0,9,3,15,2022-2023,laliga
+karim benzema,FW,Real Madrid,24,24,2038,19,3,1,0,72,138,157,2022-2023,laliga
+yuri berchiche,DF,Athletic Club,29,27,2406,1,1,9,1,59,179,95,2022-2023,laliga
+álex berenguer,FW,Athletic Club,37,26,2297,4,1,2,0,73,77,249,2022-2023,laliga
+pedro bigas,DF,Elche,28,25,2020,0,0,4,2,19,83,3,2022-2023,laliga
+el bilal touré,FW,Almería,21,15,1264,7,2,0,0,18,14,51,2022-2023,laliga
+antonio blanco,MF,Cádiz,3,2,158,0,0,0,0,1,2,2,2022-2023,laliga
+lautaro blanco,"DF,MF",Elche,17,9,872,0,2,2,0,41,28,76,2022-2023,laliga
+theo bongonda,"MF,FW",Cádiz,31,24,1938,4,3,2,0,74,39,105,2022-2023,laliga
+yassine bounou,GK,Sevilla,25,25,2151,0,0,2,0,0,1,0,2022-2023,laliga
+lucas boyé,FW,Elche,35,29,2462,7,2,7,1,58,63,160,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+martin braithwaite,"FW,MF",Espanyol,31,29,2456,10,2,5,1,32,54,126,2022-2023,laliga
+darko brašanac,MF,Osasuna,25,9,1041,1,1,5,0,18,49,36,2022-2023,laliga
+claudio bravo,GK,Betis,12,12,1080,0,0,2,0,0,1,0,2022-2023,laliga
+ante budimir,FW,Osasuna,31,22,1798,8,0,5,0,23,23,98,2022-2023,laliga
+manu bueno,MF,Sevilla,2,2,149,0,0,0,0,0,4,1,2022-2023,laliga
+santiago bueno,DF,Girona,34,34,3010,0,1,7,1,30,148,4,2022-2023,laliga
+sergio busquets,MF,Barcelona,30,28,2339,0,4,8,1,26,254,32,2022-2023,laliga
+leandro cabrera,DF,Espanyol,32,31,2669,0,1,10,2,13,95,8,2022-2023,laliga
+cala,DF,Cádiz,3,1,137,0,0,0,0,0,2,0,2022-2023,laliga
+fernando calero,"DF,MF",Espanyol,27,20,1611,0,1,6,0,9,64,4,2022-2023,laliga
+alexander callens,DF,Girona,6,0,120,0,0,1,0,5,6,1,2022-2023,laliga
+eduardo camavinga,"MF,DF",Real Madrid,37,21,2010,0,1,6,0,69,165,99,2022-2023,laliga
+sergio camello,FW,Rayo Vallecano,38,27,2401,6,5,1,0,40,42,122,2022-2023,laliga
+sergio canales,"FW,MF",Betis,31,28,2402,4,3,4,2,82,143,150,2022-2023,laliga
+ander capa,DF,Athletic Club,7,1,109,0,0,1,0,5,12,7,2022-2023,laliga
+étienne capoue,MF,Villarreal,28,22,1955,3,0,4,0,45,98,72,2022-2023,laliga
+isaac carcelen,DF,Cádiz,27,25,2199,0,1,4,3,33,85,62,2022-2023,laliga
+juan carlos,GK,Girona,10,10,900,0,0,0,0,0,0,0,2022-2023,laliga
+josé carlos lazo,"MF,FW",Almería,1,0,20,0,0,0,0,0,0,3,2022-2023,laliga
+josé carlos lazo,"MF,FW",Espanyol,10,0,159,1,1,0,0,2,4,10,2022-2023,laliga
+carmona,"MF,DF",Elche,9,8,589,1,0,5,1,8,10,27,2022-2023,laliga
+carmona,DF,Sevilla,10,5,527,2,1,6,1,9,11,8,2022-2023,laliga
+yannick carrasco,"DF,MF",Atlético Madrid,35,26,2317,7,3,2,0,146,84,264,2022-2023,laliga
+dani carvajal,DF,Real Madrid,27,20,1784,0,2,8,1,22,58,147,2022-2023,laliga
+william carvalho,MF,Betis,33,31,2438,3,1,6,1,46,203,52,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+casemiro,MF,Real Madrid,1,0,8,0,0,0,0,0,0,0,2022-2023,laliga
+valentín castellanos,FW,Girona,35,33,2597,13,0,11,0,30,34,128,2022-2023,laliga
+samu castillejo,"FW,MF",Valencia,25,17,1362,4,0,7,0,54,76,115,2022-2023,laliga
+catena,DF,Rayo Vallecano,35,35,3103,1,1,14,1,8,119,2,2022-2023,laliga
+edinson cavani,FW,Valencia,25,20,1449,5,2,6,0,8,20,53,2022-2023,laliga
+dani ceballos,MF,Real Madrid,30,19,1564,0,4,8,0,60,204,60,2022-2023,laliga
+álex centelles,DF,Almería,15,11,1123,1,2,0,1,17,35,48,2022-2023,laliga
+franco cervi,"MF,DF",Celta Vigo,36,21,1894,0,4,2,1,45,69,113,2022-2023,laliga
+pep chavarría,"FW,MF",Rayo Vallecano,16,2,366,0,2,1,0,13,19,25,2022-2023,laliga
+pape cheikh diop,MF,Elche,2,0,37,0,0,1,1,0,1,0,2022-2023,laliga
+andreas christensen,DF,Barcelona,23,22,1760,1,1,2,0,18,91,5,2022-2023,laliga
+samuel chukwueze,"FW,MF",Villarreal,37,27,2339,6,5,1,0,133,85,261,2022-2023,laliga
+chumi,DF,Almería,21,15,1489,1,0,5,0,13,32,10,2022-2023,laliga
+víctor chust,DF,Cádiz,14,10,965,1,0,3,0,4,22,2,2022-2023,laliga
+pathé ciss,"MF,DF",Rayo Vallecano,32,12,1282,1,0,4,0,10,65,5,2022-2023,laliga
+carlos clerc,"DF,MF",Elche,32,31,2639,0,1,5,0,51,107,91,2022-2023,laliga
+álex collado,MF,Elche,15,8,722,1,1,1,0,24,34,43,2022-2023,laliga
+diego collado,FW,Villarreal,2,0,6,0,0,0,0,0,1,3,2022-2023,laliga
+eray cömert,DF,Valencia,23,19,1672,1,0,5,1,6,54,1,2022-2023,laliga
+santi comesaña,MF,Rayo Vallecano,35,29,2451,3,2,6,0,40,150,58,2022-2023,laliga
+copete,DF,Mallorca,28,27,2206,1,0,7,1,14,58,3,2022-2023,laliga
+francis coquelin,MF,Villarreal,16,9,748,1,0,2,0,11,29,27,2022-2023,laliga
+jesús corona,FW,Sevilla,4,1,111,1,0,0,0,3,3,9,2022-2023,laliga
+ángel correa,"FW,MF",Atlético Madrid,35,13,1455,9,1,3,1,44,58,142,2022-2023,laliga
+thierry correia,DF,Valencia,27,24,2009,0,0,5,0,60,104,122,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+jaume costa,DF,Mallorca,32,30,2599,0,1,10,0,60,74,123,2022-2023,laliga
+samu costa,MF,Almería,32,22,1989,1,2,5,0,9,91,24,2022-2023,laliga
+thibaut courtois,GK,Real Madrid,31,31,2790,0,0,0,0,0,0,0,2022-2023,laliga
+yan couto,"DF,MF",Girona,25,12,1158,1,2,3,0,56,55,89,2022-2023,laliga
+juan cruz armada,DF,Osasuna,27,21,2062,0,0,7,0,15,68,55,2022-2023,laliga
+juan cruz,FW,Betis,6,1,178,1,0,1,0,7,1,15,2022-2023,laliga
+jorge cuenca,DF,Villarreal,10,5,506,0,0,1,0,7,26,1,2022-2023,laliga
+braian cufré,DF,Mallorca,5,2,220,0,0,0,0,3,7,9,2022-2023,laliga
+matheus cunha,"FW,MF",Atlético Madrid,11,2,377,0,2,2,0,6,7,19,2022-2023,laliga
+curro,MF,Almería,2,0,43,0,0,1,0,1,1,1,2022-2023,laliga
+arnaut danjuma,FW,Villarreal,10,6,479,2,0,0,0,12,2,35,2022-2023,laliga
+sergi darder,MF,Espanyol,38,38,3320,6,3,4,0,111,233,75,2022-2023,laliga
+rodrigo de paul,MF,Atlético Madrid,30,24,1923,2,7,5,0,55,182,68,2022-2023,laliga
+alberto del moral,MF,Villarreal,1,0,5,0,0,0,0,0,0,0,2022-2023,laliga
+thomas delaney,MF,Sevilla,8,2,309,0,0,3,0,1,7,3,2022-2023,laliga
+fran delgado,DF,Betis,1,0,12,0,0,0,0,0,0,3,2022-2023,laliga
+ousmane dembélé,FW,Barcelona,25,16,1410,5,7,4,0,124,74,209,2022-2023,laliga
+mouctar diakhaby,DF,Valencia,29,28,2446,3,0,7,1,19,86,11,2022-2023,laliga
+mamady diarra,"MF,DF",Cádiz,2,1,66,0,0,0,0,3,0,0,2022-2023,laliga
+youba diarra,MF,Cádiz,5,1,98,0,0,2,0,1,3,1,2022-2023,laliga
+stole dimitrievski,GK,Rayo Vallecano,37,37,3324,0,0,4,0,0,0,1,2022-2023,laliga
+djené,DF,Getafe,33,33,2840,0,1,10,1,11,77,20,2022-2023,laliga
+marko dmitrović,GK,Sevilla,15,13,1269,0,0,1,0,0,0,0,2022-2023,laliga
+matt doherty,DF,Atlético Madrid,2,0,18,0,0,0,0,0,0,1,2022-2023,laliga
+kasper dolberg,FW,Sevilla,4,2,197,0,1,0,0,2,2,9,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+carlos dominguez,DF,Celta Vigo,3,1,108,0,0,0,0,0,2,0,2022-2023,laliga
+john donald,"MF,DF",Elche,14,13,1092,0,0,3,1,3,23,2,2022-2023,laliga
+domingos duarte,DF,Getafe,31,30,2657,0,2,11,1,6,63,0,2022-2023,laliga
+pablo durán,"MF,DF",Celta Vigo,4,0,36,0,0,0,0,0,0,3,2022-2023,laliga
+hugo duro,FW,Valencia,30,12,1385,1,1,5,0,9,19,67,2022-2023,laliga
+íñigo eguaras,MF,Almería,25,10,967,1,1,6,0,8,61,7,2022-2023,laliga
+aritz elustondo,DF,Real Sociedad,25,16,1449,0,1,5,1,21,52,19,2022-2023,laliga
+rodrigo ely,DF,Almería,36,36,3155,0,1,10,1,6,52,4,2022-2023,laliga
+adri embarba,"FW,MF",Almería,29,18,1472,4,3,5,1,62,47,115,2022-2023,laliga
+adri embarba,FW,Espanyol,1,0,35,0,0,0,0,1,0,2,2022-2023,laliga
+youssef en-nesyri,FW,Sevilla,31,17,1661,8,1,4,0,16,12,71,2022-2023,laliga
+gonzalo escalante,MF,Cádiz,14,13,1121,4,1,4,0,3,50,12,2022-2023,laliga
+sergio escudero,DF,Valladolid,23,17,1439,1,0,3,0,17,40,37,2022-2023,laliga
+alfonso espino,DF,Cádiz,36,35,3122,0,4,7,0,53,107,129,2022-2023,laliga
+bernardo espinosa,DF,Girona,20,14,1225,1,1,5,0,8,36,3,2022-2023,laliga
+edu expósito,MF,Espanyol,28,13,1160,2,2,3,1,19,72,59,2022-2023,laliga
+nicolás ezequiel fernández,"MF,DF",Elche,18,3,514,0,1,2,0,21,29,53,2022-2023,laliga
+abde ezzalzouli,"FW,MF",Osasuna,28,19,1504,4,2,4,2,93,44,136,2022-2023,laliga
+radamel falcao,"FW,MF",Rayo Vallecano,27,3,616,2,0,4,0,2,14,53,2022-2023,laliga
+fali,"DF,MF",Cádiz,25,22,1714,0,0,6,0,9,56,10,2022-2023,laliga
+mamadou fall,DF,Villarreal,1,0,30,0,0,0,0,0,1,0,2022-2023,laliga
+ansu fati,FW,Barcelona,36,12,1393,7,3,3,0,47,48,178,2022-2023,laliga
+zouhair feddal,DF,Valladolid,8,4,375,0,0,1,0,0,5,0,2022-2023,laliga
+nabil fekir,MF,Betis,15,12,961,2,2,4,1,42,41,76,2022-2023,laliga
+felipe,DF,Atlético Madrid,3,2,194,0,0,0,0,2,20,1,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+luiz felipe,DF,Betis,23,22,1763,0,0,3,3,1,42,0,2022-2023,laliga
+joão félix,"FW,MF",Atlético Madrid,14,7,650,4,3,5,0,17,27,42,2022-2023,laliga
+kiko femenía,DF,Villarreal,20,13,1133,0,0,0,0,36,66,47,2022-2023,laliga
+aitor fernández,GK,Osasuna,21,21,1890,0,0,1,0,0,1,0,2022-2023,laliga
+álex fernández,"MF,FW",Cádiz,28,17,1576,3,0,0,0,19,69,26,2022-2023,laliga
+álvaro fernández,GK,Espanyol,11,11,990,0,0,1,0,0,0,0,2022-2023,laliga
+carlos fernández,FW,Real Sociedad,24,8,631,1,0,6,0,9,13,54,2022-2023,laliga
+federico fernández,DF,Elche,1,1,90,0,0,0,0,0,0,0,2022-2023,laliga
+joaquín fernández,DF,Valladolid,27,24,2156,1,0,4,0,6,42,3,2022-2023,laliga
+valery fernández,"MF,DF",Girona,25,7,967,0,2,1,0,18,20,84,2022-2023,laliga
+fernando,GK,Almería,37,37,3285,0,0,3,0,0,0,0,2022-2023,laliga
+fernando,"MF,DF",Sevilla,22,19,1577,0,1,3,1,6,67,13,2022-2023,laliga
+fidel,"MF,FW",Elche,27,21,1714,3,2,5,0,53,139,90,2022-2023,laliga
+dimitri foulquier,DF,Valencia,30,17,1738,0,2,4,0,51,70,84,2022-2023,laliga
+juan foyth,DF,Villarreal,24,22,1958,1,0,6,0,47,100,18,2022-2023,laliga
+iván fresneda,DF,Valladolid,22,18,1743,0,0,3,0,48,62,101,2022-2023,laliga
+javi galán,DF,Celta Vigo,37,36,3160,0,3,6,0,141,125,244,2022-2023,laliga
+iñigo ruiz de galarreta,MF,Mallorca,30,28,2449,0,1,12,0,20,127,21,2022-2023,laliga
+aleix garcía,MF,Girona,30,26,2337,1,5,1,0,41,156,76,2022-2023,laliga
+álvaro garcía,"FW,MF",Rayo Vallecano,35,34,2870,5,5,7,0,116,71,293,2022-2023,laliga
+borja garcía,"MF,FW",Girona,11,10,679,1,0,1,0,7,39,32,2022-2023,laliga
+carlos garcía,DF,Cádiz,1,0,25,0,1,0,0,0,2,0,2022-2023,laliga
+dani garcía,MF,Athletic Club,25,18,1485,0,2,6,0,6,73,8,2022-2023,laliga
+david garcía,DF,Osasuna,32,31,2680,2,0,8,1,16,105,4,2022-2023,laliga
+eric garcía,"DF,MF",Barcelona,24,15,1417,1,0,3,0,24,105,6,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+fran garcia,DF,Rayo Vallecano,38,38,3407,2,3,1,0,183,147,167,2022-2023,laliga
+joan garcía,GK,Espanyol,1,1,90,0,0,0,0,0,0,0,2022-2023,laliga
+raúl garcía,"FW,MF",Athletic Club,35,6,967,2,3,4,0,12,38,62,2022-2023,laliga
+rubén garcía,"FW,MF",Osasuna,29,11,1159,2,2,2,0,16,40,92,2022-2023,laliga
+unai garcía,DF,Osasuna,21,20,1713,0,1,6,1,11,51,3,2022-2023,laliga
+felix garreta,DF,Betis,1,1,90,0,0,0,0,0,2,0,2022-2023,laliga
+aleix garrido,FW,Barcelona,1,0,7,0,0,0,0,0,0,0,2022-2023,laliga
+sékou gassama,FW,Valladolid,1,0,36,0,0,0,0,1,0,1,2022-2023,laliga
+gavi,"MF,FW",Barcelona,36,30,2531,2,4,10,0,49,134,153,2022-2023,laliga
+paulo gazzaniga,GK,Girona,28,28,2520,0,0,4,0,0,0,0,2022-2023,laliga
+bryan gil,"FW,DF",Sevilla,17,10,918,2,2,4,0,28,22,75,2022-2023,laliga
+david gil,GK,Cádiz,4,4,360,0,0,0,0,0,0,0,2022-2023,laliga
+óscar gil,DF,Espanyol,33,31,2559,0,1,14,0,39,47,111,2022-2023,laliga
+álvaro giménez,FW,Cádiz,1,0,17,0,0,0,0,0,1,2,2022-2023,laliga
+dani gómez,"MF,FW",Espanyol,8,0,88,0,0,2,0,1,4,9,2022-2023,laliga
+maxi gómez,FW,Valencia,3,0,108,0,0,0,0,1,0,1,2022-2023,laliga
+moi gómez,"MF,FW",Osasuna,33,28,2453,3,2,5,0,37,184,67,2022-2023,laliga
+papu gómez,"FW,MF",Sevilla,19,11,1065,1,1,4,0,34,82,67,2022-2023,laliga
+sergi gómez,DF,Espanyol,29,26,2339,0,0,1,2,2,43,1,2022-2023,laliga
+antonio gomis,GK,Atlético Madrid,1,0,6,0,0,0,0,0,0,0,2022-2023,laliga
+diego gonzález,DF,Elche,16,8,958,0,0,4,0,1,13,2,2022-2023,laliga
+édgar gonzález,DF,Betis,25,18,1772,0,0,8,2,7,30,2,2022-2023,laliga
+giovanni gonzález,DF,Mallorca,15,9,926,0,2,5,0,10,28,39,2022-2023,laliga
+nicolás gonzález,MF,Valencia,26,18,1405,1,1,2,0,21,81,17,2022-2023,laliga
+roberto gonzález,"FW,MF",Betis,2,0,54,0,0,1,0,1,2,1,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+andoni gorosabel,DF,Real Sociedad,27,19,1708,0,0,3,0,42,68,75,2022-2023,laliga
+josé gragera,"MF,DF",Espanyol,9,5,460,1,0,2,0,0,11,3,2022-2023,laliga
+ivo grbić,GK,Atlético Madrid,12,10,922,0,0,3,0,0,0,0,2022-2023,laliga
+dominik greif,GK,Mallorca,1,1,90,0,0,0,0,0,0,0,2022-2023,laliga
+clément grenier,MF,Mallorca,21,6,718,0,0,7,0,4,40,26,2022-2023,laliga
+antoine griezmann,"FW,MF",Atlético Madrid,38,31,2859,15,16,2,0,99,171,202,2022-2023,laliga
+andrés guardado,MF,Betis,26,16,1373,1,1,7,0,14,72,13,2022-2023,laliga
+sergi guardiola,FW,Valladolid,14,8,502,0,0,1,0,7,3,20,2022-2023,laliga
+sergi guardiola,FW,Cádiz,17,14,1165,3,0,2,0,12,28,55,2022-2023,laliga
+nemanja gudelj,"DF,MF",Sevilla,34,31,2779,3,1,8,0,29,110,6,2022-2023,laliga
+javier guerra,MF,Valencia,10,6,605,1,0,0,0,17,30,16,2022-2023,laliga
+ander guevara,MF,Real Sociedad,8,2,221,0,0,2,0,4,15,3,2022-2023,laliga
+pape gueye,MF,Sevilla,16,15,1171,1,3,6,3,9,59,27,2022-2023,laliga
+hugo guillamón,MF,Valencia,25,19,1632,1,4,5,0,11,101,20,2022-2023,laliga
+gerard gumbau,MF,Elche,35,31,2737,1,6,11,0,18,145,52,2022-2023,laliga
+gorka guruzeta,FW,Athletic Club,30,17,1421,6,1,2,0,15,37,93,2022-2023,laliga
+raúl guti,MF,Elche,28,12,1117,0,0,1,0,4,32,17,2022-2023,laliga
+miguel gutiérrez,DF,Girona,34,27,2390,2,3,6,0,81,125,148,2022-2023,laliga
+munir el haddadi,"MF,FW",Getafe,28,10,1150,3,1,4,0,20,30,84,2022-2023,laliga
+dennis hadzikadunic,DF,Mallorca,8,7,614,0,0,1,0,1,19,0,2022-2023,laliga
+haissem hassan,"FW,MF",Villarreal,2,0,52,0,0,0,0,3,0,3,2022-2023,laliga
+eden hazard,FW,Real Madrid,6,2,196,0,1,0,0,6,8,25,2022-2023,laliga
+luiz henrique,FW,Betis,33,21,1807,1,3,6,0,61,26,137,2022-2023,laliga
+mario hermoso,DF,Atlético Madrid,26,24,2110,3,2,7,2,23,115,17,2022-2023,laliga
+javi hernández,DF,Girona,25,13,1116,1,2,3,0,41,78,25,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+aridane hernández,DF,Osasuna,23,20,1793,0,1,1,0,6,47,0,2022-2023,laliga
+luis hernández,DF,Cádiz,35,35,3149,0,0,8,1,10,95,8,2022-2023,laliga
+mario hernández,DF,Rayo Vallecano,3,1,103,0,0,1,0,4,3,0,2022-2023,laliga
+jorge herrando,DF,Osasuna,1,1,25,0,0,0,1,0,0,0,2022-2023,laliga
+ander herrera,MF,Athletic Club,17,9,697,0,1,4,1,8,40,14,2022-2023,laliga
+sergio herrera,GK,Osasuna,17,17,1530,0,0,3,0,0,0,0,2022-2023,laliga
+yangel herrera,"MF,FW",Girona,20,12,963,2,2,4,0,18,46,56,2022-2023,laliga
+omar el hilali,"DF,MF",Espanyol,5,1,92,0,0,1,0,0,0,5,2022-2023,laliga
+martin hongla,"DF,MF",Valladolid,16,15,1306,0,0,7,2,6,50,5,2022-2023,laliga
+pablo ibáñez,MF,Osasuna,25,12,1064,0,1,1,0,15,59,42,2022-2023,laliga
+iglesias,"DF,MF",Getafe,32,21,2146,1,0,7,0,39,50,100,2022-2023,laliga
+borja iglesias,FW,Betis,35,29,2365,15,3,2,1,20,33,147,2022-2023,laliga
+asier illarramendi,MF,Real Sociedad,24,13,1076,1,0,5,0,10,48,24,2022-2023,laliga
+alexander isak,FW,Real Sociedad,2,2,152,1,0,0,0,3,3,11,2022-2023,laliga
+isco,"MF,FW",Sevilla,12,10,799,0,2,5,0,16,37,36,2022-2023,laliga
+diego iturralde,DF,Sevilla,1,1,45,0,0,1,0,0,0,1,2022-2023,laliga
+nicolas jackson,FW,Villarreal,26,16,1598,12,4,6,1,49,40,117,2022-2023,laliga
+adnan januzaj,FW,Sevilla,2,1,47,0,0,0,0,0,1,6,2022-2023,laliga
+luis javier suárez,FW,Almería,21,18,1490,4,4,4,1,29,26,87,2022-2023,laliga
+joaquín,"MF,FW",Betis,22,2,496,0,2,2,0,23,26,37,2022-2023,laliga
+frenkie de jong,MF,Barcelona,33,29,2534,2,4,3,0,92,280,83,2022-2023,laliga
+joan jordán,MF,Sevilla,23,19,1592,0,1,8,0,9,123,22,2022-2023,laliga
+josan,"DF,MF",Elche,26,9,1078,1,3,3,0,37,39,61,2022-2023,laliga
+willian josé,FW,Betis,28,6,731,2,1,1,0,6,14,27,2022-2023,laliga
+joselu,FW,Espanyol,34,33,2990,16,2,2,0,23,66,147,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+juanmi,FW,Betis,22,9,925,4,0,3,0,10,15,37,2022-2023,laliga
+juanpe,DF,Girona,19,17,1426,1,0,3,0,8,38,3,2022-2023,laliga
+lago junior,"FW,MF",Mallorca,5,0,52,0,0,0,0,2,0,5,2022-2023,laliga
+vinicius júnior,FW,Real Madrid,33,32,2823,10,9,10,1,221,87,495,2022-2023,laliga
+filip jørgensen,GK,Villarreal,2,2,180,0,0,0,0,0,0,0,2022-2023,laliga
+tino kadewere,"FW,MF",Mallorca,15,5,542,1,0,1,0,14,4,29,2022-2023,laliga
+kaiky,DF,Almería,13,7,581,0,0,5,0,7,11,2,2022-2023,laliga
+lee kang-in,"MF,FW",Mallorca,36,33,2823,6,6,10,0,107,96,139,2022-2023,laliga
+jon karrikaburu,FW,Real Sociedad,6,0,93,0,0,1,0,2,4,2,2022-2023,laliga
+kenedy,"FW,DF",Valladolid,12,2,275,0,1,3,0,4,4,21,2022-2023,laliga
+franck kessié,MF,Barcelona,28,7,990,1,1,4,0,14,39,43,2022-2023,laliga
+kiké,FW,Osasuna,35,7,1021,2,0,5,0,16,15,58,2022-2023,laliga
+justin kluivert,"FW,MF",Valencia,26,15,1447,6,0,4,0,58,33,126,2022-2023,laliga
+koke,MF,Atlético Madrid,33,30,2545,0,3,4,0,15,175,37,2022-2023,laliga
+luca koleosho,"FW,DF",Espanyol,4,0,59,1,0,0,0,4,1,15,2022-2023,laliga
+geoffrey kondogbia,MF,Atlético Madrid,20,10,1006,0,2,5,0,6,42,5,2022-2023,laliga
+jules koundé,DF,Barcelona,29,28,2426,1,3,2,0,58,185,61,2022-2023,laliga
+toni kroos,MF,Real Madrid,30,25,2155,2,4,2,1,51,319,38,2022-2023,laliga
+takefusa kubo,"FW,MF",Real Sociedad,35,29,2439,9,4,3,0,117,81,239,2022-2023,laliga
+césar de la hoz,MF,Almería,25,18,1673,1,0,6,0,3,49,6,2022-2023,laliga
+luca de la torre,MF,Celta Vigo,28,16,1481,0,2,6,0,55,62,73,2022-2023,laliga
+érik lamela,"FW,MF",Sevilla,32,20,1844,6,0,10,1,66,69,162,2022-2023,laliga
+cyle larin,FW,Valladolid,19,16,1469,8,3,4,0,25,17,72,2022-2023,laliga
+juanmi latasa,FW,Getafe,18,2,448,1,0,2,0,0,19,33,2022-2023,laliga
+toni lato,"DF,MF",Valencia,24,9,914,1,0,1,0,18,40,47,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+lázaro,"FW,MF",Almería,19,7,716,6,0,1,0,23,26,59,2022-2023,laliga
+robin le normand,DF,Real Sociedad,33,31,2796,0,0,6,0,26,122,2,2022-2023,laliga
+benjamin lecomte,GK,Espanyol,10,10,899,0,0,1,1,0,0,0,2022-2023,laliga
+jeremías ledesma,GK,Cádiz,34,34,3060,0,0,2,0,0,0,0,2022-2023,laliga
+florian lejeune,DF,Rayo Vallecano,31,31,2565,4,0,6,3,8,80,3,2022-2023,laliga
+iñigo lekue,DF,Athletic Club,20,14,1321,0,1,1,0,42,64,59,2022-2023,laliga
+thomas lemar,MF,Atlético Madrid,27,17,1252,1,3,1,0,36,80,79,2022-2023,laliga
+sergio león,FW,Valladolid,29,14,1334,6,1,0,1,21,22,75,2022-2023,laliga
+robert lewandowski,FW,Barcelona,34,33,2847,23,7,4,1,51,100,248,2022-2023,laliga
+samuel lino,"FW,MF",Valencia,38,33,2887,6,1,4,0,144,93,260,2022-2023,laliga
+pol lirola,DF,Elche,12,7,628,1,0,1,0,21,19,35,2022-2023,laliga
+javier llabrés,FW,Mallorca,1,0,17,0,0,0,0,0,0,0,2022-2023,laliga
+marcos llorente,"MF,DF",Atlético Madrid,22,21,1703,1,2,5,0,64,88,139,2022-2023,laliga
+giovani lo celso,"MF,FW",Villarreal,22,14,1126,2,3,3,0,35,97,70,2022-2023,laliga
+david lópez,DF,Girona,20,19,1652,3,1,5,0,18,54,4,2022-2023,laliga
+diego lópez,GK,Rayo Vallecano,2,1,96,0,0,0,0,0,0,0,2022-2023,laliga
+diego lópez,"FW,MF",Valencia,10,5,447,3,1,0,0,21,17,46,2022-2023,laliga
+unai lópez,MF,Rayo Vallecano,34,12,1254,1,2,2,0,17,98,43,2022-2023,laliga
+anthony lozano,FW,Cádiz,28,14,1443,1,1,6,0,19,28,58,2022-2023,laliga
+pol lozano,MF,Espanyol,4,0,17,0,0,1,0,0,0,0,2022-2023,laliga
+josé luis gayà,DF,Valencia,31,31,2709,1,3,4,0,74,124,200,2022-2023,laliga
+josé luis morales,"FW,MF",Villarreal,29,11,1211,7,0,2,0,40,15,92,2022-2023,laliga
+andriy lunin,GK,Real Madrid,7,7,630,0,0,0,0,0,0,0,2022-2023,laliga
+awer mabil,"MF,FW",Cádiz,5,1,165,0,0,0,0,5,4,14,2022-2023,laliga
+darwin machís,FW,Valladolid,11,7,599,0,1,1,0,29,10,53,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+pablo maffeo,DF,Mallorca,35,34,2975,2,4,6,1,67,61,134,2022-2023,laliga
+lisandro magallán,DF,Elche,14,11,902,0,0,0,1,2,16,0,2022-2023,laliga
+jon magunazelaia,"MF,FW",Real Sociedad,2,0,65,0,0,0,0,2,0,3,2022-2023,laliga
+nemanja maksimović,MF,Getafe,29,26,2053,0,0,3,0,13,42,29,2022-2023,laliga
+hugo mallo,DF,Celta Vigo,26,26,2163,0,1,6,1,27,93,108,2022-2023,laliga
+mickael malsa,MF,Valladolid,5,0,69,0,0,0,0,0,5,0,2022-2023,laliga
+giorgi mamardashvili,GK,Valencia,38,38,3420,0,0,3,0,0,2,0,2022-2023,laliga
+reinildo mandava,DF,Atlético Madrid,22,22,1857,0,0,4,0,28,70,41,2022-2023,laliga
+aïssa mandi,DF,Villarreal,21,16,1461,0,0,1,0,7,36,9,2022-2023,laliga
+marcão,DF,Sevilla,5,4,375,0,0,2,0,1,13,0,2022-2023,laliga
+agustín marchesín,GK,Celta Vigo,19,19,1710,0,0,2,0,0,1,0,2022-2023,laliga
+óscar de marcos,DF,Athletic Club,37,32,2819,1,6,7,0,76,204,153,2022-2023,laliga
+alberto marí,"FW,MF",Valencia,5,0,86,1,0,1,0,1,1,6,2022-2023,laliga
+josé mari,MF,Cádiz,18,2,397,0,0,4,0,5,21,4,2022-2023,laliga
+josé maría giménez,DF,Atlético Madrid,28,26,2423,2,1,9,0,9,63,3,2022-2023,laliga
+mariano,FW,Real Madrid,9,1,157,0,0,2,0,3,2,12,2022-2023,laliga
+pablo marín,"MF,FW",Real Sociedad,10,3,360,0,0,1,0,9,15,24,2022-2023,laliga
+diego mariño,GK,Almería,1,0,45,0,0,0,0,0,0,0,2022-2023,laliga
+roger martí,FW,Elche,12,8,655,0,1,2,0,8,7,50,2022-2023,laliga
+roger martí,FW,Cádiz,14,8,639,1,0,1,0,7,5,34,2022-2023,laliga
+ander martin,"MF,FW",Real Sociedad,3,0,41,0,0,0,0,1,3,0,2022-2023,laliga
+andrés martín,"FW,MF",Rayo Vallecano,9,3,205,0,0,1,0,3,4,22,2022-2023,laliga
+carlos martín,"FW,MF",Atlético Madrid,4,0,28,0,0,1,0,0,0,3,2022-2023,laliga
+iván martín,MF,Girona,24,18,1586,3,3,2,0,30,56,82,2022-2023,laliga
+arnau martinez,DF,Girona,33,32,2732,3,4,11,0,64,113,98,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+iñigo martínez,DF,Athletic Club,15,15,1338,1,0,1,0,11,60,4,2022-2023,laliga
+roger martínez,DF,Espanyol,1,0,7,0,0,0,0,0,1,0,2022-2023,laliga
+omar mascarell,"MF,DF",Elche,28,28,2447,0,1,6,0,27,116,6,2022-2023,laliga
+jordi masip,GK,Valladolid,28,28,2507,0,0,4,0,0,0,0,2022-2023,laliga
+jaime mata,"FW,MF",Getafe,18,5,437,1,1,5,0,2,10,33,2022-2023,laliga
+borja mayoral,FW,Getafe,35,33,2759,8,2,4,0,58,64,166,2022-2023,laliga
+mamadou mbaye,DF,Cádiz,14,7,760,0,0,2,0,2,13,1,2022-2023,laliga
+fernando medrano,DF,Celta Vigo,1,0,13,0,0,0,0,0,0,0,2022-2023,laliga
+gonzalo melero,MF,Almería,27,24,1855,4,3,5,0,31,97,37,2022-2023,laliga
+memphis,FW,Atlético Madrid,8,3,270,4,0,1,0,4,8,22,2022-2023,laliga
+memphis,FW,Barcelona,2,2,114,1,0,0,0,2,7,19,2022-2023,laliga
+houboulang mendes,DF,Almería,14,11,886,0,1,2,0,18,18,30,2022-2023,laliga
+brais méndez,MF,Real Sociedad,34,28,2407,8,4,6,0,41,137,138,2022-2023,laliga
+diego méndez,MF,Rayo Vallecano,1,0,1,0,0,0,0,0,0,0,2022-2023,laliga
+ferland mendy,DF,Real Madrid,18,17,1351,0,1,2,0,23,56,73,2022-2023,laliga
+jorge meré,DF,Cádiz,10,6,601,0,0,0,0,1,14,0,2022-2023,laliga
+mikel merino,MF,Real Sociedad,33,28,2494,2,9,5,1,30,172,107,2022-2023,laliga
+roque mesa,MF,Valladolid,29,20,1617,2,1,11,1,29,116,24,2022-2023,laliga
+éder militão,DF,Real Madrid,33,30,2703,5,0,4,0,28,98,16,2022-2023,laliga
+luis milla,MF,Getafe,27,22,1856,0,3,6,1,15,104,7,2022-2023,laliga
+pere milla,"FW,MF",Elche,31,21,1843,6,1,7,0,23,65,83,2022-2023,laliga
+marko milovanović,FW,Almería,2,0,15,0,0,1,0,0,1,3,2022-2023,laliga
+óscar mingueza,DF,Celta Vigo,21,13,1284,0,0,2,0,24,69,40,2022-2023,laliga
+rafa mir,FW,Sevilla,26,16,1298,6,0,1,0,12,11,54,2022-2023,laliga
+juan miranda,DF,Betis,21,16,1472,3,2,1,1,26,73,87,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+stefan mitrović,DF,Getafe,22,18,1680,0,0,5,0,1,17,1,2022-2023,laliga
+luka modrić,MF,Real Madrid,33,19,1744,4,3,7,0,50,182,87,2022-2023,laliga
+johan mojica,DF,Villarreal,17,5,642,0,0,0,0,27,19,38,2022-2023,laliga
+johan mojica,"DF,MF",Elche,3,3,270,0,0,2,0,14,9,11,2022-2023,laliga
+nahuel molina,DF,Atlético Madrid,33,33,2867,4,2,7,1,73,112,249,2022-2023,laliga
+jon moncayola,"MF,DF",Osasuna,37,25,2448,1,3,6,0,34,175,50,2022-2023,laliga
+monchu,MF,Valladolid,33,23,2031,3,2,10,0,17,111,25,2022-2023,laliga
+césar montes,DF,Espanyol,20,18,1590,3,0,6,0,13,41,4,2022-2023,laliga
+gonzalo montiel,DF,Sevilla,28,17,1524,0,3,8,1,34,57,87,2022-2023,laliga
+martín montoya,DF,Betis,6,6,453,0,0,1,0,6,16,12,2022-2023,laliga
+álvaro morata,FW,Atlético Madrid,36,23,1900,13,2,4,0,33,17,102,2022-2023,laliga
+jon morcillo,"FW,MF",Athletic Club,10,0,76,0,1,0,0,6,2,15,2022-2023,laliga
+alberto moreno,DF,Villarreal,24,14,1296,0,1,7,0,41,47,97,2022-2023,laliga
+álex moreno,DF,Betis,15,15,1350,0,3,1,0,49,44,76,2022-2023,laliga
+diego moreno,DF,Osasuna,11,7,638,0,0,1,0,9,14,19,2022-2023,laliga
+gerard moreno,FW,Villarreal,21,14,1230,7,3,4,0,21,68,108,2022-2023,laliga
+tete morente,"MF,DF",Elche,32,23,2068,4,0,5,0,60,63,193,2022-2023,laliga
+ilaix moriba,MF,Valencia,24,10,1011,0,2,6,2,16,67,30,2022-2023,laliga
+manu morlanes,MF,Villarreal,4,2,158,0,0,0,1,1,6,1,2022-2023,laliga
+manu morlanes,MF,Mallorca,12,9,706,1,0,3,0,10,26,6,2022-2023,laliga
+loren morón,FW,Betis,2,0,15,0,0,1,0,0,0,0,2022-2023,laliga
+cristhian mosquera,DF,Valencia,3,1,145,0,0,0,0,0,1,1,2022-2023,laliga
+abdul mumin,DF,Rayo Vallecano,16,9,922,0,0,2,0,5,19,1,2022-2023,laliga
+iker muniain,"MF,FW",Athletic Club,30,19,1689,0,3,2,0,50,154,103,2022-2023,laliga
+aihen muñoz,DF,Real Sociedad,23,20,1756,0,1,2,0,37,57,87,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+iker muñoz,MF,Osasuna,8,2,254,0,0,0,0,0,12,4,2022-2023,laliga
+pablo muñoz,MF,Rayo Vallecano,2,0,12,0,0,0,0,0,1,1,2022-2023,laliga
+vedat muriqi,FW,Mallorca,35,34,2937,15,3,6,1,28,60,152,2022-2023,laliga
+yunus musah,MF,Valencia,33,26,2110,0,2,10,1,72,93,101,2022-2023,laliga
+francisco mwepu,FW,Cádiz,1,0,21,0,0,0,0,0,1,2,2022-2023,laliga
+nacho,DF,Real Madrid,27,18,1637,1,1,7,0,18,75,34,2022-2023,laliga
+juanjo narváez,"MF,FW",Valladolid,5,1,148,0,0,0,0,0,0,9,2022-2023,laliga
+matija nastasić,DF,Mallorca,14,10,906,1,0,3,0,4,25,1,2022-2023,laliga
+roberto navarro,"MF,FW",Real Sociedad,17,1,351,0,0,2,0,17,13,28,2022-2023,laliga
+jesús navas,"DF,FW",Sevilla,32,21,1981,0,0,5,0,46,99,207,2022-2023,laliga
+álvaro negredo,FW,Cádiz,21,9,757,1,2,0,0,4,17,22,2022-2023,laliga
+tanguy nianzou,DF,Sevilla,19,16,1366,1,0,1,1,4,66,0,2022-2023,laliga
+saúl ñíguez,"MF,DF",Atlético Madrid,31,11,1100,3,1,8,0,12,34,47,2022-2023,laliga
+fernando niño,"MF,FW",Villarreal,3,0,22,0,0,0,0,0,0,4,2022-2023,laliga
+randy nteka,"FW,MF",Elche,14,10,726,0,0,1,0,13,13,43,2022-2023,laliga
+randy nteka,"FW,MF",Rayo Vallecano,10,0,116,0,0,0,1,3,6,7,2022-2023,laliga
+unai núñez,DF,Celta Vigo,36,35,3151,0,0,8,0,31,146,5,2022-2023,laliga
+jan oblak,GK,Atlético Madrid,28,28,2492,0,0,1,0,0,0,0,2022-2023,laliga
+brian ocampo,"MF,FW",Cádiz,18,15,1119,1,1,2,0,40,22,81,2022-2023,laliga
+lucas ocampos,"FW,MF",Sevilla,19,11,1165,4,0,7,0,33,37,113,2022-2023,laliga
+álvaro odriozola,DF,Real Madrid,3,0,39,0,0,0,0,4,2,5,2022-2023,laliga
+olasagasti,"MF,DF",Real Sociedad,3,0,65,0,0,0,0,2,2,3,2022-2023,laliga
+lucas olaza,DF,Valladolid,23,16,1494,0,1,3,0,12,66,90,2022-2023,laliga
+brian oliván,DF,Espanyol,30,29,2403,1,7,7,0,48,80,139,2022-2023,laliga
+lucas oliveira rosa,DF,Valladolid,17,11,931,0,1,3,0,24,22,61,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+aimar oroz,"MF,FW",Osasuna,31,23,2013,3,6,6,0,35,86,144,2022-2023,laliga
+pedro ortiz,MF,Sevilla,1,0,1,0,0,0,0,0,0,0,2022-2023,laliga
+mikel oyarzabal,"FW,MF",Real Sociedad,23,14,1214,4,1,1,0,27,29,122,2022-2023,laliga
+cenk özkacar,DF,Valencia,17,14,1365,0,0,1,0,23,61,2,2022-2023,laliga
+fernando pacheco,GK,Almería,1,1,90,0,0,0,0,0,0,0,2022-2023,laliga
+fernando pacheco,GK,Espanyol,16,16,1440,0,0,0,0,0,2,0,2022-2023,laliga
+jon pacheco,DF,Real Sociedad,17,12,1193,0,1,2,0,18,48,0,2022-2023,laliga
+gonçalo paciência,"FW,MF",Celta Vigo,25,5,662,2,0,2,1,7,11,43,2022-2023,laliga
+helibelton palacios,DF,Elche,24,23,1915,0,0,6,0,25,51,25,2022-2023,laliga
+isaac palazón camacho,"FW,MF",Rayo Vallecano,37,36,2965,9,5,4,0,49,127,181,2022-2023,laliga
+aitor paredes,DF,Athletic Club,16,9,859,0,0,3,0,4,33,8,2022-2023,laliga
+daniel parejo,MF,Villarreal,37,37,3285,3,4,6,0,26,250,32,2022-2023,laliga
+moises parra gutierrez,FW,Getafe,1,0,10,0,0,0,0,0,0,0,2022-2023,laliga
+raúl parra,DF,Cádiz,6,4,310,0,0,1,0,0,7,4,2022-2023,laliga
+pascu,"DF,FW",Villarreal,2,0,10,1,0,0,0,1,1,2,2022-2023,laliga
+javier pastore,MF,Elche,1,0,5,0,0,0,0,2,1,2,2022-2023,laliga
+gabriel paulista,DF,Valencia,21,18,1504,1,0,4,2,12,61,1,2022-2023,laliga
+alfonso pedraza,DF,Villarreal,26,20,1633,0,3,5,0,68,31,145,2022-2023,laliga
+pedri,MF,Barcelona,26,22,1976,6,1,2,0,67,184,99,2022-2023,laliga
+adrià pedrosa,"DF,MF",Espanyol,7,2,229,0,0,0,0,7,4,21,2022-2023,laliga
+iñaki peña,GK,Barcelona,2,0,73,0,0,0,0,0,0,0,2022-2023,laliga
+rubén peña,"DF,MF",Osasuna,20,14,1277,0,1,2,1,32,61,59,2022-2023,laliga
+alberto perea,MF,Cádiz,1,1,45,0,0,0,0,0,2,2,2022-2023,laliga
+ayoze pérez,"FW,MF",Betis,19,17,1386,3,1,3,0,51,39,102,2022-2023,laliga
+carles pérez,"MF,FW",Celta Vigo,35,23,2144,3,5,5,0,93,66,185,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+francisco perez,"FW,MF",Valencia,7,0,141,0,0,2,0,7,8,15,2022-2023,laliga
+kike pérez,MF,Valladolid,36,28,2307,1,2,9,0,54,134,82,2022-2023,laliga
+lucas pérez,FW,Cádiz,14,5,628,3,0,3,0,8,14,24,2022-2023,laliga
+luis pérez,DF,Valladolid,18,15,1213,0,1,2,0,24,42,84,2022-2023,laliga
+germán pezzella,DF,Betis,31,29,2511,0,0,4,3,8,54,3,2022-2023,laliga
+ronaël pierre-gabriel,DF,Espanyol,8,2,236,1,0,2,1,7,7,16,2022-2023,laliga
+yeremi pino,"FW,MF",Villarreal,36,31,2447,4,6,8,0,65,62,256,2022-2023,laliga
+gerard piqué,DF,Barcelona,6,4,384,0,0,2,1,3,35,1,2022-2023,laliga
+óscar plano,"FW,MF",Valladolid,33,22,2038,1,1,3,0,30,73,95,2022-2023,laliga
+gonzalo plata,FW,Valladolid,34,26,2302,1,5,1,0,97,54,213,2022-2023,laliga
+ezequiel ponce,"FW,MF",Elche,34,8,1129,4,0,2,1,10,19,51,2022-2023,laliga
+francisco portillo,"MF,FW",Almería,27,4,722,2,1,1,0,16,74,37,2022-2023,laliga
+portu,"MF,DF",Getafe,34,17,1770,0,3,7,1,42,40,130,2022-2023,laliga
+josé pozo,"MF,FW",Rayo Vallecano,8,1,88,0,0,0,0,5,6,7,2022-2023,laliga
+manuel pozo,FW,Valladolid,1,0,19,0,0,0,0,0,1,1,2022-2023,laliga
+alejandro pozo pozo,DF,Almería,30,20,1880,0,3,2,0,44,64,90,2022-2023,laliga
+abdón prats,"FW,MF",Mallorca,26,2,416,1,1,1,0,1,8,15,2022-2023,laliga
+javi puado,"FW,MF",Espanyol,37,25,2340,7,2,4,0,60,58,117,2022-2023,laliga
+arnau puigmal,"MF,FW",Almería,22,7,763,1,0,4,0,24,16,57,2022-2023,laliga
+domingos quina,MF,Elche,10,2,275,0,0,3,1,12,17,7,2022-2023,laliga
+rubén quintanilla,DF,Mallorca,1,0,4,0,0,0,0,0,1,0,2022-2023,laliga
+antonio raillo,DF,Mallorca,31,31,2766,2,3,11,1,8,50,5,2022-2023,laliga
+predrag rajković,GK,Mallorca,36,36,3240,0,0,3,0,0,3,0,2022-2023,laliga
+ivan rakitić,MF,Sevilla,31,21,1788,1,3,3,1,42,148,84,2022-2023,laliga
+largie ramazani,"FW,MF",Almería,33,13,1403,3,1,6,0,59,30,94,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+chris ramos,FW,Cádiz,15,7,710,1,0,2,0,9,6,35,2022-2023,laliga
+raphinha,FW,Barcelona,36,25,2072,7,7,9,0,97,104,339,2022-2023,laliga
+sergio reguilón,DF,Atlético Madrid,11,2,309,0,0,3,1,16,11,30,2022-2023,laliga
+pepe reina,GK,Villarreal,22,22,1980,0,0,2,0,0,0,0,2022-2023,laliga
+reinier,"MF,FW",Girona,18,5,647,2,1,1,1,13,25,27,2022-2023,laliga
+karim rekik,DF,Sevilla,16,15,1181,1,1,2,0,13,50,7,2022-2023,laliga
+álex remiro,GK,Real Sociedad,38,38,3420,0,0,1,0,0,1,0,2022-2023,laliga
+alejandro revuelta montero,DF,Getafe,1,0,1,0,0,0,0,0,0,0,2022-2023,laliga
+chadi riad,MF,Barcelona,1,0,2,0,0,0,0,0,0,0,2022-2023,laliga
+nico ribaudo,"MF,FW",Espanyol,32,16,1248,1,2,4,0,40,57,92,2022-2023,laliga
+diego rico,DF,Real Sociedad,20,18,1646,0,0,3,0,32,64,72,2022-2023,laliga
+rodrigo riquelme,"MF,FW",Girona,34,25,2179,4,4,1,0,116,85,171,2022-2023,laliga
+sergi roberto,"DF,MF",Barcelona,23,15,1308,4,1,3,0,48,97,72,2022-2023,laliga
+lucas robertone,MF,Almería,37,34,2843,2,7,7,0,47,155,97,2022-2023,laliga
+joel roca,"MF,FW",Girona,5,0,84,0,0,1,0,3,0,14,2022-2023,laliga
+enzo roco,DF,Elche,22,19,1652,0,0,7,1,6,42,2,2022-2023,laliga
+rodri,"FW,MF",Betis,30,19,1601,2,3,0,0,57,102,104,2022-2023,laliga
+álvaro rodríguez,FW,Real Madrid,6,0,79,1,1,0,0,0,1,3,2022-2023,laliga
+ángel rodríguez,"FW,MF",Mallorca,17,2,394,1,0,1,0,4,6,19,2022-2023,laliga
+óscar rodríguez arnaiz,MF,Celta Vigo,33,19,1775,2,0,6,0,29,118,37,2022-2023,laliga
+dani rodríguez,MF,Mallorca,35,26,2100,3,6,8,0,43,76,64,2022-2023,laliga
+guido rodríguez,MF,Betis,34,33,2872,1,0,8,0,11,123,18,2022-2023,laliga
+miguel rodríguez,"MF,FW",Celta Vigo,7,3,252,1,1,0,0,10,6,22,2022-2023,laliga
+rodrygo,"FW,MF",Real Madrid,34,25,2379,9,8,4,0,146,81,268,2022-2023,laliga
+leo román,GK,Mallorca,1,1,90,0,0,0,0,0,0,0,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+iván romero,MF,Sevilla,1,0,11,0,0,1,0,0,0,0,2022-2023,laliga
+oriol romeu,MF,Girona,33,33,2950,2,0,10,1,15,133,16,2022-2023,laliga
+rubén,"DF,MF",Espanyol,18,9,888,0,2,1,0,34,14,57,2022-2023,laliga
+antonio rüdiger,DF,Real Madrid,33,26,2415,1,0,1,0,21,59,10,2022-2023,laliga
+aitor ruibal,"DF,FW",Betis,26,15,1454,0,0,4,1,39,62,70,2022-2023,laliga
+víctor ruiz,DF,Betis,10,5,560,0,0,0,0,4,10,0,2022-2023,laliga
+gerónimo rulli,GK,Villarreal,14,14,1260,0,0,1,0,0,0,0,2022-2023,laliga
+franco russo,DF,Mallorca,3,2,145,0,0,0,0,0,1,0,2022-2023,laliga
+youssouf sabaly,DF,Betis,23,19,1680,1,1,2,0,41,72,64,2022-2023,laliga
+umar sadiq,FW,Almería,3,3,240,2,0,1,0,5,2,7,2022-2023,laliga
+umar sadiq,FW,Real Sociedad,2,1,82,1,0,0,0,0,1,6,2022-2023,laliga
+samuel sáiz,MF,Girona,8,1,240,2,0,1,0,5,17,18,2022-2023,laliga
+kike salas,DF,Sevilla,6,4,368,1,1,1,1,3,14,0,2022-2023,laliga
+salvi,"FW,MF",Rayo Vallecano,24,4,490,0,0,2,0,27,13,51,2022-2023,laliga
+fede san emeterio,MF,Cádiz,33,24,1844,0,1,14,0,1,45,11,2022-2023,laliga
+oihan sancet,MF,Athletic Club,36,32,2532,10,2,6,1,91,159,156,2022-2023,laliga
+antonio sánchez,"MF,DF",Mallorca,32,11,1076,0,0,5,0,22,34,56,2022-2023,laliga
+iván sánchez,"MF,FW",Valladolid,25,13,1154,1,1,0,0,58,65,61,2022-2023,laliga
+javi sánchez,DF,Valladolid,32,28,2392,1,0,11,0,21,74,5,2022-2023,laliga
+manu sánchez,DF,Osasuna,31,22,2124,0,2,3,0,42,100,105,2022-2023,laliga
+esteban saveljich,FW,Rayo Vallecano,1,0,1,0,0,1,0,0,0,0,2022-2023,laliga
+stefan savić,DF,Atlético Madrid,22,22,1943,0,0,4,2,20,74,6,2022-2023,laliga
+haris seferović,FW,Celta Vigo,18,10,887,3,1,3,0,12,17,44,2022-2023,laliga
+jaime seoane,"MF,FW",Getafe,16,2,326,0,0,1,0,6,7,7,2022-2023,laliga
+david silva,MF,Real Sociedad,28,25,1937,2,5,3,0,70,162,121,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+rui silva,GK,Betis,26,26,2340,0,0,2,0,0,0,0,2022-2023,laliga
+simo,DF,Espanyol,7,0,148,0,0,0,0,2,11,1,2022-2023,laliga
+unai simón,GK,Athletic Club,31,31,2745,0,0,2,0,0,2,0,2022-2023,laliga
+rubén sobrino,"MF,FW",Cádiz,33,28,2465,3,2,11,0,45,46,81,2022-2023,laliga
+alex sola,DF,Real Sociedad,10,3,349,0,0,1,0,8,4,19,2022-2023,laliga
+augusto solari,MF,Celta Vigo,12,3,262,0,1,0,0,5,12,14,2022-2023,laliga
+carlos soler,MF,Valencia,3,3,242,1,0,0,0,3,13,7,2022-2023,laliga
+david soria,GK,Getafe,38,38,3420,0,0,2,0,0,1,0,2022-2023,laliga
+hugo sotelo,MF,Celta Vigo,1,0,17,0,0,0,0,0,2,0,2022-2023,laliga
+dyego sousa,FW,Almería,20,3,527,0,1,1,0,10,16,39,2022-2023,laliga
+vinicius souza,MF,Espanyol,34,27,2428,1,1,10,1,13,82,14,2022-2023,laliga
+jørgen strand larsen,FW,Celta Vigo,32,20,1705,4,4,4,0,17,14,73,2022-2023,laliga
+cristhian stuani,FW,Girona,32,8,1090,9,0,8,0,2,10,26,2022-2023,laliga
+damián suárez,"DF,MF",Getafe,28,26,1946,1,1,7,0,21,80,72,2022-2023,laliga
+denis suárez,"MF,FW",Espanyol,18,11,945,0,0,2,0,26,43,34,2022-2023,laliga
+mario suárez,"MF,DF",Rayo Vallecano,2,0,12,0,0,0,1,0,0,0,2022-2023,laliga
+suso,"MF,FW",Sevilla,25,10,1065,2,4,1,0,27,86,96,2022-2023,laliga
+williot swedberg,MF,Celta Vigo,4,0,55,0,0,1,0,1,4,5,2022-2023,laliga
+alexander sørloth,FW,Real Sociedad,34,28,2386,12,3,4,0,41,20,132,2022-2023,laliga
+renato tapia,"MF,DF",Celta Vigo,28,16,1451,0,0,8,1,12,68,8,2022-2023,laliga
+aurélien tchouaméni,MF,Real Madrid,33,24,2119,0,4,2,0,41,142,23,2022-2023,laliga
+alex telles,DF,Sevilla,27,15,1427,0,2,6,0,21,42,80,2022-2023,laliga
+marc-andré ter stegen,GK,Barcelona,38,38,3347,0,0,0,0,0,4,0,2022-2023,laliga
+ramón terrats,MF,Villarreal,16,11,816,1,1,1,0,21,45,32,2022-2023,laliga
+ramón terrats,MF,Girona,8,2,212,0,0,0,0,4,6,4,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+raúl de tomás,FW,Rayo Vallecano,19,9,805,4,0,2,0,13,18,51,2022-2023,laliga
+pablo torre,"FW,MF",Barcelona,8,1,144,0,0,0,0,4,11,16,2022-2023,laliga
+david torres,DF,Valladolid,7,2,385,0,0,1,0,2,11,2,2022-2023,laliga
+ferrán torres,"FW,MF",Barcelona,33,14,1392,4,2,5,1,43,44,180,2022-2023,laliga
+óliver torres,"MF,FW",Sevilla,32,27,2137,3,1,2,0,38,136,156,2022-2023,laliga
+pau torres,DF,Villarreal,34,34,3054,1,0,10,0,76,197,12,2022-2023,laliga
+roberto torres,"FW,MF",Osasuna,2,0,11,0,0,0,0,2,0,1,2022-2023,laliga
+lucas torró,MF,Osasuna,33,31,2477,1,0,10,0,12,98,17,2022-2023,laliga
+nabil touaizi,MF,Espanyol,1,0,3,0,0,0,0,0,1,1,2022-2023,laliga
+óscar trejo,"MF,FW",Rayo Vallecano,34,28,2145,3,4,9,0,56,123,110,2022-2023,laliga
+manu trigueros,MF,Villarreal,23,8,828,0,1,2,1,12,76,22,2022-2023,laliga
+viktor tsyhankov,MF,Girona,19,17,1489,3,6,0,0,63,46,120,2022-2023,laliga
+beñat turrientes,"MF,FW",Real Sociedad,6,1,106,0,0,0,0,0,2,4,2022-2023,laliga
+enes ünal,FW,Getafe,35,35,2970,14,3,6,0,29,55,148,2022-2023,laliga
+oscar ureña,MF,Girona,3,1,100,0,0,0,0,1,1,10,2022-2023,laliga
+óscar valentín,MF,Rayo Vallecano,34,29,2555,0,0,11,0,21,133,17,2022-2023,laliga
+martin valjent,DF,Mallorca,30,30,2656,0,0,8,0,15,57,3,2022-2023,laliga
+jesús vallejo,DF,Real Madrid,1,0,22,0,0,0,0,0,0,0,2022-2023,laliga
+manu vallejo,"FW,MF",Girona,7,2,206,0,1,0,0,7,10,25,2022-2023,laliga
+federico valverde,"MF,FW",Real Madrid,34,29,2502,7,4,2,0,70,151,135,2022-2023,laliga
+jesus vazquez,"DF,MF",Valencia,10,3,310,0,0,1,0,4,13,17,2022-2023,laliga
+kevin vázquez,"DF,MF",Celta Vigo,10,6,441,0,0,2,0,5,13,14,2022-2023,laliga
+lucas vázquez,DF,Real Madrid,23,12,1144,4,1,2,0,31,50,145,2022-2023,laliga
+gabriel veiga,MF,Celta Vigo,36,28,2294,11,4,6,1,68,109,88,2022-2023,laliga
+unai vencedor paris,MF,Athletic Club,10,0,193,0,0,2,0,2,16,3,2022-2023,laliga
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2022-2023,laliga
+gonzalo verdú,DF,Elche,16,9,703,1,0,1,2,0,13,0,2022-2023,laliga
+mikel vesga,MF,Athletic Club,36,28,2575,3,3,5,0,26,199,31,2022-2023,laliga
+aleix vidal,"MF,FW",Espanyol,25,10,1025,0,3,10,1,16,23,53,2022-2023,laliga
+nacho vidal,DF,Osasuna,20,15,1247,0,0,4,0,20,47,52,2022-2023,laliga
+toni villa,MF,Valladolid,2,1,91,0,0,0,0,2,4,5,2022-2023,laliga
+toni villa,"MF,FW",Girona,24,12,895,1,3,2,0,37,38,91,2022-2023,laliga
+asier villalibre,FW,Athletic Club,5,1,97,0,0,0,0,0,2,9,2022-2023,laliga
+gonzalo villar,MF,Getafe,16,3,457,0,0,5,0,13,27,9,2022-2023,laliga
+iván villar,GK,Celta Vigo,19,19,1710,0,0,0,0,0,1,0,2022-2023,laliga
+daniel vivian,DF,Athletic Club,29,26,2376,1,0,7,1,25,124,5,2022-2023,laliga
+shon weissman,FW,Valladolid,15,6,747,1,0,1,0,7,4,15,2022-2023,laliga
+axel werner,GK,Elche,2,2,180,0,0,0,0,0,0,0,2022-2023,laliga
+iñaki williams,FW,Athletic Club,36,34,2836,10,3,2,0,127,61,341,2022-2023,laliga
+nico williams,FW,Athletic Club,36,32,2656,6,4,3,0,174,80,321,2022-2023,laliga
+axel witsel,"DF,MF",Atlético Madrid,33,25,2258,0,0,2,1,6,82,11,2022-2023,laliga
+lamine yamal,FW,Barcelona,1,0,8,0,0,0,0,0,2,2,2022-2023,laliga
+jawad el yamiq,DF,Valladolid,25,19,1608,1,0,1,1,21,55,3,2022-2023,laliga
+joseba zaldúa,DF,Cádiz,10,7,639,0,1,4,0,13,13,20,2022-2023,laliga
+oier zarraga,MF,Athletic Club,26,6,852,0,0,5,0,12,37,32,2022-2023,laliga
+igor zubeldia,DF,Real Sociedad,31,29,2542,1,1,11,0,14,128,4,2022-2023,laliga
+martín zubimendi,MF,Real Sociedad,36,35,3101,1,3,12,0,43,184,29,2022-2023,laliga

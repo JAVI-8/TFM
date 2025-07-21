@@ -1,0 +1,660 @@
+nombre,Posicion,club_actual,partidos_jugados,titularidades,minutos_jugados,goles,asistencias,amarillas,rojas,carreras_progresivas,pases_progresivos,Pases_progresivos_recibidos,temporada,liga
+james abankwah,"DF,MF",Udinese,6,0,88,0,0,1,0,3,4,1,2024-2025,serie-a
+saud abdulhamid,DF,Roma,4,2,205,0,1,0,0,6,9,26,2024-2025,serie-a
+oliver abildgaard,MF,Como,1,0,7,0,0,0,0,0,0,0,2024-2025,serie-a
+tammy abraham,FW,Roma,1,0,1,0,0,0,0,0,1,2,2024-2025,serie-a
+tammy abraham,FW,Milan,28,12,1183,3,4,1,0,8,26,69,2024-2025,serie-a
+federico accornero,MF,Genoa,1,0,5,0,0,0,0,0,0,0,2024-2025,serie-a
+francesco acerbi,DF,Inter,23,20,1710,0,1,0,0,19,62,22,2024-2025,serie-a
+che adams,FW,Torino,36,30,2652,9,3,2,0,23,40,153,2024-2025,serie-a
+yacine adli,MF,Fiorentina,25,14,1219,4,6,3,1,24,103,30,2024-2025,serie-a
+vasilije adžić,"MF,FW",Juventus,6,0,42,0,0,0,0,0,1,3,2024-2025,serie-a
+michel aebischer,MF,Bologna,14,9,724,0,0,2,0,8,33,17,2024-2025,serie-a
+honest ahanor,"DF,MF",Genoa,6,3,270,0,0,0,0,3,3,7,2024-2025,serie-a
+junior ajayi,FW,Hellas Verona,2,0,13,0,0,0,0,0,1,0,2024-2025,serie-a
+jean-daniel akpa-akpro,MF,Monza,14,12,966,0,0,4,0,21,19,22,2024-2025,serie-a
+david akpan ankeye,"FW,MF",Genoa,4,0,45,0,0,0,0,0,1,3,2024-2025,serie-a
+faride alidou,"FW,MF",Hellas Verona,3,0,71,0,0,0,0,1,1,2,2024-2025,serie-a
+dele alli,MF,Como,1,0,9,0,0,0,1,0,0,1,2024-2025,serie-a
+pontus almqvist,"FW,MF",Parma,29,10,1112,1,1,5,0,42,12,85,2024-2025,serie-a
+giorgio altare,DF,Venezia,12,8,753,0,0,2,0,4,20,5,2024-2025,serie-a
+sofyan amrabat,MF,Fiorentina,2,2,180,0,0,0,0,2,14,1,2024-2025,serie-a
+angeliño,DF,Roma,38,36,3177,2,1,1,0,66,172,172,2024-2025,serie-a
+lorenzo anghelè,FW,Juventus,1,0,6,0,0,0,0,0,1,0,2024-2025,serie-a
+faustino anjorin,MF,Empoli,22,14,1114,2,3,3,0,28,55,35,2024-2025,serie-a
+marko arnautović,FW,Inter,17,5,527,4,2,1,0,4,16,61,2024-2025,serie-a
+kristjan asllani,MF,Inter,21,10,980,2,2,4,0,7,55,20,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+arthur atta,"MF,FW",Udinese,27,12,1251,0,1,5,0,31,57,77,2024-2025,serie-a
+emil audero,GK,Como,8,8,720,0,0,0,0,0,0,0,2024-2025,serie-a
+tommaso augello,DF,Cagliari,38,30,2713,0,7,3,0,58,118,113,2024-2025,serie-a
+carlos augusto,DF,Inter,28,15,1625,3,2,1,0,31,80,83,2024-2025,serie-a
+yann aurel bisseck,DF,Inter,26,16,1553,3,2,4,0,32,93,44,2024-2025,serie-a
+paulo azzi,DF,Cagliari,6,5,426,0,0,2,0,15,13,26,2024-2025,serie-a
+oussama el azzouzi,MF,Bologna,2,0,19,0,0,0,0,0,4,0,2024-2025,serie-a
+jacopo bacci,MF,Empoli,3,0,31,0,0,0,0,0,1,0,2024-2025,serie-a
+milan badelj,MF,Genoa,23,21,1472,1,0,2,0,8,83,14,2024-2025,serie-a
+mitchel bakker,MF,Atalanta,1,0,22,0,0,0,0,0,1,1,2024-2025,serie-a
+tommaso baldanzi,"MF,FW",Roma,31,5,832,1,1,2,0,39,23,57,2024-2025,serie-a
+keita baldé,FW,Monza,11,8,638,2,0,2,0,19,35,29,2024-2025,serie-a
+botond balogh,DF,Parma,29,23,2053,0,1,5,0,7,37,1,2024-2025,serie-a
+mario balotelli,"FW,MF",Genoa,6,0,62,0,0,2,0,0,1,5,2024-2025,serie-a
+lameck banda,"FW,MF",Lecce,15,6,610,0,1,1,0,27,7,46,2024-2025,serie-a
+daniel bandeira,MF,Hellas Verona,11,4,407,0,0,1,0,1,25,4,2024-2025,serie-a
+mattia bani,DF,Genoa,20,19,1507,0,0,3,0,6,25,3,2024-2025,serie-a
+antonín barák,MF,Fiorentina,1,1,54,0,0,0,0,2,2,5,2024-2025,serie-a
+federico barba,DF,Como,7,5,431,0,0,0,0,5,25,5,2024-2025,serie-a
+nicolò barella,MF,Inter,32,28,2456,3,6,4,0,63,235,133,2024-2025,serie-a
+davide bartesaghi,DF,Milan,4,1,118,0,0,0,1,2,2,17,2024-2025,serie-a
+federico baschirotto,DF,Lecce,38,38,3420,2,0,3,0,13,71,5,2024-2025,serie-a
+daniele baselli,MF,Como,2,1,22,0,0,0,0,2,4,0,2024-2025,serie-a
+alessandro bastoni,DF,Inter,32,30,2333,1,5,6,1,62,162,83,2024-2025,serie-a
+reda belahyane,MF,Hellas Verona,22,17,1658,0,2,6,1,22,73,13,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+reda belahyane,MF,Lazio,6,1,198,0,0,0,1,4,10,1,2024-2025,serie-a
+raoul bellanova,DF,Torino,1,1,87,0,0,0,0,4,0,5,2024-2025,serie-a
+raoul bellanova,DF,Atalanta,34,27,2402,0,9,3,0,83,87,191,2024-2025,serie-a
+andrea belotti,FW,Como,18,7,593,2,0,1,0,9,9,33,2024-2025,serie-a
+lucas beltrán,"FW,MF",Fiorentina,32,20,1864,5,4,6,0,23,64,94,2024-2025,serie-a
+adrian benedyczak,"FW,MF",Parma,9,2,214,0,0,0,0,3,3,12,2024-2025,serie-a
+ismaël bennacer,MF,Milan,6,4,300,0,0,2,0,8,23,12,2024-2025,serie-a
+medon berisha,MF,Lecce,17,7,716,0,1,5,0,13,42,17,2024-2025,serie-a
+adrian bernabe,MF,Parma,21,18,1453,1,1,1,0,37,115,20,2024-2025,serie-a
+antoine bernede,MF,Hellas Verona,14,7,594,1,0,2,0,7,29,22,2024-2025,serie-a
+sam beukema,DF,Bologna,35,33,3012,0,1,1,0,27,153,9,2024-2025,serie-a
+alessandro bianco,MF,Monza,34,29,2600,1,0,9,0,35,125,24,2024-2025,serie-a
+alessandro bianco,MF,Fiorentina,1,0,18,0,0,0,0,0,0,1,2024-2025,serie-a
+jaka bijol,DF,Udinese,34,34,2963,1,0,13,1,22,98,10,2024-2025,serie-a
+philip billing,MF,Napoli,10,1,197,1,0,1,0,1,5,8,2024-2025,serie-a
+cristiano biraghi,DF,Torino,15,13,1158,0,0,0,0,24,36,49,2024-2025,serie-a
+cristiano biraghi,DF,Fiorentina,8,5,433,1,0,1,0,3,15,17,2024-2025,serie-a
+samuele birindelli,"DF,MF",Monza,21,18,1468,3,0,2,0,40,35,100,2024-2025,serie-a
+bjarki bjarkason,"DF,MF",Venezia,9,1,165,0,0,2,0,6,10,13,2024-2025,serie-a
+emil bohinen,MF,Genoa,3,1,166,0,0,0,0,6,5,2,2024-2025,serie-a
+warren bondo,MF,Monza,20,19,1618,0,0,5,1,25,39,21,2024-2025,serie-a
+warren bondo,MF,Milan,4,3,162,0,0,1,0,2,7,0,2024-2025,serie-a
+kevin bonifazi,DF,Lecce,3,0,65,0,0,0,0,0,1,1,2024-2025,serie-a
+ange-yoan bonny,FW,Parma,37,30,2529,6,4,2,0,41,53,163,2024-2025,serie-a
+edoardo bove,"MF,FW",Fiorentina,11,10,836,1,2,3,0,12,37,24,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+domagoj bradarić,DF,Hellas Verona,28,24,1933,1,0,6,0,30,46,83,2024-2025,serie-a
+matthias braunöder,MF,Como,8,3,268,0,0,3,1,2,18,0,2024-2025,serie-a
+iker bravo,"FW,MF",Udinese,29,4,682,2,1,3,0,7,18,39,2024-2025,serie-a
+gleison bremer,DF,Juventus,6,6,540,0,0,2,0,2,21,0,2024-2025,serie-a
+brenner,"MF,FW",Udinese,9,5,386,1,2,0,0,5,7,16,2024-2025,serie-a
+marco brescianini,MF,Atalanta,29,9,991,4,2,1,0,46,36,69,2024-2025,serie-a
+arvid brorsson,DF,Monza,6,3,362,0,0,0,0,1,9,1,2024-2025,serie-a
+tajon buchanan,"DF,FW",Inter,6,0,95,0,0,0,0,6,2,8,2024-2025,serie-a
+alessandro buongiorno,DF,Napoli,22,22,1924,1,0,2,0,27,82,8,2024-2025,serie-a
+rareș-cătălin burnete,FW,Lecce,4,0,28,0,0,0,0,0,0,4,2024-2025,serie-a
+gianluca busio,MF,Venezia,33,28,2518,2,0,4,0,60,95,135,2024-2025,serie-a
+jean butez,GK,Como,19,18,1666,0,0,0,0,0,1,0,2024-2025,serie-a
+liberato cacace,"MF,DF",Empoli,33,24,2230,2,4,6,0,53,70,97,2024-2025,serie-a
+alessio cacciamani,"MF,DF",Torino,2,0,31,0,0,0,0,2,1,2,2024-2025,serie-a
+davide calabria,DF,Bologna,11,7,632,0,1,3,0,7,40,20,2024-2025,serie-a
+davide calabria,DF,Milan,7,4,316,0,0,0,0,8,24,31,2024-2025,serie-a
+luca caldirola,DF,Monza,14,10,876,0,0,5,0,5,22,4,2024-2025,serie-a
+hakan çalhanoğlu,MF,Inter,28,25,1879,5,6,5,0,52,173,51,2024-2025,serie-a
+drissa camara,"MF,FW",Parma,21,1,447,0,0,3,0,18,27,35,2024-2025,serie-a
+francesco camarda,"FW,MF",Milan,10,1,206,0,0,0,0,2,1,16,2024-2025,serie-a
+nicolò cambiaghi,FW,Bologna,18,4,620,1,3,0,0,45,25,63,2024-2025,serie-a
+andrea cambiaso,"DF,FW",Juventus,33,25,2221,2,3,4,0,78,111,122,2024-2025,serie-a
+thomas campaniello,FW,Empoli,3,0,25,0,0,0,0,0,0,6,2024-2025,serie-a
+matteo cancellieri,"FW,MF",Parma,27,19,1424,3,0,2,1,40,24,79,2024-2025,serie-a
+fali candé,DF,Venezia,17,17,1530,1,1,4,0,5,47,3,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+antonio candela,DF,Venezia,14,12,1008,0,1,2,0,12,27,25,2024-2025,serie-a
+gianluca caprari,"MF,FW",Monza,34,18,1651,3,2,3,0,43,81,104,2024-2025,serie-a
+elia caprile,GK,Cagliari,18,18,1620,0,0,0,0,0,0,0,2024-2025,serie-a
+elia caprile,GK,Napoli,4,3,325,0,0,0,0,0,0,0,2024-2025,serie-a
+francesco caputo,FW,Empoli,1,0,6,0,0,0,0,0,0,1,2024-2025,serie-a
+maxence caqueret,MF,Como,18,15,1087,2,3,4,0,15,76,46,2024-2025,serie-a
+andrea carboni,DF,Monza,26,25,2191,0,1,5,0,9,51,32,2024-2025,serie-a
+franco carboni,DF,Venezia,8,3,226,0,0,2,0,2,6,11,2024-2025,serie-a
+marco carnesecchi,GK,Atalanta,34,34,3060,0,0,1,0,0,0,0,2024-2025,serie-a
+cesare casadei,MF,Torino,15,13,1017,1,1,1,0,14,36,12,2024-2025,serie-a
+nicolò casale,DF,Bologna,15,9,900,0,1,1,0,3,29,2,2024-2025,serie-a
+nicolò casale,DF,Lazio,2,2,135,0,0,0,0,0,6,0,2024-2025,serie-a
+federico cassa,"MF,FW",Atalanta,2,0,14,0,0,0,0,1,1,2,2024-2025,serie-a
+valentín castellanos,FW,Lazio,29,28,2384,10,3,9,1,27,66,149,2024-2025,serie-a
+santiago castro,FW,Bologna,36,27,2294,8,4,7,0,17,39,136,2024-2025,serie-a
+gaetano castrovilli,MF,Monza,12,7,596,0,0,0,0,10,24,28,2024-2025,serie-a
+gaetano castrovilli,"MF,FW",Lazio,9,1,148,0,0,0,0,5,10,6,2024-2025,serie-a
+danilo cataldi,MF,Fiorentina,24,22,1712,3,0,1,0,18,90,16,2024-2025,serie-a
+zeki çelik,DF,Roma,31,27,2256,0,2,5,0,28,106,93,2024-2025,serie-a
+alberto cerri,FW,Como,5,0,87,0,0,0,0,0,0,11,2024-2025,serie-a
+gabriel charpentier,FW,Parma,10,0,271,1,2,1,0,6,7,16,2024-2025,serie-a
+walid cheddira,FW,Napoli,1,0,12,0,0,0,0,0,1,1,2024-2025,serie-a
+leandro chichizola,GK,Parma,1,1,90,0,0,0,0,0,1,0,2024-2025,serie-a
+samuel chukwueze,"FW,MF",Milan,26,9,925,3,2,0,0,48,36,116,2024-2025,serie-a
+aaron ciammaglichella,MF,Torino,1,0,1,0,0,0,0,0,0,0,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+giuseppe ciocci,GK,Cagliari,1,0,9,0,0,0,0,0,0,0,2024-2025,serie-a
+alessandro circati,DF,Parma,6,6,540,0,0,1,0,1,10,0,2024-2025,serie-a
+alphadjo cissè,"FW,MF",Hellas Verona,2,0,9,0,0,0,0,0,1,0,2024-2025,serie-a
+patrick ciurria,"MF,DF",Monza,21,12,1111,1,1,1,0,19,27,52,2024-2025,serie-a
+saúl coco,DF,Torino,32,32,2845,2,0,10,0,17,70,3,2024-2025,serie-a
+lorenzo colombo,"FW,MF",Empoli,37,26,2233,6,2,5,1,27,48,116,2024-2025,serie-a
+andrea colpani,"FW,MF",Fiorentina,24,17,1432,2,1,1,0,37,57,129,2024-2025,serie-a
+florinel coman,"FW,MF",Cagliari,9,2,263,1,0,2,0,5,5,22,2024-2025,serie-a
+pietro comuzzo,DF,Fiorentina,32,23,2110,1,0,5,0,14,75,12,2024-2025,serie-a
+francisco conceição,"FW,MF",Juventus,26,12,1340,3,3,5,1,95,35,143,2024-2025,serie-a
+diego coppola,DF,Hellas Verona,34,33,2927,2,0,10,0,4,48,3,2024-2025,serie-a
+maxwel cornet,"FW,MF",Genoa,7,2,246,2,1,0,0,8,4,26,2024-2025,serie-a
+joaquín correa,"FW,MF",Inter,19,6,731,2,2,3,0,22,42,45,2024-2025,serie-a
+alberto costa,DF,Juventus,9,3,357,0,1,3,0,8,8,25,2024-2025,serie-a
+lassana coulibaly,MF,Lecce,38,30,2667,1,0,3,0,21,93,49,2024-2025,serie-a
+woyo coulibaly,DF,Parma,14,12,1084,0,1,1,1,36,41,23,2024-2025,serie-a
+bryan cristante,MF,Roma,30,23,2045,4,2,8,0,25,145,41,2024-2025,serie-a
+domen črnigoj,MF,Venezia,8,1,136,0,0,0,0,4,4,6,2024-2025,serie-a
+juan cuadrado,"DF,MF",Atalanta,23,7,832,0,2,3,0,41,64,90,2024-2025,serie-a
+patrick cutrone,FW,Como,33,23,2047,7,4,1,0,53,31,155,2024-2025,serie-a
+wylan cyprien,MF,Parma,2,0,28,0,0,0,0,1,2,0,2024-2025,serie-a
+danilo d'ambrosio,DF,Monza,20,12,1095,0,1,2,1,10,34,16,2024-2025,serie-a
+lucas da cunha,MF,Como,36,30,2613,3,2,4,0,63,154,85,2024-2025,serie-a
+samuel dahl,"DF,MF",Roma,2,0,43,0,0,0,0,1,2,4,2024-2025,serie-a
+thijs dallinga,FW,Bologna,31,11,1154,3,2,1,0,9,17,84,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+maat daniel caprini,FW,Fiorentina,1,0,7,0,0,0,0,0,1,3,2024-2025,serie-a
+flavius daniliuc,DF,Hellas Verona,18,9,1004,0,0,0,0,8,38,8,2024-2025,serie-a
+danilo,DF,Juventus,12,6,581,0,1,2,0,16,45,7,2024-2025,serie-a
+matteo darmian,DF,Inter,29,20,1781,3,2,3,0,14,45,102,2024-2025,serie-a
+juan david cabal,DF,Juventus,7,6,460,0,0,0,0,14,17,19,2024-2025,serie-a
+keinan davis,FW,Udinese,23,10,1066,2,1,2,0,26,22,77,2024-2025,serie-a
+paweł dawidowicz,"DF,MF",Hellas Verona,26,24,1845,0,0,7,1,10,39,3,2024-2025,serie-a
+charles de ketelaere,"MF,FW",Atalanta,36,25,2070,7,7,1,0,108,140,211,2024-2025,serie-a
+mattia de sciglio,DF,Empoli,16,7,769,1,0,0,0,4,18,7,2024-2025,serie-a
+lorenzo de silvestri,DF,Bologna,18,13,1060,1,0,1,0,4,46,30,2024-2025,serie-a
+koni de winter,DF,Genoa,25,23,2135,3,0,6,0,10,56,10,2024-2025,serie-a
+alessandro deiola,MF,Cagliari,29,16,1432,2,1,6,0,11,40,36,2024-2025,serie-a
+enrico del prato,DF,Parma,34,32,2947,4,0,8,0,8,81,31,2024-2025,serie-a
+fisayo dele-bashiru,"MF,FW",Lazio,20,12,947,3,1,0,0,23,26,57,2024-2025,serie-a
+ali dembélé,DF,Torino,15,4,388,1,0,4,1,8,12,8,2024-2025,serie-a
+michele di gregorio,GK,Juventus,33,33,2970,0,0,0,0,0,0,0,2024-2025,serie-a
+giovanni di lorenzo,DF,Napoli,37,37,3330,3,2,6,0,50,224,163,2024-2025,serie-a
+boulaye dia,"MF,FW",Lazio,35,27,2177,9,3,2,0,23,51,114,2024-2025,serie-a
+assane diao,"FW,MF",Como,15,14,1252,8,1,2,0,50,36,116,2024-2025,serie-a
+federico dimarco,"DF,FW",Inter,32,28,2140,4,7,3,0,47,83,232,2024-2025,serie-a
+berat djimsiti,DF,Atalanta,34,32,2640,1,2,6,0,32,109,42,2024-2025,serie-a
+dodô,DF,Fiorentina,34,34,3025,0,4,8,0,143,128,193,2024-2025,serie-a
+benjamín domínguez,FW,Bologna,24,16,1281,3,2,0,0,50,32,123,2024-2025,serie-a
+patrick dorgu,"DF,FW",Lecce,21,21,1840,3,1,2,1,68,54,117,2024-2025,serie-a
+alberto dossena,DF,Como,23,20,1825,0,2,1,1,4,36,1,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+issa doumbia,MF,Venezia,24,10,939,0,0,0,0,12,22,29,2024-2025,serie-a
+anastasios douvikas,FW,Como,13,6,580,2,2,1,0,8,6,36,2024-2025,serie-a
+artem dovbyk,FW,Roma,32,27,2418,12,2,0,0,24,16,175,2024-2025,serie-a
+ondrej duda,MF,Hellas Verona,28,27,2395,1,3,12,1,23,117,26,2024-2025,serie-a
+denzel dumfries,"DF,FW",Inter,28,19,1865,7,2,4,0,55,51,173,2024-2025,serie-a
+alfred duncan,MF,Venezia,16,12,957,0,0,2,0,11,53,12,2024-2025,serie-a
+paulo dybala,"FW,MF",Roma,24,16,1417,6,3,2,0,41,79,122,2024-2025,serie-a
+enzo ebosse,DF,Udinese,2,0,90,0,0,1,0,0,5,0,2024-2025,serie-a
+tyronne ebuehi,"DF,MF",Empoli,4,0,74,0,0,0,0,3,4,3,2024-2025,serie-a
+éderson,MF,Atalanta,37,32,2881,4,1,5,1,40,216,79,2024-2025,serie-a
+kingsley ehizibue,DF,Udinese,33,30,2498,0,1,5,0,54,55,116,2024-2025,serie-a
+jeff ekhator,"FW,MF",Genoa,24,6,769,1,1,1,0,4,14,51,2024-2025,serie-a
+jurgen ekkelenkamp,MF,Udinese,34,20,1892,3,2,2,0,34,72,86,2024-2025,serie-a
+emmanuel ekong,"MF,FW",Empoli,15,0,186,0,0,1,0,8,5,19,2024-2025,serie-a
+caleb ekuban,FW,Genoa,18,3,555,1,3,1,0,7,8,42,2024-2025,serie-a
+mikael ellertsson,"DF,MF",Venezia,36,29,2470,2,2,2,0,33,36,92,2024-2025,serie-a
+elif elmas,"FW,MF",Torino,13,12,1021,4,0,0,0,42,34,58,2024-2025,serie-a
+emerson,DF,Milan,17,16,1377,0,0,5,0,23,68,71,2024-2025,serie-a
+yannik engelhardt,"MF,DF",Como,26,11,1164,1,1,4,0,18,54,18,2024-2025,serie-a
+martin erlic,DF,Bologna,8,5,334,0,0,0,0,4,11,1,2024-2025,serie-a
+sebastiano esposito,"FW,MF",Empoli,33,27,2331,8,0,1,0,31,93,106,2024-2025,serie-a
+estanis,FW,Bologna,1,0,9,0,0,0,0,1,0,1,2024-2025,serie-a
+nahuel estévez,MF,Parma,14,7,657,0,0,3,0,3,30,4,2024-2025,serie-a
+giovanni fabbian,MF,Bologna,30,9,1023,3,1,2,0,14,17,43,2024-2025,serie-a
+alieu fadera,"FW,DF",Como,28,20,1644,1,3,2,1,74,36,160,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+nicolò fagioli,MF,Fiorentina,15,10,962,1,2,0,0,15,50,19,2024-2025,serie-a
+nicolò fagioli,MF,Juventus,17,5,571,0,0,4,0,19,41,18,2024-2025,serie-a
+wladimiro falcone,GK,Lecce,38,38,3420,0,0,2,0,0,0,0,2024-2025,serie-a
+davide faraoni,DF,Hellas Verona,8,3,260,0,0,1,0,2,3,13,2024-2025,serie-a
+jacopo fazzini,MF,Empoli,20,16,1383,4,1,1,1,34,49,88,2024-2025,serie-a
+mattia felici,"MF,FW",Cagliari,20,9,925,0,3,1,0,39,19,75,2024-2025,serie-a
+joão félix,MF,Milan,15,8,760,2,0,3,0,20,40,56,2024-2025,serie-a
+lewis ferguson,MF,Bologna,16,10,983,1,1,0,0,20,53,26,2024-2025,serie-a
+daniel fila,FW,Venezia,10,6,492,2,0,3,1,5,8,30,2024-2025,serie-a
+alessandro florenzi,FW,Milan,1,0,5,0,0,0,0,0,0,0,2024-2025,serie-a
+youssouf fofana,MF,Milan,35,29,2504,1,6,5,0,44,176,32,2024-2025,serie-a
+michael folorunsho,"FW,MF",Fiorentina,14,6,650,0,0,5,0,13,21,33,2024-2025,serie-a
+michael folorunsho,"FW,MF",Napoli,6,0,35,0,0,0,0,0,0,2,2024-2025,serie-a
+omari forson,"MF,FW",Monza,9,1,223,0,0,0,0,14,10,18,2024-2025,serie-a
+davide frattesi,MF,Inter,27,9,1158,5,1,1,0,23,31,50,2024-2025,serie-a
+morten frendrup,MF,Genoa,35,35,3103,2,0,5,0,24,106,29,2024-2025,serie-a
+martin frese,DF,Hellas Verona,11,5,549,0,0,0,0,7,19,12,2024-2025,serie-a
+remo freuler,MF,Bologna,37,37,3204,1,2,6,0,39,208,56,2024-2025,serie-a
+matteo gabbia,DF,Milan,26,24,2152,2,0,4,0,13,74,2,2024-2025,serie-a
+tommaso gabellini,FW,Torino,1,0,10,0,0,0,0,1,0,0,2024-2025,serie-a
+tiago gabriel,DF,Lecce,2,0,96,0,0,0,0,0,1,0,2024-2025,serie-a
+alessandro gabrielloni,"FW,MF",Como,15,0,142,1,1,1,0,5,6,13,2024-2025,serie-a
+gianluca gaetano,"MF,FW",Cagliari,28,8,1009,2,4,0,0,11,41,82,2024-2025,serie-a
+roberto gagliardini,"MF,DF",Monza,8,0,180,0,0,1,0,5,11,3,2024-2025,serie-a
+antonino gallo,DF,Lecce,31,31,2609,0,2,3,1,57,107,110,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+silvère ganvoula m'boussy,FW,Monza,7,4,326,0,0,0,0,3,4,21,2024-2025,serie-a
+federico gatti,DF,Juventus,30,26,2195,1,0,2,0,24,73,6,2024-2025,serie-a
+david de gea,GK,Fiorentina,34,34,3060,0,1,1,0,0,0,0,2024-2025,serie-a
+valentin gendrey,DF,Lecce,2,2,180,0,0,0,0,7,5,4,2024-2025,serie-a
+daniele ghilardi,DF,Hellas Verona,24,21,2029,0,0,7,1,16,57,7,2024-2025,serie-a
+lautaro gianetti,DF,Udinese,15,11,878,1,0,4,0,0,19,3,2024-2025,serie-a
+samuel gigot,DF,Lazio,15,7,683,2,0,2,0,7,12,5,2024-2025,serie-a
+mario gila,DF,Lazio,32,31,2741,1,0,8,0,48,157,12,2024-2025,serie-a
+billy gilmour,MF,Napoli,26,13,1177,0,1,0,0,11,67,18,2024-2025,serie-a
+santiago giménez,FW,Milan,14,7,669,5,2,3,1,13,6,38,2024-2025,serie-a
+gvidas gineitis,MF,Torino,30,15,1430,3,1,5,0,15,36,43,2024-2025,serie-a
+ben godfrey,DF,Atalanta,1,0,23,0,0,0,0,0,1,1,2024-2025,serie-a
+saba goglichidze,DF,Empoli,33,29,2539,0,1,3,1,12,45,9,2024-2025,serie-a
+edoardo goldaniga,DF,Como,32,28,2532,1,0,12,1,20,81,8,2024-2025,serie-a
+pierluigi gollini,GK,Genoa,7,7,630,0,0,1,0,0,0,0,2024-2025,serie-a
+nicolás gonzález,"FW,MF",Juventus,26,23,1750,3,2,3,0,35,69,123,2024-2025,serie-a
+robin gosens,DF,Fiorentina,31,28,2434,5,5,6,0,31,102,91,2024-2025,serie-a
+lucas gourna-douath,MF,Roma,6,2,229,0,0,2,0,4,9,9,2024-2025,serie-a
+alberto grassi,MF,Empoli,28,27,2203,1,0,8,0,18,74,24,2024-2025,serie-a
+mattéo guendouzi,MF,Lazio,37,37,3270,1,3,7,0,89,316,64,2024-2025,serie-a
+frederic guilbert,DF,Lecce,31,31,2435,0,1,3,2,48,88,45,2024-2025,serie-a
+albert guðmundsson,"FW,MF",Fiorentina,24,16,1273,6,1,2,0,35,37,59,2024-2025,serie-a
+emmanuel gyasi,"DF,FW",Empoli,37,37,3217,2,1,5,0,22,53,108,2024-2025,serie-a
+christian gytkjær,FW,Venezia,29,6,754,2,1,0,0,3,5,52,2024-2025,serie-a
+nicolas haas,MF,Empoli,10,2,287,0,0,1,0,2,9,2,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+saad el haddad,MF,Venezia,3,0,30,0,0,0,0,1,1,6,2024-2025,serie-a
+antoine hainaut,"DF,FW",Parma,25,10,1206,2,0,4,0,22,34,37,2024-2025,serie-a
+mohamed haj,MF,Parma,15,3,453,1,2,4,0,6,13,28,2024-2025,serie-a
+ridgeciano haps,DF,Venezia,25,14,1369,1,1,3,0,26,52,47,2024-2025,serie-a
+abdou harroui,"MF,FW",Hellas Verona,10,5,463,1,2,1,0,23,21,34,2024-2025,serie-a
+liam henderson,MF,Empoli,36,27,2337,0,4,10,0,18,108,54,2024-2025,serie-a
+mario hermoso,DF,Roma,8,2,251,0,0,2,1,3,14,5,2024-2025,serie-a
+theo hernández,DF,Milan,33,30,2696,4,3,4,1,93,132,148,2024-2025,serie-a
+hernani,MF,Parma,25,15,1327,3,3,7,0,29,78,40,2024-2025,serie-a
+isak hien,DF,Atalanta,30,27,2327,0,0,10,0,7,51,3,2024-2025,serie-a
+emil holm,DF,Bologna,21,12,1137,1,1,3,0,29,49,43,2024-2025,serie-a
+mats hummels,DF,Roma,14,11,915,0,0,1,0,4,26,1,2024-2025,serie-a
+elseid hysaj,DF,Lazio,11,4,424,0,3,2,1,4,14,18,2024-2025,serie-a
+arijon ibrahimović,MF,Lazio,1,0,8,0,0,0,0,0,0,0,2024-2025,serie-a
+jay idzes,DF,Venezia,35,35,3127,1,0,5,0,15,84,15,2024-2025,serie-a
+jonathan ikone,FW,Como,13,5,540,2,0,1,0,23,17,55,2024-2025,serie-a
+jonathan ikone,"FW,MF",Fiorentina,14,1,334,0,0,0,0,12,13,39,2024-2025,serie-a
+ivan ilić,MF,Torino,19,9,920,1,0,4,0,24,45,41,2024-2025,serie-a
+samuel iling-junior,"FW,MF",Bologna,7,0,118,1,0,0,0,5,7,27,2024-2025,serie-a
+alessio iovine,"DF,FW",Como,10,3,387,0,0,2,0,9,6,8,2024-2025,serie-a
+gustav isaksen,FW,Lazio,37,29,2210,4,2,5,0,95,46,249,2024-2025,serie-a
+ardian ismajli,DF,Empoli,29,29,2508,0,0,3,0,3,38,1,2024-2025,serie-a
+armando izzo,DF,Monza,30,28,2435,1,1,12,0,12,72,12,2024-2025,serie-a
+fellipe jack,DF,Como,7,1,171,0,0,2,0,2,8,1,2024-2025,serie-a
+ali jasim,"FW,DF",Como,2,0,10,0,0,0,0,1,1,1,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+gaby jean,DF,Lecce,19,16,1388,0,0,0,0,8,42,3,2024-2025,serie-a
+juan jesus,DF,Napoli,15,12,1074,0,1,2,0,3,50,2,2024-2025,serie-a
+alejandro jiménez,"DF,FW",Milan,22,14,1266,0,1,6,0,55,37,72,2024-2025,serie-a
+þórir jóhann helgason,MF,Lecce,21,13,1156,0,4,0,0,20,38,58,2024-2025,serie-a
+jesse joronen,GK,Venezia,8,7,703,0,0,0,0,0,0,0,2024-2025,serie-a
+luka jović,"FW,MF",Milan,15,6,557,2,0,1,0,8,26,24,2024-2025,serie-a
+mohamed kaba,MF,Lecce,15,2,452,0,0,1,0,3,18,8,2024-2025,serie-a
+christian kabasele,DF,Udinese,16,12,1161,2,0,0,0,9,44,7,2024-2025,serie-a
+pierre kalulu,DF,Juventus,29,25,2337,1,0,2,1,48,117,24,2024-2025,serie-a
+hassane kamara,DF,Udinese,30,25,2001,1,4,8,1,52,61,103,2024-2025,serie-a
+yann karamoh,"MF,FW",Torino,29,10,1046,0,1,2,0,37,28,80,2024-2025,serie-a
+jesper karlsson,FW,Bologna,7,3,298,1,0,1,0,6,6,31,2024-2025,serie-a
+jesper karlsson,FW,Lecce,13,6,495,1,0,2,0,11,12,32,2024-2025,serie-a
+jesper karlström,MF,Udinese,37,36,3186,0,3,9,0,23,135,46,2024-2025,serie-a
+lior kasa,"MF,FW",Genoa,8,2,230,0,0,2,0,1,7,7,2024-2025,serie-a
+grigoris kastanos,"MF,FW",Hellas Verona,27,8,872,1,1,4,0,12,34,27,2024-2025,serie-a
+michael kayode,"DF,FW",Fiorentina,5,1,127,0,0,0,0,3,8,6,2024-2025,serie-a
+moise kean,FW,Fiorentina,31,30,2615,17,3,5,0,42,26,143,2024-2025,serie-a
+mandela keita,MF,Parma,30,24,1826,0,2,6,1,13,50,5,2024-2025,serie-a
+lloyd kelly,DF,Juventus,12,11,1013,0,0,1,0,10,36,26,2024-2025,serie-a
+marc-oliver kempf,DF,Como,31,30,2615,0,0,6,1,17,85,4,2024-2025,serie-a
+kialonda,DF,Lecce,24,24,2144,0,1,3,0,4,34,5,2024-2025,serie-a
+magnus kofod andersen,MF,Venezia,14,7,695,1,1,1,0,7,24,18,2024-2025,serie-a
+sead kolašinac,DF,Atalanta,23,23,1903,0,2,7,0,52,142,47,2024-2025,serie-a
+randal kolo muani,FW,Juventus,16,13,1160,8,1,0,0,21,20,100,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+ismael konate,"FW,MF",Empoli,12,0,116,0,1,0,0,5,2,7,2024-2025,serie-a
+manu koné,MF,Roma,34,31,2572,2,1,6,0,70,144,50,2024-2025,serie-a
+teun koopmeiners,"MF,FW",Juventus,28,23,1994,3,3,3,0,32,89,127,2024-2025,serie-a
+odilon kossounou,DF,Atalanta,18,12,1125,0,0,1,0,13,46,14,2024-2025,serie-a
+christian kouamé,"FW,MF",Fiorentina,18,5,622,0,1,1,0,7,16,46,2024-2025,serie-a
+christian kouamé,"FW,MF",Empoli,8,5,507,1,0,0,0,5,13,39,2024-2025,serie-a
+viktor kovalenko,MF,Empoli,6,0,77,0,0,0,0,1,4,3,2024-2025,serie-a
+mateusz kowalski,MF,Parma,1,1,56,0,0,0,0,0,0,2,2024-2025,serie-a
+thomas kristensen,DF,Udinese,24,19,1754,1,0,5,0,19,76,19,2024-2025,serie-a
+nikola krstović,FW,Lecce,37,37,3057,11,5,6,0,42,56,149,2024-2025,serie-a
+khvicha kvaratskhelia,"FW,MF",Napoli,17,15,1178,5,3,1,0,74,57,89,2024-2025,serie-a
+giorgos kyriakopoulos,DF,Monza,34,33,2845,2,4,5,0,67,97,132,2024-2025,serie-a
+mathis lambourde,"FW,MF",Hellas Verona,7,0,89,1,0,1,0,1,0,12,2024-2025,serie-a
+gianluca lapadula,"FW,MF",Cagliari,12,1,310,0,0,1,0,7,7,16,2024-2025,serie-a
+valentino lazaro,"DF,FW",Torino,33,26,2307,0,6,6,0,35,76,131,2024-2025,serie-a
+darko lazović,"DF,MF",Hellas Verona,27,17,1459,2,3,0,0,22,40,88,2024-2025,serie-a
+manuel lazzari,DF,Lazio,25,16,1406,0,1,3,0,72,66,96,2024-2025,serie-a
+enzo le fée,MF,Roma,6,4,318,0,0,1,0,15,28,3,2024-2025,serie-a
+nicola leali,GK,Genoa,29,29,2610,0,0,1,0,0,0,0,2024-2025,serie-a
+rafael leão,FW,Milan,34,25,2323,8,8,5,0,123,93,262,2024-2025,serie-a
+stefan lekovic,DF,Monza,7,3,367,0,0,0,0,4,15,2,2024-2025,serie-a
+nunzio lella,MF,Venezia,1,0,5,0,0,0,0,0,0,0,2024-2025,serie-a
+giovanni leoni,DF,Parma,17,14,1199,1,0,3,1,0,21,5,2024-2025,serie-a
+ben lhassine kone,MF,Como,4,0,51,0,0,1,0,0,3,1,2024-2025,serie-a
+mattia liberali,MF,Milan,1,1,61,0,0,0,0,1,5,4,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+karol linetty,MF,Torino,28,18,1540,1,0,6,0,18,47,19,2024-2025,serie-a
+dailon livramento,"FW,MF",Hellas Verona,29,8,940,1,1,2,1,23,13,67,2024-2025,serie-a
+stanislav lobotka,MF,Napoli,32,31,2636,0,1,3,0,30,118,32,2024-2025,serie-a
+manuel locatelli,MF,Juventus,36,34,2822,2,2,9,0,33,294,33,2024-2025,serie-a
+ruben loftus-cheek,MF,Milan,19,10,1037,0,0,3,0,27,51,32,2024-2025,serie-a
+ademola lookman,"MF,FW",Atalanta,31,28,2247,15,5,4,0,142,73,316,2024-2025,serie-a
+sandi lovrić,MF,Udinese,36,31,2308,2,3,5,0,60,120,71,2024-2025,serie-a
+lorenzo lucca,FW,Udinese,33,27,2353,12,1,10,0,15,18,98,2024-2025,serie-a
+jhon lucumí,DF,Bologna,32,29,2614,0,1,8,1,34,108,7,2024-2025,serie-a
+josé luis palomino,DF,Cagliari,18,10,1081,1,0,3,0,4,35,1,2024-2025,serie-a
+douglas luiz,MF,Juventus,19,3,529,0,0,2,0,16,35,12,2024-2025,serie-a
+romelu lukaku,FW,Napoli,36,35,2843,14,10,4,0,31,36,219,2024-2025,serie-a
+sebastiano luperto,DF,Cagliari,36,36,3240,1,3,4,0,22,96,11,2024-2025,serie-a
+zito luvumbo,"FW,MF",Cagliari,26,19,1606,2,2,2,0,70,31,125,2024-2025,serie-a
+charalampos lykogiannis,DF,Bologna,17,12,1048,0,4,3,0,10,49,36,2024-2025,serie-a
+mathias løvik,"DF,FW",Parma,6,0,92,0,0,0,0,0,1,6,2024-2025,serie-a
+giangiacomo magnani,DF,Hellas Verona,17,11,1065,1,0,2,0,4,31,7,2024-2025,serie-a
+mike maignan,GK,Milan,37,37,3294,0,0,1,0,0,4,0,2024-2025,serie-a
+antoine makoumbou,MF,Cagliari,33,27,2150,0,3,4,1,11,92,14,2024-2025,serie-a
+daniel maldini,"MF,FW",Monza,20,16,1306,3,0,5,0,41,34,66,2024-2025,serie-a
+daniel maldini,"FW,MF",Atalanta,10,2,258,3,0,0,0,12,7,30,2024-2025,serie-a
+youssef maleh,MF,Empoli,22,17,1510,0,1,5,1,10,72,37,2024-2025,serie-a
+ruslan malinovskyi,"MF,FW",Genoa,9,4,383,0,2,2,0,3,32,10,2024-2025,serie-a
+dennis man,"FW,MF",Parma,33,23,1995,4,4,0,0,67,60,142,2024-2025,serie-a
+gianluca mancini,DF,Roma,37,36,3143,2,0,8,0,45,139,23,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+christos mandas,GK,Lazio,9,9,810,0,0,0,0,0,3,0,2024-2025,serie-a
+rolando mandragora,MF,Fiorentina,28,22,1856,4,2,7,0,11,92,34,2024-2025,serie-a
+alberto manzoni,MF,Atalanta,1,0,6,0,0,0,0,0,0,0,2024-2025,serie-a
+alessandro marcandalli,DF,Genoa,2,1,46,0,0,0,0,0,1,0,2024-2025,serie-a
+alessandro marcandalli,DF,Venezia,8,5,354,0,0,2,0,2,10,1,2024-2025,serie-a
+filip marchwiński,MF,Lecce,1,0,15,0,0,0,0,0,0,0,2024-2025,serie-a
+pablo marí,DF,Monza,19,19,1628,0,0,4,1,5,58,1,2024-2025,serie-a
+pablo marí,DF,Fiorentina,13,12,1098,0,0,2,0,2,27,0,2024-2025,serie-a
+luca marianucci,DF,Empoli,18,12,1069,0,0,0,1,12,28,3,2024-2025,serie-a
+mirko marić,"FW,MF",Monza,8,1,106,0,0,0,0,1,3,8,2024-2025,serie-a
+mirko marić,FW,Venezia,10,4,356,0,0,0,0,4,9,27,2024-2025,serie-a
+rafa marín,DF,Napoli,4,1,142,0,0,1,0,2,5,0,2024-2025,serie-a
+răzvan marin,MF,Cagliari,33,13,1406,3,2,4,0,22,84,29,2024-2025,serie-a
+guillermo maripán,DF,Torino,28,27,2340,1,1,4,1,14,96,9,2024-2025,serie-a
+aarón martín,DF,Genoa,36,35,3085,0,8,5,0,50,90,108,2024-2025,serie-a
+josep martinez,GK,Inter,5,5,450,0,0,0,0,0,0,0,2024-2025,serie-a
+lautaro martínez,FW,Inter,30,30,2474,12,3,1,0,34,68,197,2024-2025,serie-a
+lucas martínez quarta,DF,Fiorentina,8,4,351,1,0,1,0,3,14,2,2024-2025,serie-a
+kevin martins,"MF,DF",Monza,9,1,183,0,1,1,0,3,6,10,2024-2025,serie-a
+adam marušić,DF,Lazio,35,26,2337,4,0,1,0,23,84,108,2024-2025,serie-a
+adam masina,DF,Torino,28,20,1919,1,2,5,0,15,73,10,2024-2025,serie-a
+patrizio masini,MF,Genoa,26,16,1538,1,0,3,0,16,44,27,2024-2025,serie-a
+alan matturro,DF,Genoa,13,9,900,0,0,2,0,12,15,9,2024-2025,serie-a
+andrea mazza,GK,Monza,1,0,8,0,0,0,0,0,0,0,2024-2025,serie-a
+luca mazzitelli,MF,Como,11,3,335,1,1,1,0,2,27,14,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+pasquale mazzocchi,"DF,FW",Napoli,20,7,702,0,0,3,0,20,23,43,2024-2025,serie-a
+samuel mbangula,FW,Juventus,23,7,709,3,3,1,0,25,17,44,2024-2025,serie-a
+weston mckennie,"MF,DF",Juventus,32,27,2310,2,4,3,0,28,101,153,2024-2025,serie-a
+scott mctominay,MF,Napoli,34,33,2938,12,4,3,0,56,112,131,2024-2025,serie-a
+filippo melegoni,"MF,FW",Genoa,3,1,89,0,1,0,0,0,1,2,2024-2025,serie-a
+alex meret,GK,Napoli,34,34,3005,0,0,0,0,0,1,0,2024-2025,serie-a
+junior messias,"MF,FW",Genoa,17,8,847,1,1,1,0,32,32,49,2024-2025,serie-a
+valentin mihaila,"FW,MF",Parma,21,16,1288,0,3,2,0,25,41,72,2024-2025,serie-a
+vanja milinković-savić,GK,Torino,37,37,3330,0,0,3,0,0,0,0,2024-2025,serie-a
+yerry mina,DF,Cagliari,31,31,2569,1,0,6,1,17,76,9,2024-2025,serie-a
+juan miranda,DF,Bologna,31,25,2277,0,6,4,1,34,163,88,2024-2025,serie-a
+fabio miretti,"MF,FW",Genoa,25,22,1677,3,3,2,0,33,54,100,2024-2025,serie-a
+henrikh mkhitaryan,MF,Inter,31,29,2328,1,4,4,0,72,199,93,2024-2025,serie-a
+rui modesto,"DF,MF",Udinese,20,4,608,0,1,1,0,16,22,43,2024-2025,serie-a
+lorenzo montipò,GK,Hellas Verona,36,36,3240,0,0,0,0,0,1,0,2024-2025,serie-a
+álvaro morata,"FW,MF",Milan,16,13,1099,5,0,5,0,18,26,63,2024-2025,serie-a
+alberto moreno,DF,Como,24,21,1727,0,0,4,0,23,81,58,2024-2025,serie-a
+matias moreno,DF,Fiorentina,4,2,144,0,0,0,0,1,6,1,2024-2025,serie-a
+tete morente,"FW,MF",Lecce,31,23,2021,3,2,5,0,48,102,144,2024-2025,serie-a
+nikola moro,MF,Bologna,22,15,1208,0,2,1,0,17,93,21,2024-2025,serie-a
+daniel mosquera,FW,Hellas Verona,35,12,1375,5,1,4,0,17,25,83,2024-2025,serie-a
+dany mota,"FW,MF",Monza,31,24,2104,5,2,3,0,53,47,139,2024-2025,serie-a
+bob murphy omoregbe,MF,Milan,1,0,3,0,0,0,0,0,0,1,2024-2025,serie-a
+yunus musah,"MF,FW",Milan,29,19,1571,0,2,5,0,51,84,74,2024-2025,serie-a
+juan musso,GK,Atalanta,1,1,90,0,0,0,0,0,0,0,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+kingstone mutandwa,"FW,MF",Cagliari,6,0,127,0,0,0,0,1,0,7,2024-2025,serie-a
+obite n'dicka,DF,Roma,38,38,3420,0,1,2,0,29,107,5,2024-2025,serie-a
+konan n'dri,"FW,MF",Lecce,11,2,306,0,0,0,0,16,2,22,2024-2025,serie-a
+michel ndary adopo,MF,Cagliari,35,27,2409,1,1,5,1,20,106,61,2024-2025,serie-a
+cher ndour,"MF,DF",Fiorentina,9,4,406,0,0,1,0,12,17,26,2024-2025,serie-a
+dan ndoye,FW,Bologna,30,26,2143,8,4,4,0,132,74,231,2024-2025,serie-a
+victor nelsson,DF,Roma,4,1,187,0,0,0,0,0,4,0,2024-2025,serie-a
+david neres,FW,Napoli,28,13,1283,2,4,1,0,73,32,143,2024-2025,serie-a
+cyril ngonge,FW,Napoli,18,1,216,0,0,2,0,7,8,36,2024-2025,serie-a
+hans nicolussi caviglia,MF,Venezia,35,33,2861,4,2,7,1,20,140,22,2024-2025,serie-a
+oliver nielsen,DF,Lazio,2,0,35,0,0,1,0,0,0,0,2024-2025,serie-a
+eybi nije,"FW,MF",Torino,16,0,394,1,0,1,0,10,7,26,2024-2025,serie-a
+brooke norton-cuffy,"DF,FW",Genoa,14,8,719,0,0,0,0,12,18,21,2024-2025,serie-a
+tijjani noslin,"FW,MF",Lazio,30,8,861,2,2,2,0,13,16,56,2024-2025,serie-a
+adam obert,DF,Cagliari,21,13,1077,1,1,4,0,12,50,19,2024-2025,serie-a
+jens odgaard,"MF,FW",Bologna,29,24,1952,6,1,1,0,35,50,99,2024-2025,serie-a
+noah okafor,FW,Milan,11,5,414,1,0,0,0,21,12,48,2024-2025,serie-a
+noah okafor,"FW,MF",Napoli,4,0,40,0,0,0,0,7,1,6,2024-2025,serie-a
+yllan okou,DF,Hellas Verona,1,0,2,0,0,0,0,0,0,0,2024-2025,serie-a
+maduka okoye,GK,Udinese,25,25,2250,0,0,1,0,0,1,0,2024-2025,serie-a
+mathías olivera,DF,Napoli,32,26,2370,0,2,4,0,46,126,62,2024-2025,serie-a
+jean onana,MF,Genoa,9,2,304,0,0,1,0,1,11,4,2024-2025,serie-a
+jacob ondrejka,"MF,FW",Parma,12,3,422,5,0,0,0,13,11,21,2024-2025,serie-a
+gaetano oristanio,"FW,MF",Venezia,37,29,2315,3,3,3,0,72,64,131,2024-2025,serie-a
+riccardo orsolini,FW,Bologna,30,23,1878,15,4,2,0,61,69,186,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+yordan osorio,DF,Parma,3,2,172,0,0,0,0,1,3,0,2024-2025,serie-a
+sebastian otoa,DF,Genoa,3,3,179,0,0,1,1,0,0,0,2024-2025,serie-a
+remi oudin,"MF,FW",Lecce,11,3,299,0,0,1,0,2,13,16,2024-2025,serie-a
+cheick oumar conde,MF,Venezia,9,1,151,0,0,2,0,2,8,5,2024-2025,serie-a
+daniel oyegoke,DF,Hellas Verona,5,0,103,0,0,1,0,2,2,5,2024-2025,serie-a
+daniele padelli,GK,Udinese,1,1,90,0,0,0,0,0,0,0,2024-2025,serie-a
+simone pafundi,"MF,DF",Udinese,9,0,116,0,0,0,0,3,0,7,2024-2025,serie-a
+tomás palacios,DF,Monza,8,5,446,0,0,2,0,3,21,2,2024-2025,serie-a
+tomás palacios,DF,Inter,2,0,11,0,0,0,0,0,3,0,2024-2025,serie-a
+alberto paleari,GK,Torino,1,1,90,0,0,0,0,0,0,0,2024-2025,serie-a
+marco palestra,DF,Atalanta,9,2,222,0,0,0,0,13,6,14,2024-2025,serie-a
+matteo palma,DF,Udinese,1,0,5,0,0,0,0,0,1,0,2024-2025,serie-a
+leandro paredes,MF,Roma,22,15,1373,3,1,4,0,17,106,14,2024-2025,serie-a
+fabiano parisi,"DF,MF",Fiorentina,25,11,1049,2,0,3,0,25,40,35,2024-2025,serie-a
+mario pašalić,MF,Atalanta,34,23,1967,3,4,1,0,44,149,68,2024-2025,serie-a
+patric,DF,Lazio,10,5,607,1,0,2,0,4,30,5,2024-2025,serie-a
+rui patrício,GK,Atalanta,3,3,270,0,0,0,0,0,0,0,2024-2025,serie-a
+benjamin pavard,DF,Inter,23,18,1584,0,1,4,0,13,92,26,2024-2025,serie-a
+strahinja pavlović,DF,Milan,24,21,1864,2,1,3,1,40,94,10,2024-2025,serie-a
+leonardo pavoletti,"FW,MF",Cagliari,26,1,445,2,0,5,0,1,17,26,2024-2025,serie-a
+martín payero,MF,Udinese,25,16,1381,1,1,5,0,33,51,44,2024-2025,serie-a
+nicolás paz,"MF,FW",Como,35,30,2687,6,8,6,0,77,163,171,2024-2025,serie-a
+marcus pedersen,DF,Torino,29,15,1362,0,0,3,0,44,19,77,2024-2025,serie-a
+pedro,"FW,MF",Lazio,30,6,1102,10,1,2,0,48,76,89,2024-2025,serie-a
+pietro pellegri,FW,Empoli,11,5,414,3,0,2,0,12,8,28,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+lorenzo pellegrini,MF,Roma,25,20,1626,2,1,4,0,27,61,82,2024-2025,serie-a
+luca pellegrini,DF,Lazio,22,10,1067,0,4,5,0,21,72,61,2024-2025,serie-a
+mateo pellegrino,FW,Parma,13,8,737,3,1,2,0,6,15,37,2024-2025,serie-a
+andy pelmard,DF,Lecce,3,1,129,0,0,1,0,1,1,0,2024-2025,serie-a
+sergiu perciun,"FW,MF",Torino,5,0,152,0,0,0,0,2,4,12,2024-2025,serie-a
+pedro pereira,DF,Monza,35,32,2665,1,3,10,0,52,66,107,2024-2025,serie-a
+gastón pereiro,MF,Genoa,2,0,31,0,0,0,0,0,2,2,2024-2025,serie-a
+kike pérez,MF,Venezia,16,13,1114,1,0,4,0,18,60,31,2024-2025,serie-a
+nehuén pérez,DF,Udinese,2,2,180,0,0,0,0,2,4,2,2024-2025,serie-a
+simone perilli,GK,Hellas Verona,2,2,180,0,0,0,0,0,0,0,2024-2025,serie-a
+mattia perin,GK,Juventus,5,5,450,0,0,0,0,0,0,0,2024-2025,serie-a
+máximo perrone,MF,Como,26,20,1857,0,3,6,0,16,98,19,2024-2025,serie-a
+matteo pessina,MF,Monza,11,10,854,0,0,2,0,8,28,20,2024-2025,serie-a
+andrea petagna,FW,Monza,13,2,335,0,0,1,0,2,1,17,2024-2025,serie-a
+giuseppe pezzella,"DF,FW",Empoli,35,34,2878,0,3,7,0,77,80,143,2024-2025,serie-a
+roberto piccoli,FW,Cagliari,37,37,3127,10,1,6,0,30,37,165,2024-2025,serie-a
+nicholas pierini,MF,Venezia,2,0,83,0,0,0,0,1,2,4,2024-2025,serie-a
+santiago pierotti,FW,Lecce,36,22,1937,4,2,6,1,43,38,85,2024-2025,serie-a
+balthazar pierret,MF,Lecce,30,21,1723,0,0,2,0,13,82,13,2024-2025,serie-a
+andrea pinamonti,FW,Genoa,36,33,2850,10,1,4,0,20,46,132,2024-2025,serie-a
+nicola pintus,DF,Cagliari,1,0,4,0,0,0,0,0,0,0,2024-2025,serie-a
+niccolò pisilli,MF,Roma,28,11,1227,2,1,7,0,22,63,44,2024-2025,serie-a
+damián pizarro,"FW,MF",Udinese,2,0,16,0,0,0,0,0,0,0,2024-2025,serie-a
+semuel pizzignacco,GK,Monza,9,8,736,0,0,0,0,0,0,0,2024-2025,serie-a
+tommaso pobega,MF,Bologna,21,13,1178,2,2,6,2,12,42,23,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+joel pohjanpalo,FW,Venezia,20,19,1603,6,0,1,0,9,29,72,2024-2025,serie-a
+matteo politano,"FW,MF",Napoli,37,34,2804,3,4,3,0,135,129,278,2024-2025,serie-a
+marin pongračić,DF,Fiorentina,19,14,1292,0,0,3,1,7,34,5,2024-2025,serie-a
+stefan posch,DF,Bologna,14,7,714,0,0,1,0,11,36,35,2024-2025,serie-a
+stefan posch,DF,Atalanta,5,4,387,0,0,0,0,5,23,5,2024-2025,serie-a
+matteo prati,MF,Cagliari,12,8,570,0,0,1,0,2,23,7,2024-2025,serie-a
+ivan provedel,GK,Lazio,29,29,2610,0,0,0,0,0,4,0,2024-2025,serie-a
+diego pugno,FW,Juventus,1,0,7,0,0,0,0,0,0,0,2024-2025,serie-a
+christian pulisic,"FW,MF",Milan,34,29,2478,11,9,1,0,121,105,191,2024-2025,serie-a
+ionuț radu,GK,Venezia,15,15,1350,0,0,1,0,0,0,0,2024-2025,serie-a
+hamza rafia,MF,Lecce,18,14,1058,0,0,4,0,13,51,32,2024-2025,serie-a
+antonio raimondo,"FW,DF",Venezia,9,0,94,0,0,0,0,2,2,7,2024-2025,serie-a
+ylber ramadani,MF,Lecce,29,21,1807,1,1,4,0,9,60,7,2024-2025,serie-a
+luca ranieri,DF,Fiorentina,35,34,2981,0,3,7,0,25,80,11,2024-2025,serie-a
+giacomo raspadori,"FW,MF",Napoli,26,11,1103,6,1,1,0,18,42,57,2024-2025,serie-a
+federico ravaglia,GK,Bologna,12,11,1056,0,0,0,0,0,0,0,2024-2025,serie-a
+ante rebić,"FW,MF",Lecce,27,7,788,1,0,3,2,17,36,63,2024-2025,serie-a
+tijjani reijnders,MF,Milan,37,36,3128,10,4,2,1,111,230,121,2024-2025,serie-a
+pepe reina,GK,Como,12,12,1034,0,0,0,1,0,0,0,2024-2025,serie-a
+devyne rensch,DF,Roma,14,5,469,0,1,0,0,2,14,25,2024-2025,serie-a
+mateo retegui,FW,Atalanta,36,32,2383,25,8,3,0,21,46,199,2024-2025,serie-a
+samuele ricci,MF,Torino,34,34,2825,1,1,8,1,43,116,30,2024-2025,serie-a
+amir richardson,MF,Fiorentina,26,10,1024,1,1,6,0,19,47,31,2024-2025,serie-a
+sergi roberto,MF,Como,13,8,696,0,1,4,0,10,36,19,2024-2025,serie-a
+alessio romagnoli,DF,Lazio,32,31,2672,2,0,4,2,8,90,4,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+marten de roon,"MF,DF",Atalanta,36,34,3058,4,4,5,0,37,242,32,2024-2025,serie-a
+jonas rouhi,DF,Juventus,5,1,210,0,0,0,0,1,9,7,2024-2025,serie-a
+nicolò rovella,MF,Lazio,33,31,2718,0,3,13,0,45,159,42,2024-2025,serie-a
+amir rrahmani,DF,Napoli,38,38,3406,1,3,2,0,30,188,2,2024-2025,serie-a
+tommaso rubino,MF,Fiorentina,1,0,8,0,0,0,0,0,1,0,2024-2025,serie-a
+matteo ruggeri,DF,Atalanta,30,19,1751,0,3,2,0,60,114,104,2024-2025,serie-a
+stefano sabelli,DF,Genoa,34,23,2058,0,2,3,0,36,88,43,2024-2025,serie-a
+alexis saelemaekers,"DF,FW",Roma,22,17,1389,7,3,4,0,39,53,136,2024-2025,serie-a
+alexis saelemaekers,"DF,FW",Milan,1,1,90,0,0,0,0,7,4,13,2024-2025,serie-a
+richie sagrado,DF,Venezia,3,3,140,0,0,1,0,0,2,5,2024-2025,serie-a
+marco sala,DF,Como,8,3,261,0,0,3,0,10,16,16,2024-2025,serie-a
+marco sala,DF,Lecce,2,0,72,0,0,0,0,5,6,9,2024-2025,serie-a
+anass salah-eddine,DF,Roma,3,2,152,0,1,0,0,8,2,15,2024-2025,serie-a
+lazar samardzic,MF,Atalanta,31,7,1169,2,1,3,0,54,92,99,2024-2025,serie-a
+junior sambia,"DF,FW",Empoli,17,2,387,0,0,0,0,5,21,20,2024-2025,serie-a
+antonio sanabria,FW,Torino,26,16,1318,2,1,2,0,6,18,54,2024-2025,serie-a
+alexis sánchez,FW,Udinese,13,6,437,0,0,0,0,2,19,19,2024-2025,serie-a
+nicola sansone,"MF,FW",Lecce,5,0,65,0,0,1,0,0,1,5,2024-2025,serie-a
+amin sarr,FW,Hellas Verona,32,25,1907,4,1,1,0,31,41,103,2024-2025,serie-a
+razvan sava,GK,Udinese,12,12,1080,0,0,1,0,0,0,0,2024-2025,serie-a
+nicolò savona,DF,Juventus,28,19,1724,2,1,5,0,35,59,44,2024-2025,serie-a
+saba sazonov,DF,Torino,1,0,3,0,0,0,0,0,0,0,2024-2025,serie-a
+giorgio scalvini,DF,Atalanta,6,4,272,0,0,2,0,5,20,7,2024-2025,serie-a
+gianluca scamacca,FW,Atalanta,1,0,6,0,0,0,0,0,0,0,2024-2025,serie-a
+joël schingtienne,DF,Venezia,16,12,1122,0,0,2,0,5,28,4,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+simone scuffet,GK,Cagliari,13,13,1170,0,0,0,0,0,0,0,2024-2025,serie-a
+simone scuffet,GK,Napoli,1,1,90,0,0,0,0,0,0,0,2024-2025,serie-a
+jacopo seghetti,GK,Empoli,1,1,90,0,0,0,0,0,0,0,2024-2025,serie-a
+stefano sensi,MF,Monza,12,2,274,1,0,0,0,4,38,8,2024-2025,serie-a
+suat serdar,MF,Hellas Verona,22,16,1376,2,1,4,1,18,56,35,2024-2025,serie-a
+stephan el shaarawy,"DF,MF",Roma,31,12,1098,3,4,2,0,42,49,77,2024-2025,serie-a
+alen sherri,GK,Cagliari,7,7,621,0,0,0,0,0,0,0,2024-2025,serie-a
+eldor shomurodov,"FW,MF",Roma,27,11,1097,4,4,1,0,19,21,62,2024-2025,serie-a
+benjamin siegrist,GK,Genoa,2,2,152,0,0,0,0,0,0,0,2024-2025,serie-a
+marco silvestri,GK,Empoli,5,5,450,0,0,0,0,0,0,0,2024-2025,serie-a
+giovanni simeone,FW,Napoli,30,1,419,1,1,1,0,11,7,30,2024-2025,serie-a
+łukasz skorupski,GK,Bologna,27,27,2364,0,0,1,0,0,0,0,2024-2025,serie-a
+ivan smolčić,DF,Como,9,7,630,0,0,2,0,3,23,9,2024-2025,serie-a
+simon sohm,MF,Parma,37,36,2989,4,0,6,0,69,140,67,2024-2025,serie-a
+ola solbakken,"MF,FW",Empoli,21,8,760,0,0,2,0,18,20,32,2024-2025,serie-a
+oumar solet,DF,Udinese,19,19,1672,1,2,3,1,20,65,6,2024-2025,serie-a
+daniele sommariva,GK,Genoa,1,0,28,0,0,0,0,0,0,0,2024-2025,serie-a
+yann sommer,GK,Inter,32,32,2880,0,0,0,0,0,1,0,2024-2025,serie-a
+borna sosa,DF,Torino,19,14,1181,0,0,0,0,13,51,49,2024-2025,serie-a
+riccardo sottil,"FW,MF",Fiorentina,18,8,833,1,1,1,0,71,18,100,2024-2025,serie-a
+riccardo sottil,"FW,MF",Milan,6,1,123,0,0,0,0,11,3,14,2024-2025,serie-a
+matìas soulé,"MF,DF",Roma,27,22,1781,5,5,3,0,84,89,191,2024-2025,serie-a
+leonardo spinazzola,"DF,FW",Napoli,27,17,1517,1,1,1,0,83,88,81,2024-2025,serie-a
+marco sportiello,GK,Milan,2,1,126,0,0,0,0,0,0,0,2024-2025,serie-a
+filip stankovic,GK,Venezia,16,16,1367,0,0,1,0,0,0,0,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+petar stojanović,MF,Empoli,1,0,3,0,0,0,0,0,0,0,2024-2025,serie-a
+gabriel strefezza,"FW,MF",Como,37,32,2619,6,4,5,0,80,106,190,2024-2025,serie-a
+ibrahim sulemana,MF,Atalanta,9,3,283,2,0,1,0,2,12,2,2024-2025,serie-a
+tomáš suslov,"MF,FW",Hellas Verona,31,27,2080,0,1,7,1,39,82,77,2024-2025,serie-a
+zion suzuki,GK,Parma,37,37,3314,0,0,2,1,0,0,0,2024-2025,serie-a
+marin šverko,DF,Venezia,16,12,1117,1,0,3,0,8,38,1,2024-2025,serie-a
+mile svilar,GK,Roma,38,38,3420,0,0,1,0,0,2,0,2024-2025,serie-a
+michael svoboda,DF,Venezia,16,15,1314,1,0,1,0,13,43,5,2024-2025,serie-a
+adrien tameze,"MF,DF",Torino,20,9,649,0,0,3,0,16,23,21,2024-2025,serie-a
+mehdi taremi,FW,Inter,25,7,807,1,2,1,0,10,25,47,2024-2025,serie-a
+nuno tavares,DF,Lazio,23,22,1686,0,8,4,1,98,111,100,2024-2025,serie-a
+loum tchaouna,"FW,MF",Lazio,24,6,660,1,0,4,1,22,20,66,2024-2025,serie-a
+jackson tchatchoua,"DF,MF",Hellas Verona,36,36,3167,2,3,7,1,88,72,163,2024-2025,serie-a
+casper tengstedt,FW,Hellas Verona,25,20,1517,6,1,2,0,29,29,85,2024-2025,serie-a
+filippo terracciano,"DF,MF",Milan,13,6,539,0,0,3,0,5,14,9,2024-2025,serie-a
+pietro terracciano,GK,Fiorentina,3,3,270,0,0,0,0,0,0,0,2024-2025,serie-a
+florian thauvin,"FW,MF",Udinese,25,24,1956,8,3,0,0,92,90,148,2024-2025,serie-a
+malick thiaw,DF,Milan,22,19,1806,0,0,2,0,12,89,1,2024-2025,serie-a
+morten thorsby,"MF,FW",Genoa,30,22,1898,0,1,6,0,24,58,76,2024-2025,serie-a
+khéphren thuram,MF,Juventus,35,26,2326,4,5,5,0,74,123,52,2024-2025,serie-a
+marcus thuram,FW,Inter,31,26,2200,14,4,1,0,62,53,170,2024-2025,serie-a
+cheikh tidiane niasse,MF,Hellas Verona,11,8,755,0,0,4,0,5,25,15,2024-2025,serie-a
+rafael tolói,DF,Atalanta,11,2,468,0,0,1,0,5,26,5,2024-2025,serie-a
+fikayo tomori,DF,Milan,22,19,1593,0,1,4,1,8,63,3,2024-2025,serie-a
+luka topalović,MF,Inter,1,0,11,0,0,0,0,0,0,1,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+lorenzo tosto,DF,Empoli,1,0,1,0,0,0,0,0,0,0,2024-2025,serie-a
+souleymane touré,DF,Udinese,12,11,733,1,0,2,2,6,26,3,2024-2025,serie-a
+stefano turati,GK,Monza,30,30,2676,0,0,1,0,0,0,0,2024-2025,serie-a
+kacper urbanski,MF,Bologna,7,1,247,1,0,2,0,5,15,19,2024-2025,serie-a
+kacper urbanski,MF,Monza,8,6,500,0,0,1,0,10,41,14,2024-2025,serie-a
+lautaro valenti,DF,Parma,20,18,1556,1,0,6,1,3,28,3,2024-2025,serie-a
+nicolás valentini,DF,Hellas Verona,14,13,1129,0,0,5,1,4,42,1,2024-2025,serie-a
+emanuele valeri,DF,Parma,35,34,2873,2,6,1,0,79,93,109,2024-2025,serie-a
+álex valle,DF,Como,15,12,1030,0,0,2,0,19,44,30,2024-2025,serie-a
+mattia valoti,MF,Monza,5,0,40,0,0,1,0,0,0,0,2024-2025,serie-a
+ignace van der brempt,DF,Como,20,14,1257,0,1,3,0,19,42,34,2024-2025,serie-a
+devis vásquez,GK,Empoli,32,32,2880,0,0,2,0,0,0,0,2024-2025,serie-a
+johan vásquez,DF,Genoa,36,34,3041,3,0,9,0,37,96,12,2024-2025,serie-a
+matías vecino,MF,Lazio,20,7,877,2,3,7,0,4,29,14,2024-2025,serie-a
+danilo veiga,DF,Lecce,13,2,374,0,0,0,0,10,10,13,2024-2025,serie-a
+renato veiga,DF,Juventus,13,12,1093,0,1,2,0,9,40,0,2024-2025,serie-a
+lorenzo venturino,"FW,MF",Genoa,6,1,167,2,0,0,0,5,7,10,2024-2025,serie-a
+simone verdi,"MF,FW",Como,9,0,115,0,0,1,0,3,5,13,2024-2025,serie-a
+samuele vignato,MF,Monza,17,3,470,0,0,0,0,5,17,30,2024-2025,serie-a
+nicolas viola,"FW,MF",Cagliari,27,18,1267,3,1,2,0,21,46,70,2024-2025,serie-a
+mattia viti,DF,Empoli,30,30,2572,1,0,3,0,17,86,10,2024-2025,serie-a
+vitinha,"FW,MF",Genoa,25,16,1328,2,3,2,0,38,19,71,2024-2025,serie-a
+dušan vlahović,FW,Juventus,29,21,1784,10,4,3,0,27,22,117,2024-2025,serie-a
+vanja vlahović,"FW,MF",Atalanta,3,0,60,0,0,0,0,0,0,5,2024-2025,serie-a
+nikola vlašić,"MF,FW",Torino,30,23,2117,5,4,0,0,53,94,110,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+alessandro vogliacco,DF,Genoa,12,8,715,2,0,3,0,9,26,2,2024-2025,serie-a
+alessandro vogliacco,DF,Parma,10,10,772,0,0,2,0,2,21,0,2024-2025,serie-a
+mërgim vojvoda,DF,Torino,17,12,1105,0,0,4,0,18,64,34,2024-2025,serie-a
+mërgim vojvoda,DF,Como,11,8,717,1,2,2,0,16,43,40,2024-2025,serie-a
+stefan de vrij,DF,Inter,25,17,1636,3,0,2,0,11,76,5,2024-2025,serie-a
+kyle walker,DF,Milan,11,7,659,0,0,1,0,11,32,19,2024-2025,serie-a
+sebastian walukiewicz,DF,Torino,29,20,1661,0,0,6,0,25,80,31,2024-2025,serie-a
+sebastian walukiewicz,DF,Empoli,2,2,180,0,0,0,0,2,8,3,2024-2025,serie-a
+timothy weah,"DF,FW",Juventus,30,18,1638,5,2,4,0,45,56,120,2024-2025,serie-a
+mateusz wieteska,DF,Cagliari,5,1,184,0,0,1,0,1,5,0,2024-2025,serie-a
+john yeboah,"FW,MF",Venezia,33,11,1226,1,1,6,0,50,42,88,2024-2025,serie-a
+kenan yıldız,"FW,MF",Juventus,35,28,2402,7,4,2,1,115,121,223,2024-2025,serie-a
+mattia zaccagni,FW,Lazio,34,33,2686,8,6,10,0,91,114,264,2024-2025,serie-a
+nicola zalewski,"DF,FW",Roma,12,4,533,0,0,0,0,31,17,54,2024-2025,serie-a
+nicola zalewski,"DF,MF",Inter,11,4,435,1,1,4,0,29,18,47,2024-2025,serie-a
+andre-frank zambo anguissa,MF,Napoli,35,32,2852,6,4,5,0,24,144,119,2024-2025,serie-a
+francesco zampano,DF,Venezia,24,17,1639,1,2,5,0,42,41,85,2024-2025,serie-a
+nicolò zaniolo,FW,Fiorentina,9,4,343,0,0,2,1,8,5,20,2024-2025,serie-a
+nicolò zaniolo,"FW,MF",Atalanta,14,0,356,2,2,4,0,7,13,33,2024-2025,serie-a
+alessandro zanoli,"FW,DF",Genoa,31,19,1711,1,0,3,0,65,27,90,2024-2025,serie-a
+duván zapata,FW,Torino,7,7,587,3,0,1,0,6,7,36,2024-2025,serie-a
+gabriele zappa,DF,Cagliari,37,35,3060,2,0,4,0,57,146,82,2024-2025,serie-a
+davide zappacosta,DF,Atalanta,30,26,2067,4,2,3,0,67,107,139,2024-2025,serie-a
+oier zarraga,MF,Udinese,22,9,896,1,0,0,0,7,28,23,2024-2025,serie-a
+jordan zemura,DF,Udinese,23,13,1415,1,2,2,0,25,42,76,2024-2025,serie-a
+player,Pos,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR,PrgC,PrgP,PrgR,2024-2025,serie-a
+alessio zerbin,DF,Venezia,18,17,1518,1,1,4,0,53,54,70,2024-2025,serie-a
+alessio zerbin,"FW,DF",Napoli,2,0,2,0,0,0,0,0,0,0,2024-2025,serie-a
+kevin zeroli,MF,Monza,8,4,395,0,1,0,0,2,5,8,2024-2025,serie-a
+kevin zeroli,MF,Milan,1,0,12,0,0,0,0,1,2,3,2024-2025,serie-a
+piotr zieliński,MF,Inter,26,8,980,2,2,0,0,26,65,24,2024-2025,serie-a
+nadir zortea,"DF,MF",Cagliari,35,33,2713,6,2,2,0,69,63,144,2024-2025,serie-a
+szymon żurkowski,MF,Empoli,5,0,106,0,0,0,0,1,1,3,2024-2025,serie-a
+milan đurić,FW,Monza,18,13,1270,4,1,3,0,2,21,30,2024-2025,serie-a
+milan đurić,FW,Parma,9,3,268,1,0,1,0,0,7,6,2024-2025,serie-a
