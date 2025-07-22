@@ -12,13 +12,13 @@ SUBCARPETAS = ["fbref", "fbref_defense", "understat", "mercado"]
 # Columnas clave a conservar por carpeta
 COLUMNAS_UTILES = {
     "fbref": [
-        "Player", "Pos", "Squad", "Playing Time_MP", "Playing Time_Starts", "Playing Time_Min", "Performance_Gls", "Performance_Ast", "Performance_CrdY", "Performance_CrdR", "Progression_PrgC","Progression_PrgP","Progression_PrgR"
+        "Unnamed: 1_level_0_Player", "Unnamed: 3_level_0_Pos", "Unnamed: 6_level_0_Born", "Playing Time_MP", "Playing Time_Starts", "Playing Time_Min", "Performance_Gls", "Performance_Ast", "Performance_CrdY", "Performance_CrdR", "Progression_PrgC","Progression_PrgP","Progression_PrgR"
     ],
     "fbref_defense": [
-       "Player", "Squad", "Tackles_Def 3rd", "Tackles_Mid 3rd","Tackles_Att 3rd", "Challenges_Tkl%", "Tackles_Tkl", "Tackles_TklW", "Int", "Blocks_Blocks", "Blocks_Sh", "Blocks_Pass", "Clr", "Err"
+       "Unnamed: 1_level_0_Player", "Tackles_Def 3rd", "Tackles_Mid 3rd","Tackles_Att 3rd", "Challenges_Tkl%", "Tackles_Tkl", "Tackles_TklW", "Int", "Blocks_Blocks", "Blocks_Sh", "Blocks_Pass", "Clr", "Err"
     ],
     "understat": [
-        "nombre", "club_actual", "xG", "xA", "npxG", "shsots", "key_passes", "xGChain", "xGBuildup"
+        "nombre", "xG", "xA", "npxG", "shsots", "key_passes", "xGChain", "xGBuildup"
     ],
     "mercado": [
         "player_name", "current_club", "player_height_mtrs", "player_market_value_euro"
@@ -28,9 +28,9 @@ COLUMNAS_UTILES = {
 # Estandarizar nombres y columnas comunes
 def estandarizar_columnas(df, carpeta):
     if carpeta == "fbref":
-        df = df.rename(columns={"Player": "nombre", "Pos": "Posicion", "Squad": "club_actual", "Playing Time_Min": "minutos_jugados", "Performance_Gls": "goles", "Performance_Ast": "asistencias", "Playing Time_MP": "partidos_jugados", "Playing Time_Starts": "titularidades", "Performance_CrdY": "amarillas", "Performance_CrdR": "rojas", "Progression_PrgC": "carreras_progresivas","Progression_PrgP": "pases_progresivos","Progression_PrgR": "Pases_progresivos_recibidos"})
+        df = df.rename(columns={"Unnamed: 1_level_0_Player": "nombre", "Unnamed: 3_level_0_Pos": "Posicion", "Unnamed: 6_level_0_Born": "nacido", "Playing Time_Min": "minutos_jugados", "Performance_Gls": "goles", "Performance_Ast": "asistencias", "Playing Time_MP": "partidos_jugados", "Playing Time_Starts": "titularidades", "Performance_CrdY": "amarillas", "Performance_CrdR": "rojas", "Progression_PrgC": "carreras_progresivas","Progression_PrgP": "pases_progresivos","Progression_PrgR": "Pases_progresivos_recibidos"})
     elif carpeta == "fbref_defense":
-        df = df.rename(columns={"Player": "nombre", "Squad": "club_actual", "Tackles_Def 3rd": "entradas_1/3", "Tackles_Mid 3rd": "entradas_2/3","Tackles_Att 3rd": "entradas_3/3" , "Challenges_Tkl%": "duelos_ganados", "Tackles_Tkl": "entradas", "Tackles_TklW": "entradas_ganadas", "Int": "intercepciones", "Blocks_Blocks": "bloqueos", "Blocks_Sh": "bloqueos_tiro", "Blocks_Pass": "bloqueos_pase", "Clr": "despejes", "Err": "errores_defensivos"})
+        df = df.rename(columns={"Unnamed: 1_level_0_Player": "nombre", "Tackles_Def 3rd": "entradas_1/3", "Tackles_Mid 3rd": "entradas_2/3","Tackles_Att 3rd": "entradas_3/3" , "Challenges_Tkl%": "duelos_ganados", "Tackles_Tkl": "entradas", "Tackles_TklW": "entradas_ganadas", "Int": "intercepciones", "Blocks_Blocks": "bloqueos", "Blocks_Sh": "bloqueos_tiro", "Blocks_Pass": "bloqueos_pase", "Clr": "despejes", "Err": "errores_defensivos"})
     elif carpeta == "understat":
         df = df.rename(columns={"xG": "goles_esperados", "xA": "asistencias_esperadas", "shots": "remates", "npg": "goles_noPen", "npxG": "goles_esperados_noPen"})
     elif carpeta == "mercado":
@@ -55,29 +55,9 @@ def aniadir_col(carpeta, archivo, df):
     return df
 
 def aplanar_columnas(df):
-    df.columns = [
-        col[1] if 'Unnamed' in col[0] else f"{col[0]}_{col[1]}"
-        for col in df.columns
-    ]   
+    df = df[df[('Unnamed: 1_level_0', 'Player')] != 'Player']
+    df.columns = ['_'.join(filter(None, col)).strip() for col in df.columns.values]
     return df
-def unir_csv_por_carpeta(carpeta):
-    ruta = Path(carpeta)
-    archivos = list(ruta.glob("*.csv"))
-
-    dfs = []
-    for archivo in archivos:
-        try:
-            df = pd.read_csv(archivo)
-            dfs.append(df)
-        except Exception as e:
-            print(f"❌ Error leyendo {archivo}: {e}")
-
-    if dfs:
-        combinado = pd.concat(dfs, ignore_index=True)
-        combinado.to_csv(carpeta / carpeta, index=False)
-        print(f"✅ Guardado en: {carpeta / carpeta} ({len(combinado)} filas)")
-    else:
-        print(f"⚠️ No se encontraron archivos válidos en {carpeta}")
 
 def limpiar():  
     for carpeta in SUBCARPETAS:
@@ -100,7 +80,7 @@ def limpiar():
                 columnas_utiles = COLUMNAS_UTILES.get(carpeta, df.columns.tolist())
                 columnas_disponibles = [col for col in columnas_utiles if col in df.columns]
                 df = df[columnas_disponibles]
-
+                df = df.loc[:, ~df.columns.duplicated()]
                 df = estandarizar_columnas(df, carpeta)
                 df = aniadir_col(carpeta, archivo, df)
                 dfs.append(df)
@@ -113,7 +93,7 @@ def limpiar():
             archivo_salida = carpeta_destino / f"{carpeta}.csv"
             combinado = pd.concat(dfs, ignore_index=True)
             combinado.to_csv(archivo_salida, index=False)
-            print(f"✅ Guardado en: {archivo_salida} ({len(combinado)} filas)")
+            print(f"Guardado en: {archivo_salida} ({len(combinado)} filas)")
         else:
-            print(f"⚠️ No se encontraron archivos válidos en {carpeta_origen}")
+            print(f"No se encontraron archivos válidos en {carpeta_origen}")
 limpiar()

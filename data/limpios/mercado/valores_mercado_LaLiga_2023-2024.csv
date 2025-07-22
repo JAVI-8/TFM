@@ -138,7 +138,7 @@ pablo barrios,Atlético de Madrid,1.81,25000000.0,2023-2024,LaLiga
 koke,Atlético de Madrid,1.76,12000000.0,2023-2024,LaLiga
 saúl ñíguez,Atlético de Madrid,1.84,7500000.0,2023-2024,LaLiga
 aitor gismera,Atlético Madrileño,1.82,250000.0,2023-2024,LaLiga
-sergio guerrero,Without Club,1.74,200000.0,2023-2024,LaLiga
+sergio guerrero,Bruk-Bet Termalica Nieciecza,1.74,200000.0,2023-2024,LaLiga
 marcos llorente,Atlético de Madrid,1.84,30000000.0,2023-2024,LaLiga
 thomas lemar,Atlético de Madrid,1.71,10000000.0,2023-2024,LaLiga
 samuel lino,Atlético de Madrid,1.77,30000000.0,2023-2024,LaLiga
@@ -348,89 +348,8 @@ alejo veliz,CA Rosario Central,1.86,9000000.0,2023-2024,LaLiga
 rafa mir,Sevilla FC,1.91,2500000.0,2023-2024,LaLiga
 mariano díaz,Without Club,1.8,1500000.0,2023-2024,LaLiga
 ibra sow,Sevilla Atlético,1.84,200000.0,2023-2024,LaLiga
-rui silva,Sporting CP,1.91,8000000.0,2023-2024,LaLiga
-claudio bravo,nan,1.84,800000.0,2023-2024,LaLiga
-fran vieites,Real Betis Balompié,1.96,500000.0,2023-2024,LaLiga
-guilherme fernandes,Real Valladolid CF,1.91,150000.0,2023-2024,LaLiga
-germán garcía,Betis Deportivo Balompié,,25000.0,2023-2024,LaLiga
-chadi riad,Crystal Palace,1.87,15000000.0,2023-2024,LaLiga
-luiz felipe,Rayo Vallecano,1.87,13000000.0,2023-2024,LaLiga
-germán pezzella,CA River Plate,1.87,3000000.0,2023-2024,LaLiga
-nobel mendy,Real Betis Balompié,1.87,1000000.0,2023-2024,LaLiga
-marc bartra,Real Betis Balompié,1.84,1000000.0,2023-2024,LaLiga
-sokratis papastathopoulos,nan,1.86,700000.0,2023-2024,LaLiga
-ricardo visus,Widzew Lodz,1.92,150000.0,2023-2024,LaLiga
-juan miranda,Bologna FC 1909,1.85,9000000.0,2023-2024,LaLiga
-abner,Olympique Lyon,1.81,7000000.0,2023-2024,LaLiga
-xavi pleguezuelo,Hércules CF,1.78,100000.0,2023-2024,LaLiga
-héctor bellerín,Real Betis Balompié,1.78,4000000.0,2023-2024,LaLiga
-aitor ruibal,Real Betis Balompié,1.76,3500000.0,2023-2024,LaLiga
-youssouf sabaly,Al-Duhail SC,1.73,2500000.0,2023-2024,LaLiga
-pablo busto,Betis Deportivo Balompié,1.8,500000.0,2023-2024,LaLiga
-guido rodríguez,West Ham United,1.85,20000000.0,2023-2024,LaLiga
-marc roca,Real Betis Balompié,1.84,9000000.0,2023-2024,LaLiga
-william carvalho,Without Club,1.87,3000000.0,2023-2024,LaLiga
-paul akouokou,Olympique Lyon,1.81,1500000.0,2023-2024,LaLiga
-johnny cardoso,Atlético de Madrid,1.86,25000000.0,2023-2024,LaLiga
-pablo fornals,Real Betis Balompié,1.78,14000000.0,2023-2024,LaLiga
-sergi altimira,Real Betis Balompié,1.88,2500000.0,2023-2024,LaLiga
-andrés guardado,nan,1.67,1000000.0,2023-2024,LaLiga
-ginés sorroche,Betis Deportivo Balompié,1.8,300000.0,2023-2024,LaLiga
-quique fernández,RC Deportivo Fabril,1.77,150000.0,2023-2024,LaLiga
-nabil fekir,Al-Jazira Club,1.73,10000000.0,2023-2024,LaLiga
-isco,Real Betis Balompié,1.76,8000000.0,2023-2024,LaLiga
-dani pérez,Betis Deportivo Balompié,1.73,500000.0,2023-2024,LaLiga
-assane diao,Como 1907,1.85,12000000.0,2023-2024,LaLiga
-abde ezzalzouli,Real Betis Balompié,1.77,9000000.0,2023-2024,LaLiga
-juan cruz,CD Leganés,1.8,1500000.0,2023-2024,LaLiga
-luiz henrique,Zenit St. Petersburg,1.82,12000000.0,2023-2024,LaLiga
-rodri sánchez,Al-Arabi SC,1.75,3000000.0,2023-2024,LaLiga
-ayoze pérez,Villarreal CF,1.78,7000000.0,2023-2024,LaLiga
-borja iglesias,Real Betis Balompié,1.87,5000000.0,2023-2024,LaLiga
-willian josé,Esporte Clube Bahia,1.86,5000000.0,2023-2024,LaLiga
-chimy ávila,Real Betis Balompié,1.72,3000000.0,2023-2024,LaLiga
-cédric bakambu,Real Betis Balompié,1.82,2500000.0,2023-2024,LaLiga
-iván villar,Celta de Vigo,1.86,1200000.0,2023-2024,LaLiga
-agustín marchesín,CA Boca Juniors,1.88,800000.0,2023-2024,LaLiga
-vicente guaita,Without Club,1.9,800000.0,2023-2024,LaLiga
-coke carrillo,RC Celta Fortuna,1.88,200000.0,2023-2024,LaLiga
-césar fernández,Racing Ferrol,1.81,200000.0,2023-2024,LaLiga
-ruly garcía,FC Vizela,1.88,150000.0,2023-2024,LaLiga
-unai núñez,Celta de Vigo,1.86,7000000.0,2023-2024,LaLiga
-carl starfelt,Celta de Vigo,1.87,6000000.0,2023-2024,LaLiga
-joseph aidoo,Celta de Vigo,1.81,4000000.0,2023-2024,LaLiga
-carlos domínguez,Celta de Vigo,1.87,3000000.0,2023-2024,LaLiga
-javi rodríguez,Celta de Vigo,1.78,250000.0,2023-2024,LaLiga
-yoel lago,RC Celta Fortuna,1.85,200000.0,2023-2024,LaLiga
-javi domínguez,Mérida AD,1.95,150000.0,2023-2024,LaLiga
-manu sánchez,Celta de Vigo,1.71,8000000.0,2023-2024,LaLiga
-mihailo ristic,Celta de Vigo,1.8,1000000.0,2023-2024,LaLiga
-joel lópez,RC Celta Fortuna,1.8,200000.0,2023-2024,LaLiga
-óscar mingueza,Celta de Vigo,1.84,8000000.0,2023-2024,LaLiga
-javier manquillo,Without Club,1.78,1800000.0,2023-2024,LaLiga
-kevin vázquez,Sporting Gijón,1.75,800000.0,2023-2024,LaLiga
-javi rueda,Celta de Vigo,1.77,250000.0,2023-2024,LaLiga
-renato tapia,Al-Wasl FC,1.85,5000000.0,2023-2024,LaLiga
-jailson,Without Club,1.87,1500000.0,2023-2024,LaLiga
-damián rodríguez,Celta de Vigo,1.8,500000.0,2023-2024,LaLiga
-fran beltrán,Celta de Vigo,1.65,6000000.0,2023-2024,LaLiga
-luca de la torre,San Diego FC,1.77,3000000.0,2023-2024,LaLiga
-hugo sotelo,Celta de Vigo,1.8,2500000.0,2023-2024,LaLiga
-carlos dotor,Málaga CF,1.8,2000000.0,2023-2024,LaLiga
-gabri veiga,FC Porto,1.85,25000000.0,2023-2024,LaLiga
-jonathan bamba,Chicago Fire FC,1.75,9000000.0,2023-2024,LaLiga
-williot swedberg,Celta de Vigo,1.87,5000000.0,2023-2024,LaLiga
-hugo álvarez,Celta de Vigo,1.76,1500000.0,2023-2024,LaLiga
-franco cervi,Celta de Vigo,1.66,1500000.0,2023-2024,LaLiga
-tadeo allende,Inter Miami CF,1.83,4000000.0,2023-2024,LaLiga
-carles pérez,Aris Thessaloniki,1.73,2500000.0,2023-2024,LaLiga
-miguel rodríguez,FC Utrecht,1.79,800000.0,2023-2024,LaLiga
-jørgen strand larsen,Wolverhampton Wanderers,1.93,25000000.0,2023-2024,LaLiga
-anastasios douvikas,Como 1907,1.86,6000000.0,2023-2024,LaLiga
-iago aspas,Celta de Vigo,1.76,3000000.0,2023-2024,LaLiga
-gonçalo paciência,Sport Club do Recife,1.84,1500000.0,2023-2024,LaLiga
 augusto batalla,Rayo Vallecano,1.86,5000000.0,2023-2024,LaLiga
-andré ferreira,Real Valladolid CF,1.93,800000.0,2023-2024,LaLiga
+andré ferreira,Moreirense FC,1.93,800000.0,2023-2024,LaLiga
 marc martínez,Without Club,1.86,300000.0,2023-2024,LaLiga
 adri lópez,Without Club,1.88,200000.0,2023-2024,LaLiga
 raúl fernández,Deportivo Alavés,1.95,200000.0,2023-2024,LaLiga
@@ -475,6 +394,122 @@ matías arezo,CA Peñarol,1.77,7000000.0,2023-2024,LaLiga
 shon weissman,Granada CF,1.74,1700000.0,2023-2024,LaLiga
 famara diédhiou,Clermont Foot 63,1.89,500000.0,2023-2024,LaLiga
 eghosa bello,Recreativo Granada,2.0,50000.0,2023-2024,LaLiga
+david soria,Getafe CF,1.92,5000000.0,2023-2024,LaLiga
+daniel fuzato,Clube de Regatas Vasco da Gama,1.9,900000.0,2023-2024,LaLiga
+jorge benito,Getafe CF B,,25000.0,2023-2024,LaLiga
+djordjije medenica,Getafe CF U19,,,2023-2024,LaLiga
+gastón álvarez,Al-Qadsiah FC,1.84,15000000.0,2023-2024,LaLiga
+omar alderete,Getafe CF,1.88,5000000.0,2023-2024,LaLiga
+djené,Getafe CF,1.78,2500000.0,2023-2024,LaLiga
+domingos duarte,Getafe CF,1.92,2000000.0,2023-2024,LaLiga
+stefan mitrovic,KAA Gent,1.89,1300000.0,2023-2024,LaLiga
+nabil aberdin,FC Sochi,1.92,100000.0,2023-2024,LaLiga
+sergio gimeno,Without Club,,50000.0,2023-2024,LaLiga
+diego rico,Getafe CF,1.83,1500000.0,2023-2024,LaLiga
+fabrizio angileri,Sport Club Corinthians Paulista,1.85,1000000.0,2023-2024,LaLiga
+jordi martín,SD Huesca,1.76,600000.0,2023-2024,LaLiga
+gorka rivera,Getafe CF B,,100000.0,2023-2024,LaLiga
+alejandro herranz,Getafe CF B,1.88,25000.0,2023-2024,LaLiga
+josé ángel carmona,Sevilla FC,1.84,3500000.0,2023-2024,LaLiga
+juan iglesias,Getafe CF,1.87,2500000.0,2023-2024,LaLiga
+damián suárez,CA Peñarol,1.73,650000.0,2023-2024,LaLiga
+nemanja maksimovic,Panathinaikos FC,1.89,6000000.0,2023-2024,LaLiga
+mauro arambarri,Getafe CF,1.75,5000000.0,2023-2024,LaLiga
+luis milla,Getafe CF,1.75,3500000.0,2023-2024,LaLiga
+carles aleñá,Getafe CF,1.8,3000000.0,2023-2024,LaLiga
+ilaix moriba,Celta de Vigo,1.85,3000000.0,2023-2024,LaLiga
+yellu santiago,Without Club,1.92,1000000.0,2023-2024,LaLiga
+john patrick,Stade Reims,1.92,200000.0,2023-2024,LaLiga
+facu esnáider,Tlaxcala FC,1.84,100000.0,2023-2024,LaLiga
+óscar rodríguez,Without Club,1.74,2500000.0,2023-2024,LaLiga
+santi garcía,Gil Vicente FC,1.84,200000.0,2023-2024,LaLiga
+diego lópez,Utebo FC,,100000.0,2023-2024,LaLiga
+alberto risco,Getafe CF B,,,2023-2024,LaLiga
+jeremy jorge,CD Tenerife,,200000.0,2023-2024,LaLiga
+yassin tallal,Getafe CF B,1.73,50000.0,2023-2024,LaLiga
+mason greenwood,Olympique Marseille,1.81,25000000.0,2023-2024,LaLiga
+portu,Girona FC,1.67,3500000.0,2023-2024,LaLiga
+enes ünal,AFC Bournemouth,1.87,18000000.0,2023-2024,LaLiga
+borja mayoral,Getafe CF,1.82,15000000.0,2023-2024,LaLiga
+juanmi latasa,Real Valladolid CF,1.92,2800000.0,2023-2024,LaLiga
+choco lozano,Santos Laguna,1.83,1200000.0,2023-2024,LaLiga
+jaime mata,UD Las Palmas,1.86,900000.0,2023-2024,LaLiga
+antonio sivera,Deportivo Alavés,1.85,6000000.0,2023-2024,LaLiga
+jesús owono,FC Andorra,1.86,1000000.0,2023-2024,LaLiga
+adrián rodríguez,Deportivo Alavés,1.95,150000.0,2023-2024,LaLiga
+gaizka garcía,Deportivo Alavés B,1.92,100000.0,2023-2024,LaLiga
+rubén montero,Deportivo Alavés C,,,2023-2024,LaLiga
+abdel abqar,Without Club,1.88,7500000.0,2023-2024,LaLiga
+rafa marín,Villarreal CF,1.91,7500000.0,2023-2024,LaLiga
+nikola maras,Deportivo Alavés,1.89,1200000.0,2023-2024,LaLiga
+aleksandar sedlar,Tractor FC,1.8,400000.0,2023-2024,LaLiga
+álvaro garcía,Deportivo Alavés B,1.92,150000.0,2023-2024,LaLiga
+javi lópez,Real Sociedad,1.83,7500000.0,2023-2024,LaLiga
+rubén duarte,UNAM Pumas,1.79,3000000.0,2023-2024,LaLiga
+victor parada,Deportivo Alavés,1.85,200000.0,2023-2024,LaLiga
+eneko ortiz,Villarreal CF B,,150000.0,2023-2024,LaLiga
+andoni gorosabel,Athletic Bilbao,1.74,5000000.0,2023-2024,LaLiga
+nahuel tenaglia,Deportivo Alavés,1.81,2000000.0,2023-2024,LaLiga
+egoitz muñoz,Deportivo Alavés B,,200000.0,2023-2024,LaLiga
+joseda álvarez,Deportivo Alavés B,1.83,100000.0,2023-2024,LaLiga
+antonio blanco,Deportivo Alavés,1.76,7500000.0,2023-2024,LaLiga
+carlos protesoni,Deportivo Alavés,1.85,1500000.0,2023-2024,LaLiga
+ander guevara,Deportivo Alavés,1.8,5000000.0,2023-2024,LaLiga
+jon guridi,Deportivo Alavés,1.79,4000000.0,2023-2024,LaLiga
+tomás mendes,FC Alverca,,200000.0,2023-2024,LaLiga
+selu diallo,Deportivo Alavés B,1.87,200000.0,2023-2024,LaLiga
+ianis hagi,Without Club,1.82,2000000.0,2023-2024,LaLiga
+ander sánchez,Deportivo Alavés B,,100000.0,2023-2024,LaLiga
+luis rioja,Valencia CF,1.76,4000000.0,2023-2024,LaLiga
+abde rebbach,Deportivo Alavés,1.76,800000.0,2023-2024,LaLiga
+josé de león,Barakaldo CF,1.85,200000.0,2023-2024,LaLiga
+álex sola,Getafe CF,1.78,4000000.0,2023-2024,LaLiga
+carlos vicente,Deportivo Alavés,1.79,4000000.0,2023-2024,LaLiga
+giuliano simeone,Atlético de Madrid,1.73,3000000.0,2023-2024,LaLiga
+xeber alkain,SD Eibar,1.74,1500000.0,2023-2024,LaLiga
+unai ropero,Hércules CF,1.88,500000.0,2023-2024,LaLiga
+samu aghehowa,FC Porto,1.93,35000000.0,2023-2024,LaLiga
+miguel de la fuente,CD Leganés,1.82,2500000.0,2023-2024,LaLiga
+jon karrikaburu,Real Sociedad,1.83,2500000.0,2023-2024,LaLiga
+mamadou sylla,Real Valladolid CF,1.8,1500000.0,2023-2024,LaLiga
+kike garcía,RCD Espanyol Barcelona,1.86,1000000.0,2023-2024,LaLiga
+joaquín panichelli,Deportivo Alavés,1.9,300000.0,2023-2024,LaLiga
+giorgi gagua,NK Istra 1961,1.93,250000.0,2023-2024,LaLiga
+álvaro valles,Real Betis Balompié,1.91,12000000.0,2023-2024,LaLiga
+aarón escandell,Real Oviedo,1.84,1000000.0,2023-2024,LaLiga
+ale gorrin,CD Mirandés B,1.91,,2023-2024,LaLiga
+álvaro killane,Las Palmas Atlético,1.86,,2023-2024,LaLiga
+mika mármol,UD Las Palmas,1.81,15000000.0,2023-2024,LaLiga
+saúl coco,Torino FC,1.87,8000000.0,2023-2024,LaLiga
+álex suárez,UD Las Palmas,1.8,1200000.0,2023-2024,LaLiga
+juanma herzog,UD Las Palmas,1.86,1000000.0,2023-2024,LaLiga
+eric curbelo,Sporting Gijón,1.8,800000.0,2023-2024,LaLiga
+sergi cardona,Villarreal CF,1.86,6000000.0,2023-2024,LaLiga
+daley sinkgraven,Fortuna Sittard,1.79,1000000.0,2023-2024,LaLiga
+gabriel palmero,Unionistas CF,1.8,,2023-2024,LaLiga
+julián araujo,AFC Bournemouth,1.76,8000000.0,2023-2024,LaLiga
+marvin park,UD Las Palmas,1.77,2000000.0,2023-2024,LaLiga
+álvaro lemos,Real Oviedo,1.77,700000.0,2023-2024,LaLiga
+máximo perrone,Como 1907,1.77,9000000.0,2023-2024,LaLiga
+nuke mfulu,Deportivo de La Coruña,1.83,700000.0,2023-2024,LaLiga
+enzo loiodice,UD Las Palmas,1.77,4000000.0,2023-2024,LaLiga
+javi muñoz,Getafe CF,1.77,3000000.0,2023-2024,LaLiga
+josé campaña,Without Club,1.79,1500000.0,2023-2024,LaLiga
+fabio gonzález,Without Club,1.76,500000.0,2023-2024,LaLiga
+iñaki gonzález,Las Palmas Atlético,1.83,,2023-2024,LaLiga
+aboubacar bassinga,AD Ceuta FC,,,2023-2024,LaLiga
+kirian rodríguez,UD Las Palmas,1.78,12000000.0,2023-2024,LaLiga
+jonathan viera,UD Las Palmas,1.71,1000000.0,2023-2024,LaLiga
+yadam santana,Belasitsa Petrich,,,2023-2024,LaLiga
+alberto moleiro,Villarreal CF,1.71,15000000.0,2023-2024,LaLiga
+benito ramírez,Van Spor FK,1.79,600000.0,2023-2024,LaLiga
+munir el haddadi,Without Club,1.77,2500000.0,2023-2024,LaLiga
+pejiño,UD Las Palmas,1.78,1200000.0,2023-2024,LaLiga
+sandro ramírez,UD Las Palmas,1.74,1500000.0,2023-2024,LaLiga
+sory kaba,UD Las Palmas,1.91,1500000.0,2023-2024,LaLiga
+marc cardona,UD Las Palmas,1.82,1400000.0,2023-2024,LaLiga
+cristian herrera,Deportivo de La Coruña,1.82,300000.0,2023-2024,LaLiga
+pau ferrer,SD Ponferradina,,,2023-2024,LaLiga
 sergio herrera,CA Osasuna,1.92,6000000.0,2023-2024,LaLiga
 aitor fernández,CA Osasuna,1.82,1800000.0,2023-2024,LaLiga
 pablo valencia,Without Club,1.88,200000.0,2023-2024,LaLiga
@@ -486,7 +521,7 @@ unai garcía,Panetolikos GFS,1.86,1200000.0,2023-2024,LaLiga
 jorge moreno,Without Club,1.84,500000.0,2023-2024,LaLiga
 juan cruz,CA Osasuna,1.82,2200000.0,2023-2024,LaLiga
 johan mojica,RCD Mallorca,1.85,2200000.0,2023-2024,LaLiga
-jesús areso,CA Osasuna,1.82,7500000.0,2023-2024,LaLiga
+jesús areso,Athletic Bilbao,1.82,7500000.0,2023-2024,LaLiga
 rubén peña,CD Leganés,1.7,2200000.0,2023-2024,LaLiga
 nacho vidal,Real Oviedo,1.8,2000000.0,2023-2024,LaLiga
 iñigo arguibide,CA Osasuna Promesas,1.78,150000.0,2023-2024,LaLiga
@@ -565,7 +600,7 @@ marcos fernández,RCD Espanyol B,1.76,50000.0,2023-2024,LaLiga
 pablo maffeo,RCD Mallorca,1.72,5000000.0,2023-2024,LaLiga
 giovanni gonzález,FC Krasnodar,1.73,3000000.0,2023-2024,LaLiga
 nacho vidal,Real Oviedo,1.8,2000000.0,2023-2024,LaLiga
-carles sogorb,RCD Mallorca B,1.73,,2023-2024,LaLiga
+carles sogorb,CE Andratx,1.73,,2023-2024,LaLiga
 yuzún ley,RCD Mallorca B,1.8,,2023-2024,LaLiga
 samú costa,RCD Mallorca,1.85,10000000.0,2023-2024,LaLiga
 omar mascarell,RCD Mallorca,1.81,1000000.0,2023-2024,LaLiga

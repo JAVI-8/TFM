@@ -1,7 +1,7 @@
 nombre,club_actual,altura,valor,temporada,liga
 jonas urbig,Bayern Munich,1.89,12000000.0,2024-2025,Bundesliga
 manuel neuer,Bayern Munich,1.93,4000000.0,2024-2025,Bundesliga
-daniel peretz,Bayern Munich,1.9,3000000.0,2024-2025,Bundesliga
+daniel peretz,Hamburger SV,1.9,3000000.0,2024-2025,Bundesliga
 max schmitt,SSV Ulm 1846,1.89,700000.0,2024-2025,Bundesliga
 sven ulreich,Without Club,1.92,500000.0,2024-2025,Bundesliga
 anthony pavlesic,FC Bayern Munich II,1.9,150000.0,2024-2025,Bundesliga
@@ -113,49 +113,45 @@ loïs openda,RB Leipzig,1.77,50000000.0,2024-2025,Bundesliga
 yussuf poulsen,Hamburger SV,1.92,5000000.0,2024-2025,Bundesliga
 andré silva,RB Leipzig,1.86,4000000.0,2024-2025,Bundesliga
 robert ramsak,RB Leipzig,1.85,,2024-2025,Bundesliga
-gregor kobel,Borussia Dortmund,1.96,40000000.0,2024-2025,Bundesliga
-alexander meyer,Borussia Dortmund,1.95,800000.0,2024-2025,Bundesliga
-marcel lotka,Fortuna Düsseldorf,1.9,800000.0,2024-2025,Bundesliga
-silas ostrzinski,Borussia Dortmund,1.98,200000.0,2024-2025,Bundesliga
-robin lisewski,1.FC Nuremberg,1.95,,2024-2025,Bundesliga
-nico schlotterbeck,Borussia Dortmund,1.91,40000000.0,2024-2025,Bundesliga
-waldemar anton,Borussia Dortmund,1.89,18000000.0,2024-2025,Bundesliga
-niklas süle,Borussia Dortmund,1.95,8000000.0,2024-2025,Bundesliga
-soumaïla coulibaly,RC Strasbourg Alsace,1.91,8000000.0,2024-2025,Bundesliga
-yannik lührs,Borussia Dortmund II,1.9,600000.0,2024-2025,Bundesliga
-filippo mané,Borussia Dortmund,1.88,600000.0,2024-2025,Bundesliga
-david lelle,Borussia Dortmund II,1.9,200000.0,2024-2025,Bundesliga
-elias benkara,Borussia Dortmund II,1.93,,2024-2025,Bundesliga
-tyler meiser,Borussia Mönchengladbach II,1.89,,2024-2025,Bundesliga
-daniel svensson,Borussia Dortmund,1.83,12000000.0,2024-2025,Bundesliga
-ramy bensebaini,Borussia Dortmund,1.87,7000000.0,2024-2025,Bundesliga
-almugera kabar,Borussia Dortmund,1.86,1000000.0,2024-2025,Bundesliga
-yan couto,Borussia Dortmund,1.68,20000000.0,2024-2025,Bundesliga
-julian ryerson,Borussia Dortmund,1.83,20000000.0,2024-2025,Bundesliga
-niklas jessen,MSV Duisburg,1.82,225000.0,2024-2025,Bundesliga
-emre can,Borussia Dortmund,1.86,7000000.0,2024-2025,Bundesliga
-salih özcan,Borussia Dortmund,1.83,4000000.0,2024-2025,Bundesliga
-ayman azhil,Borussia Dortmund II,1.75,700000.0,2024-2025,Bundesliga
-felix nmecha,Borussia Dortmund,1.9,28000000.0,2024-2025,Bundesliga
-jobe bellingham,Borussia Dortmund,1.91,22000000.0,2024-2025,Bundesliga
-carney chukwuemeka,Chelsea FC,1.88,18000000.0,2024-2025,Bundesliga
-marcel sabitzer,Borussia Dortmund,1.78,8000000.0,2024-2025,Bundesliga
-pascal groß,Borussia Dortmund,1.81,5000000.0,2024-2025,Bundesliga
-kjell wätjen,VfL Bochum,1.84,2500000.0,2024-2025,Bundesliga
-julian brandt,Borussia Dortmund,1.85,25000000.0,2024-2025,Bundesliga
-giovanni reyna,Borussia Dortmund,1.85,7000000.0,2024-2025,Bundesliga
-jamie gittens,Chelsea FC,1.78,50000000.0,2024-2025,Bundesliga
-julien duranville,Borussia Dortmund,1.73,8500000.0,2024-2025,Bundesliga
-rodney elongo-yombo,Without Club,1.84,400000.0,2024-2025,Bundesliga
-mathis albert,Borussia Dortmund II,1.75,,2024-2025,Bundesliga
-karim adeyemi,Borussia Dortmund,1.8,45000000.0,2024-2025,Bundesliga
-donyell malen,Aston Villa,1.76,25000000.0,2024-2025,Bundesliga
-cole campbell,Borussia Dortmund,1.7,1500000.0,2024-2025,Bundesliga
-samuele inácio,Borussia Dortmund U19,,,2024-2025,Bundesliga
-serhou guirassy,Borussia Dortmund,1.87,45000000.0,2024-2025,Bundesliga
-maximilian beier,Borussia Dortmund,1.85,25000000.0,2024-2025,Bundesliga
-sébastien haller,Borussia Dortmund,1.9,3000000.0,2024-2025,Bundesliga
-jordi paulina,Borussia Dortmund II,1.91,250000.0,2024-2025,Bundesliga
+alexander nübel,VfB Stuttgart,1.93,12000000.0,2024-2025,Bundesliga
+dennis seimen,SC Paderborn 07,1.92,2500000.0,2024-2025,Bundesliga
+fabian bredlow,VfB Stuttgart,1.9,800000.0,2024-2025,Bundesliga
+stefan drljaca,VfB Stuttgart,1.92,325000.0,2024-2025,Bundesliga
+finn jeltsch,VfB Stuttgart,1.88,20000000.0,2024-2025,Bundesliga
+jeff chabot,VfB Stuttgart,1.95,12000000.0,2024-2025,Bundesliga
+anthony rouault,Stade Rennais FC,1.86,10000000.0,2024-2025,Bundesliga
+ameen al-dakhil,VfB Stuttgart,1.87,7500000.0,2024-2025,Bundesliga
+luca jaquez,VfB Stuttgart,1.87,6000000.0,2024-2025,Bundesliga
+anrie chase,VfB Stuttgart,1.88,3000000.0,2024-2025,Bundesliga
+dan-axel zagadou,VfB Stuttgart,1.96,2000000.0,2024-2025,Bundesliga
+maximilian mittelstädt,VfB Stuttgart,1.8,20000000.0,2024-2025,Bundesliga
+ramon hendriks,VfB Stuttgart,1.89,5000000.0,2024-2025,Bundesliga
+josha vagnoman,VfB Stuttgart,1.9,10000000.0,2024-2025,Bundesliga
+leonidas stergiou,VfB Stuttgart,1.81,5000000.0,2024-2025,Bundesliga
+pascal stenzel,VfB Stuttgart,1.83,2000000.0,2024-2025,Bundesliga
+angelo stiller,VfB Stuttgart,1.83,45000000.0,2024-2025,Bundesliga
+atakan karazor,VfB Stuttgart,1.91,12000000.0,2024-2025,Bundesliga
+yannik keitel,VfB Stuttgart,1.86,3500000.0,2024-2025,Bundesliga
+christopher olivier,VfB Stuttgart II,1.87,500000.0,2024-2025,Bundesliga
+nikolas nartey,VfB Stuttgart,1.86,400000.0,2024-2025,Bundesliga
+frans krätzig,Red Bull Salzburg,1.77,3500000.0,2024-2025,Bundesliga
+enzo millot,VfB Stuttgart,1.75,35000000.0,2024-2025,Bundesliga
+chris führich,VfB Stuttgart,1.81,15000000.0,2024-2025,Bundesliga
+jacob bruun larsen,Burnley FC,1.83,5000000.0,2024-2025,Bundesliga
+justin diehl,VfB Stuttgart,1.74,3000000.0,2024-2025,Bundesliga
+jarzinho malanga,SV 07 Elversberg,1.79,1700000.0,2024-2025,Bundesliga
+jamie leweling,VfB Stuttgart,1.85,20000000.0,2024-2025,Bundesliga
+silas,VfB Stuttgart,1.89,7000000.0,2024-2025,Bundesliga
+fabian rieder,Stade Rennais FC,1.79,6000000.0,2024-2025,Bundesliga
+benjamin boakye,Arminia Bielefeld,1.8,500000.0,2024-2025,Bundesliga
+luca raimund,Fortuna Düsseldorf,1.88,400000.0,2024-2025,Bundesliga
+nick woltemade,VfB Stuttgart,1.98,30000000.0,2024-2025,Bundesliga
+ermedin demirovic,VfB Stuttgart,1.85,22000000.0,2024-2025,Bundesliga
+deniz undav,VfB Stuttgart,1.79,20000000.0,2024-2025,Bundesliga
+el bilal touré,Atalanta BC,1.85,15000000.0,2024-2025,Bundesliga
+wahid faghir,Vejle Boldklub,1.86,700000.0,2024-2025,Bundesliga
+eliot bujupi,VfB Stuttgart II,1.87,500000.0,2024-2025,Bundesliga
+thomas kastanaras,VfB Stuttgart II,1.86,400000.0,2024-2025,Bundesliga
 kamil grabara,VfL Wolfsburg,1.95,14000000.0,2024-2025,Bundesliga
 marius müller,VfL Wolfsburg,1.92,1500000.0,2024-2025,Bundesliga
 pavao pervan,VfL Wolfsburg,1.94,300000.0,2024-2025,Bundesliga
@@ -249,7 +245,7 @@ hennes behrens,TSG 1899 Hoffenheim,1.75,350000.0,2024-2025,Bundesliga
 valentin gendrey,TSG 1899 Hoffenheim,1.79,7000000.0,2024-2025,Bundesliga
 pavel kaderabek,AC Sparta Prague,1.82,1700000.0,2024-2025,Bundesliga
 lars strobl,TSG 1899 Hoffenheim II,1.9,25000.0,2024-2025,Bundesliga
-anton stach,TSG 1899 Hoffenheim,1.94,14000000.0,2024-2025,Bundesliga
+anton stach,Leeds United,1.94,14000000.0,2024-2025,Bundesliga
 florian grillitsch,TSG 1899 Hoffenheim,1.87,2000000.0,2024-2025,Bundesliga
 diadié samassékou,Without Club,1.77,1000000.0,2024-2025,Bundesliga
 tom bischof,Bayern Munich,1.76,30000000.0,2024-2025,Bundesliga
@@ -481,7 +477,7 @@ adam dzwigala,FC St. Pauli,1.85,600000.0,2024-2025,Bundesliga
 emil staugaard,Without Club,1.92,125000.0,2024-2025,Bundesliga
 muhammad dahaba,FC St. Pauli II,1.94,125000.0,2024-2025,Bundesliga
 lars ritzka,FC St. Pauli,1.85,1000000.0,2024-2025,Bundesliga
-julien yanda,FC Bayern Munich II,,250000.0,2024-2025,Bundesliga
+julien yanda,FC Bayern Munich II,1.83,250000.0,2024-2025,Bundesliga
 philipp treu,SC Freiburg,1.73,5000000.0,2024-2025,Bundesliga
 manolis saliakas,FC St. Pauli,1.77,3000000.0,2024-2025,Bundesliga
 fin stevens,FC St. Pauli,1.79,500000.0,2024-2025,Bundesliga
@@ -531,7 +527,7 @@ dani de wit,FC Utrecht,1.84,2500000.0,2024-2025,Bundesliga
 lukas daschner,FC St. Gallen 1879,1.85,900000.0,2024-2025,Bundesliga
 lennart koerdt,VfL Bochum,1.87,,2024-2025,Bundesliga
 georgios masouras,Olympiacos Piraeus,1.84,2000000.0,2024-2025,Bundesliga
-aliou baldé,OGC Nice,1.7,800000.0,2024-2025,Bundesliga
+aliou baldé,FC St. Gallen 1879,1.7,800000.0,2024-2025,Bundesliga
 gerrit holtmann,VfL Bochum,1.85,700000.0,2024-2025,Bundesliga
 samuel bamba,VfL Bochum,1.79,500000.0,2024-2025,Bundesliga
 myron boadu,AS Monaco,1.81,7000000.0,2024-2025,Bundesliga

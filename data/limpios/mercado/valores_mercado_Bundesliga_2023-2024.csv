@@ -1,6 +1,6 @@
 nombre,club_actual,altura,valor,temporada,liga
 manuel neuer,Bayern Munich,1.93,4000000.0,2023-2024,Bundesliga
-daniel peretz,Bayern Munich,1.9,3000000.0,2023-2024,Bundesliga
+daniel peretz,Hamburger SV,1.9,3000000.0,2023-2024,Bundesliga
 sven ulreich,Without Club,1.92,700000.0,2023-2024,Bundesliga
 max schmitt,SSV Ulm 1846,1.89,500000.0,2023-2024,Bundesliga
 tom ritzy hülsmann,TSV Hartberg,2.05,250000.0,2023-2024,Bundesliga
@@ -289,73 +289,6 @@ michael gregoritsch,SC Freiburg,1.93,8000000.0,2023-2024,Bundesliga
 lucas höler,SC Freiburg,1.84,4000000.0,2023-2024,Bundesliga
 junior adamu,SC Freiburg,1.83,4000000.0,2023-2024,Bundesliga
 maximilian breunig,1.FC Heidenheim 1846,1.95,800000.0,2023-2024,Bundesliga
-oliver baumann,TSG 1899 Hoffenheim,1.87,3000000.0,2023-2024,Bundesliga
-nahuel noll,Hannover 96,1.9,500000.0,2023-2024,Bundesliga
-luca philipp,TSG 1899 Hoffenheim,1.92,300000.0,2023-2024,Bundesliga
-ozan kabak,TSG 1899 Hoffenheim,1.87,10000000.0,2023-2024,Bundesliga
-attila szalai,Kasimpasa,1.92,4000000.0,2023-2024,Bundesliga
-kevin akpoguma,TSG 1899 Hoffenheim,1.92,3000000.0,2023-2024,Bundesliga
-stanley nsoki,TSG 1899 Hoffenheim,1.84,2500000.0,2023-2024,Bundesliga
-tim drexler,TSG 1899 Hoffenheim,1.86,2500000.0,2023-2024,Bundesliga
-kevin vogt,VfL Bochum,1.94,2000000.0,2023-2024,Bundesliga
-john brooks,Hertha BSC,1.94,2000000.0,2023-2024,Bundesliga
-joshua quarshie,Southampton FC,1.96,800000.0,2023-2024,Bundesliga
-kasim adams,Without Club,1.9,700000.0,2023-2024,Bundesliga
-david jurásek,Besiktas JK,1.83,8000000.0,2023-2024,Bundesliga
-marco john,SpVgg Greuther Fürth,1.84,1500000.0,2023-2024,Bundesliga
-pavel kaderabek,AC Sparta Prague,1.82,3000000.0,2023-2024,Bundesliga
-angelo stiller,VfB Stuttgart,1.83,20000000.0,2023-2024,Bundesliga
-anton stach,TSG 1899 Hoffenheim,1.94,15000000.0,2023-2024,Bundesliga
-florian grillitsch,TSG 1899 Hoffenheim,1.87,6500000.0,2023-2024,Bundesliga
-diadié samassékou,Without Club,1.77,2000000.0,2023-2024,Bundesliga
-grischa prömel,TSG 1899 Hoffenheim,1.84,7000000.0,2023-2024,Bundesliga
-umut tohumcu,TSG 1899 Hoffenheim,1.75,7000000.0,2023-2024,Bundesliga
-tom bischof,Bayern Munich,1.76,3500000.0,2023-2024,Bundesliga
-dennis geiger,TSG 1899 Hoffenheim,1.73,3000000.0,2023-2024,Bundesliga
-finn becker,TSG 1899 Hoffenheim,1.77,2500000.0,2023-2024,Bundesliga
-robert skov,1.FC Union Berlin,1.85,5000000.0,2023-2024,Bundesliga
-andrej kramaric,TSG 1899 Hoffenheim,1.77,5000000.0,2023-2024,Bundesliga
-julian justvan,1.FC Nuremberg,1.77,1500000.0,2023-2024,Bundesliga
-bambasé conté,SV 07 Elversberg,1.82,700000.0,2023-2024,Bundesliga
-marius bülter,TSG 1899 Hoffenheim,1.88,2500000.0,2023-2024,Bundesliga
-maximilian beier,Borussia Dortmund,1.85,30000000.0,2023-2024,Bundesliga
-mergim berisha,TSG 1899 Hoffenheim,1.88,10000000.0,2023-2024,Bundesliga
-wout weghorst,Ajax Amsterdam,1.97,6000000.0,2023-2024,Bundesliga
-ihlas bebou,TSG 1899 Hoffenheim,1.85,4000000.0,2023-2024,Bundesliga
-max moerstedt,TSG 1899 Hoffenheim,1.94,1000000.0,2023-2024,Bundesliga
-jonas omlin,Borussia Mönchengladbach,1.9,6000000.0,2023-2024,Bundesliga
-moritz nicolas,Borussia Mönchengladbach,1.93,2500000.0,2023-2024,Bundesliga
-jan olschowsky,Alemannia Aachen,1.84,600000.0,2023-2024,Bundesliga
-tobias sippel,Borussia Mönchengladbach,1.83,300000.0,2023-2024,Bundesliga
-maximilian brüll,Borussia Mönchengladbach II,1.87,75000.0,2023-2024,Bundesliga
-ko itakura,Borussia Mönchengladbach,1.88,12000000.0,2023-2024,Bundesliga
-nico elvedi,Borussia Mönchengladbach,1.89,10000000.0,2023-2024,Bundesliga
-maximilian wöber,SV Werder Bremen,1.88,10000000.0,2023-2024,Bundesliga
-marvin friedrich,Borussia Mönchengladbach,1.93,3500000.0,2023-2024,Bundesliga
-fabio chiarodia,Borussia Mönchengladbach,1.86,2000000.0,2023-2024,Bundesliga
-mamadou doucouré,FC Biel-Bienne 1896,1.83,100000.0,2023-2024,Bundesliga
-luca netz,Borussia Mönchengladbach,1.84,10000000.0,2023-2024,Bundesliga
-lukas ullrich,Borussia Mönchengladbach,1.8,750000.0,2023-2024,Bundesliga
-joe scally,Borussia Mönchengladbach,1.84,10000000.0,2023-2024,Bundesliga
-stefan lainer,Red Bull Salzburg,1.75,2500000.0,2023-2024,Bundesliga
-simon walde,Borussia Mönchengladbach II,1.85,500000.0,2023-2024,Bundesliga
-tony jantschke,nan,1.77,400000.0,2023-2024,Bundesliga
-julian weigl,Borussia Mönchengladbach,1.86,6000000.0,2023-2024,Bundesliga
-christoph kramer,nan,1.91,1700000.0,2023-2024,Bundesliga
-manu koné,AS Roma,1.85,20000000.0,2023-2024,Bundesliga
-rocco reitz,Borussia Mönchengladbach,1.76,10000000.0,2023-2024,Bundesliga
-florian neuhaus,Borussia Mönchengladbach,1.85,7000000.0,2023-2024,Bundesliga
-robin hack,Borussia Mönchengladbach,1.78,8000000.0,2023-2024,Bundesliga
-yvandro borges sanches,Borussia Mönchengladbach,1.8,1000000.0,2023-2024,Bundesliga
-franck honorat,Borussia Mönchengladbach,1.8,12000000.0,2023-2024,Bundesliga
-nathan ngoumou,Borussia Mönchengladbach,1.85,5000000.0,2023-2024,Bundesliga
-hannes wolf,New York City FC,1.79,2000000.0,2023-2024,Bundesliga
-patrick herrmann,nan,1.79,1000000.0,2023-2024,Bundesliga
-tomas cvancara,Borussia Mönchengladbach,1.9,8000000.0,2023-2024,Bundesliga
-alassane pléa,PSV Eindhoven,1.81,7000000.0,2023-2024,Bundesliga
-jordan,Stade Reims,1.91,4000000.0,2023-2024,Bundesliga
-grant-leon ranos,Borussia Mönchengladbach,1.8,1000000.0,2023-2024,Bundesliga
-shio fukuda,Borussia Mönchengladbach,1.78,300000.0,2023-2024,Bundesliga
 frederik rönnow,1.FC Union Berlin,1.88,4500000.0,2023-2024,Bundesliga
 alexander schwolow,Without Club,1.9,700000.0,2023-2024,Bundesliga
 jakob busk,FC Nordsjaelland,1.89,250000.0,2023-2024,Bundesliga
@@ -406,7 +339,7 @@ phillipp mwene,1.FSV Mainz 05,1.7,1800000.0,2023-2024,Bundesliga
 tim müller,1.FSV Mainz 05 II,1.84,150000.0,2023-2024,Bundesliga
 anthony caci,1.FSV Mainz 05,1.84,7000000.0,2023-2024,Bundesliga
 silvan widmer,1.FSV Mainz 05,1.83,3000000.0,2023-2024,Bundesliga
-anton stach,TSG 1899 Hoffenheim,1.94,15000000.0,2023-2024,Bundesliga
+anton stach,Leeds United,1.94,15000000.0,2023-2024,Bundesliga
 edimilson fernandes,BSC Young Boys,1.87,3500000.0,2023-2024,Bundesliga
 josuha guilavogui,Without Club,1.88,700000.0,2023-2024,Bundesliga
 leandro barreiro,SL Benfica,1.74,17000000.0,2023-2024,Bundesliga
@@ -495,7 +428,7 @@ nick woltemade,VfB Stuttgart,1.98,4000000.0,2023-2024,Bundesliga
 niclas füllkrug,West Ham United,1.89,15000000.0,2023-2024,Bundesliga
 marvin ducksch,SV Werder Bremen,1.88,9000000.0,2023-2024,Bundesliga
 rafael borré,Sport Club Internacional,1.74,8000000.0,2023-2024,Bundesliga
-dawid kownacki,SV Werder Bremen,1.86,2000000.0,2023-2024,Bundesliga
+dawid kownacki,Hertha BSC,1.86,2000000.0,2023-2024,Bundesliga
 oliver burke,1.FC Union Berlin,1.88,2000000.0,2023-2024,Bundesliga
 joel imasuen,SV Werder Bremen II,1.93,,2023-2024,Bundesliga
 marvin schwäbe,1.FC Köln,1.9,4000000.0,2023-2024,Bundesliga

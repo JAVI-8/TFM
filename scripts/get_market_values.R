@@ -17,10 +17,10 @@ if (!dir.exists(output_dir)) dir.create(output_dir, recursive = TRUE)
 
 # Definir ligas y temporadas
 ligas <- list(
-  Germany = "Bundesliga"
+  Germany = "Bundesliga",
   Spain = "LaLiga",
   England = "Premier League",
-  Italy = "Serie A",
+  Italy = "Serie A"
 )
 anios <- 2022:2024
 
@@ -48,7 +48,7 @@ for (pais in names(ligas)) {
 
         file_name <- file.path(
           output_dir,
-          paste0("valores_mercado_", gsub(" ", "_", liga_nombre), "_", temporada_str, ".csv")
+          paste0("valores_mercado_", gsub(" ", "-", liga_nombre), "_", temporada_str, ".csv")
         )
 
         write.csv(df, file_name, row.names = FALSE)

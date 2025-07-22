@@ -1,628 +1,604 @@
-nombre,club_actual,entradas_1/3,entradas_2/3,entradas_3/3,duelos_ganados,entradas,entradas_ganadas,intercepciones,bloqueos,bloqueos_tiro,bloqueos_pase,despejes,errores_defensivos,temporada,liga
-james abankwah,Udinese,0,1,0,,1,1,0,4,2,2,5,0,2022-2023,serie-a
-oliver abildgaard,Hellas Verona,6,3,1,43.8,10,6,5,7,1,6,17,0,2022-2023,serie-a
-tammy abraham,Roma,4,8,5,18.8,17,10,3,10,4,6,14,0,2022-2023,serie-a
-christian acella,Cremonese,1,0,0,0.0,1,0,0,0,0,0,0,0,2022-2023,serie-a
-francesco acerbi,Inter,22,7,4,74.1,33,19,41,25,18,7,85,2,2022-2023,serie-a
-yacine adli,Milan,2,4,0,100.0,6,3,1,2,0,2,1,0,2022-2023,serie-a
-michel aebischer,Bologna,3,6,3,11.1,12,6,7,14,2,12,9,0,2022-2023,serie-a
-felix afena-gyan,Cremonese,4,1,2,20.0,7,3,1,5,1,4,6,0,2022-2023,serie-a
-kevin agudelo,Spezia,22,30,19,42.4,71,38,10,39,5,34,6,0,2022-2023,serie-a
-ola aina,Torino,5,8,4,60.0,17,13,11,12,2,10,26,0,2022-2023,serie-a
-emanuel aiwum,Cremonese,36,17,2,70.2,55,34,25,28,16,12,52,3,2022-2023,serie-a
-jean-daniel akpa-akpro,Empoli,25,19,9,54.8,53,37,13,35,4,31,27,0,2022-2023,serie-a
-luis alberto,Lazio,18,20,11,31.9,49,29,9,35,6,29,4,0,2022-2023,serie-a
-agustín álvarez,Sassuolo,0,5,1,25.0,6,3,3,5,1,4,3,0,2022-2023,serie-a
-kelvin amian,Spezia,33,12,9,77.4,54,32,22,34,12,22,87,1,2022-2023,serie-a
-bruno amione,Hellas Verona,1,0,0,50.0,1,1,0,1,0,1,4,0,2022-2023,serie-a
-bruno amione,Sampdoria,36,14,0,44.2,50,33,25,26,11,15,62,1,2022-2023,serie-a
-ethan ampadu,Spezia,33,28,5,41.5,66,37,36,48,23,25,98,0,2022-2023,serie-a
-sofyan amrabat,Fiorentina,15,17,7,55.2,39,24,21,23,5,18,18,2,2022-2023,serie-a
-felipe anderson,Lazio,31,41,8,35.2,80,50,31,58,6,52,27,0,2022-2023,serie-a
-janis antiste,Sassuolo,1,0,0,100.0,1,0,0,0,0,0,0,0,2022-2023,serie-a
-marcos antônio,Lazio,4,5,0,45.0,9,6,11,7,2,5,18,0,2022-2023,serie-a
-valentin antov,Monza,3,3,0,20.0,6,5,4,5,4,1,14,1,2022-2023,serie-a
-marko arnautović,Bologna,2,5,2,16.7,9,6,2,11,1,10,10,0,2022-2023,serie-a
-tolgay arslan,Udinese,13,15,1,35.9,29,18,12,19,0,19,9,1,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-santiago ascacíbar,Cremonese,17,10,2,40.0,29,14,13,14,2,12,11,0,2022-2023,serie-a
-kristoffer askildsen,Lecce,2,3,2,40.0,7,3,11,15,4,11,6,0,2022-2023,serie-a
-kristjan asllani,Inter,1,8,2,70.0,11,5,6,3,1,2,4,0,2022-2023,serie-a
-emil audero,Sampdoria,0,0,0,0.0,0,0,0,0,0,0,7,1,2022-2023,serie-a
-tommaso augello,Sampdoria,13,2,2,45.0,17,14,17,23,7,16,61,1,2022-2023,serie-a
-carlos augusto,Monza,42,23,8,61.1,73,38,24,24,6,18,85,1,2022-2023,serie-a
-kaan ayhan,Sassuolo,6,4,0,100.0,10,4,5,5,4,1,26,1,2022-2023,serie-a
-jaime báez,Cremonese,3,0,1,50.0,4,2,0,0,0,0,2,1,2022-2023,serie-a
-nedim bajrami,Empoli,3,3,2,66.7,8,4,7,5,0,5,4,0,2022-2023,serie-a
-nedim bajrami,Sassuolo,6,2,4,45.5,12,7,7,9,1,8,6,0,2022-2023,serie-a
-tiemoué bakayoko,Milan,4,1,0,100.0,5,5,0,0,0,0,0,1,2022-2023,serie-a
-tommaso baldanzi,Empoli,9,13,3,21.9,25,12,2,21,1,20,5,0,2022-2023,serie-a
-fodé ballo-touré,Milan,7,6,1,70.0,14,9,2,11,3,8,3,0,2022-2023,serie-a
-lameck banda,Lecce,13,14,3,36.6,30,20,8,24,2,22,5,0,2022-2023,serie-a
-filippo bandinelli,Empoli,19,26,10,37.8,55,34,18,20,7,13,40,0,2022-2023,serie-a
-antonín barák,Hellas Verona,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-antonín barák,Fiorentina,5,7,9,37.5,21,9,3,16,2,14,13,0,2022-2023,serie-a
-andrea barberis,Monza,4,3,0,45.5,7,2,8,0,0,0,1,0,2022-2023,serie-a
-tommaso barbieri,Juventus,3,0,0,37.5,3,3,0,3,0,3,2,0,2022-2023,serie-a
-francesco bardi,Bologna,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-nicolò barella,Inter,17,26,6,52.8,49,25,12,29,5,24,12,0,2022-2023,serie-a
-enzo barrenechea,Juventus,3,4,1,60.0,8,3,2,3,0,3,3,0,2022-2023,serie-a
-musa barrow,Bologna,10,6,5,57.1,21,4,1,25,1,24,7,0,2022-2023,serie-a
-federico baschirotto,Lecce,35,5,0,61.1,40,30,36,45,29,16,192,0,2022-2023,serie-a
-toma bašić,Lazio,4,1,1,37.5,6,4,7,9,0,9,8,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-alberto basso,Cremonese,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-alessandro bastoni,Inter,20,14,7,40.7,41,20,24,27,13,14,45,0,2022-2023,serie-a
-simone bastoni,Spezia,23,19,5,45.5,47,24,8,20,5,15,14,0,2022-2023,serie-a
-brian bayeye,Torino,3,0,0,100.0,3,0,1,1,1,0,2,0,2022-2023,serie-a
-rodrigo becão,Udinese,50,17,3,75.5,70,36,26,44,24,20,68,2,2022-2023,serie-a
-julius beck,Spezia,1,1,0,,2,1,0,0,0,0,0,0,2022-2023,serie-a
-raoul bellanova,Inter,11,2,1,64.3,14,6,4,6,1,5,14,0,2022-2023,serie-a
-andrea belotti,Roma,3,5,4,45.5,12,5,3,11,1,10,5,0,2022-2023,serie-a
-marco benassi,Fiorentina,2,0,1,75.0,3,3,1,0,0,0,1,0,2022-2023,serie-a
-marco benassi,Cremonese,9,11,6,62.5,26,15,12,13,1,12,19,0,2022-2023,serie-a
-ismaël bennacer,Milan,26,31,2,58.8,59,33,26,25,7,18,16,1,2022-2023,serie-a
-domenico berardi,Sassuolo,8,10,5,22.5,23,14,19,13,0,13,18,0,2022-2023,serie-a
-bartosz bereszyński,Sampdoria,15,11,2,65.4,28,18,21,18,4,14,25,0,2022-2023,serie-a
-bartosz bereszyński,Napoli,1,1,1,100.0,3,2,3,4,0,4,3,0,2022-2023,serie-a
-marco bertini,Lazio,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-beto,Udinese,0,9,7,23.5,16,9,6,18,3,15,30,0,2022-2023,serie-a
-matteo bianchetti,Cremonese,21,9,2,62.5,32,19,20,31,17,14,111,0,2022-2023,serie-a
-alessandro bianco,Fiorentina,2,3,0,66.7,5,2,0,1,0,1,0,0,2022-2023,serie-a
-jaka bijol,Udinese,32,7,0,59.3,39,23,29,41,25,16,165,0,2022-2023,serie-a
-cristiano biraghi,Fiorentina,29,29,7,49.2,65,38,14,32,7,25,42,1,2022-2023,serie-a
-samuele birindelli,Monza,21,10,4,62.1,35,19,16,28,8,20,30,0,2022-2023,serie-a
-kristijan bistrović,Lecce,3,0,0,0.0,3,1,0,3,0,3,4,0,2022-2023,serie-a
-alexis blin,Lecce,27,33,9,52.1,69,39,34,55,15,40,74,0,2022-2023,serie-a
-jeremie boga,Atalanta,3,2,4,40.0,9,5,1,6,0,6,1,0,2022-2023,serie-a
-emil bohinen,Salernitana,15,8,2,52.2,25,13,17,25,7,18,21,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-giacomo bonaventura,Fiorentina,14,15,6,64.9,35,23,16,14,0,14,5,1,2022-2023,serie-a
-federico bonazzoli,Salernitana,0,3,2,0.0,5,3,3,9,1,8,0,0,2022-2023,serie-a
-warren bondo,Monza,1,0,0,,1,0,0,1,0,1,0,0,2022-2023,serie-a
-kevin bonifazi,Bologna,7,6,0,50.0,13,8,12,11,8,3,39,0,2022-2023,serie-a
-leonardo bonucci,Juventus,1,4,0,50.0,5,4,13,12,8,4,29,0,2022-2023,serie-a
-erik botheim,Salernitana,3,4,4,46.2,11,7,0,3,0,3,4,0,2022-2023,serie-a
-mehdi bourabia,Spezia,13,22,6,46.3,41,20,32,39,12,27,57,0,2022-2023,serie-a
-edoardo bove,Roma,12,15,8,41.0,35,18,10,15,1,14,11,0,2022-2023,serie-a
-jayden braaf,Hellas Verona,2,3,0,,5,3,2,1,0,1,1,0,2022-2023,serie-a
-domagoj bradarić,Salernitana,14,8,4,43.8,26,19,21,20,5,15,44,0,2022-2023,serie-a
-josip brekalo,Fiorentina,0,1,1,25.0,2,1,1,1,0,1,1,0,2022-2023,serie-a
-gleison bremer,Juventus,23,5,1,73.1,29,20,42,44,22,22,120,2,2022-2023,serie-a
-dylan bronn,Salernitana,17,16,1,66.7,34,18,20,32,20,12,58,1,2022-2023,serie-a
-marcelo brozović,Inter,13,22,2,29.7,37,22,22,23,7,16,28,0,2022-2023,serie-a
-cristian buonaiuto,Cremonese,8,11,6,46.2,25,16,14,11,0,11,7,0,2022-2023,serie-a
-alessandro buongiorno,Torino,22,16,0,51.6,38,25,60,38,19,19,105,2,2022-2023,serie-a
-leonardo buta,Udinese,0,1,0,,1,1,0,0,0,0,0,0,2022-2023,serie-a
-arthur cabral,Fiorentina,1,4,4,50.0,9,2,1,10,1,9,12,0,2022-2023,serie-a
-liberato cacace,Empoli,12,8,5,60.0,25,10,4,15,7,8,16,0,2022-2023,serie-a
-davide calabria,Milan,31,32,8,62.3,71,44,25,22,7,15,34,0,2022-2023,serie-a
-mattia caldara,Spezia,10,11,2,45.0,23,14,17,23,16,7,88,2,2022-2023,serie-a
-luca caldirola,Monza,19,4,3,50.0,26,14,25,32,18,14,66,1,2022-2023,serie-a
-hakan çalhanoğlu,Inter,17,26,5,37.2,48,27,25,30,5,25,13,1,2022-2023,serie-a
-mohamed camara,Roma,3,7,3,33.3,13,10,10,5,1,4,8,0,2022-2023,serie-a
-nicolò cambiaghi,Empoli,11,12,7,29.6,30,22,9,19,1,18,8,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-andrea cambiaso,Bologna,34,20,3,43.1,57,34,26,26,2,24,33,1,2022-2023,serie-a
-matteo cancellieri,Lazio,5,3,2,55.6,10,4,1,4,0,4,2,0,2022-2023,serie-a
-antonio candreva,Salernitana,13,2,2,28.9,17,7,17,7,3,4,32,0,2022-2023,serie-a
-gianluca caprari,Monza,3,11,2,30.8,16,6,8,22,1,21,3,0,2022-2023,serie-a
-francesco caputo,Sampdoria,0,0,3,0.0,3,1,1,0,0,0,3,0,2022-2023,serie-a
-francesco caputo,Empoli,0,1,1,0.0,2,2,2,7,2,5,8,0,2022-2023,serie-a
-andrea carboni,Monza,2,0,1,40.0,3,2,3,3,2,1,2,1,2022-2023,serie-a
-franco carboni,Monza,1,0,0,0.0,1,1,1,3,0,3,0,0,2022-2023,serie-a
-valentin carboni,Inter,0,1,0,33.3,1,1,0,1,0,1,0,0,2022-2023,serie-a
-marco carnesecchi,Cremonese,1,0,0,50.0,1,1,0,0,0,0,11,2,2022-2023,serie-a
-nicolò casale,Lazio,28,14,0,64.7,42,20,17,25,17,8,73,1,2022-2023,serie-a
-tommaso cassandro,Lecce,0,1,0,,1,1,0,1,1,0,0,0,2022-2023,serie-a
-michele castagnetti,Cremonese,20,24,2,33.3,46,21,15,14,4,10,22,0,2022-2023,serie-a
-gaetano castrovilli,Fiorentina,1,7,2,22.2,10,8,8,5,1,4,5,0,2022-2023,serie-a
-danilo cataldi,Lazio,7,15,3,35.0,25,16,24,23,9,14,33,0,2022-2023,serie-a
-pietro ceccaroni,Lecce,0,0,0,,0,0,3,1,1,0,2,0,2022-2023,serie-a
-federico ceccherini,Hellas Verona,15,9,1,56.5,25,19,19,17,10,7,55,0,2022-2023,serie-a
-assan ceesay,Lecce,7,8,8,52.9,23,18,3,15,2,13,24,0,2022-2023,serie-a
-emil ceide,Sassuolo,5,0,0,60.0,5,2,1,3,1,2,0,0,2022-2023,serie-a
-zeki çelik,Roma,19,21,2,58.5,42,21,14,33,6,27,36,2,2022-2023,serie-a
-michele cerofolini,Fiorentina,0,0,0,,0,0,1,0,0,0,2,0,2022-2023,serie-a
-federico chiesa,Juventus,6,6,10,35.7,22,11,0,13,1,12,1,0,2022-2023,serie-a
-vlad chiricheș,Cremonese,27,7,1,66.7,35,20,22,36,23,13,44,0,2022-2023,serie-a
-daniel ciofani,Cremonese,1,2,3,57.1,6,3,2,7,1,6,10,0,2022-2023,serie-a
-tio cipot,Spezia,6,3,3,75.0,12,7,0,0,0,0,2,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-patrick ciurria,Monza,20,10,1,51.5,31,18,7,24,2,22,32,0,2022-2023,serie-a
-nicolò cocetta,Udinese,0,0,0,0.0,0,0,1,1,1,0,1,0,2022-2023,serie-a
-omar colley,Sampdoria,10,7,0,75.0,17,10,22,9,5,4,69,1,2022-2023,serie-a
-lorenzo colombo,Lecce,1,9,7,42.9,17,9,2,22,0,22,7,0,2022-2023,serie-a
-andrea colpani,Monza,6,5,3,66.7,14,9,3,14,2,12,6,0,2022-2023,serie-a
-andrea consigli,Sassuolo,1,0,0,0.0,1,0,0,0,0,0,13,3,2022-2023,serie-a
-andrea conti,Sampdoria,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-diego coppola,Hellas Verona,15,10,0,45.8,25,17,14,20,6,14,38,0,2022-2023,serie-a
-alex cordaz,Inter,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-joaquín correa,Inter,3,6,3,26.7,12,7,3,4,1,3,0,0,2022-2023,serie-a
-alessandro cortinovis,Hellas Verona,1,0,0,,1,0,0,1,0,1,0,0,2022-2023,serie-a
-lassana coulibaly,Salernitana,42,35,7,41.1,84,50,25,35,7,28,33,2,2022-2023,serie-a
-alessio cragno,Monza,0,0,0,0.0,0,0,0,0,0,0,0,0,2022-2023,serie-a
-bryan cristante,Roma,55,49,9,61.1,113,62,18,39,10,29,53,0,2022-2023,serie-a
-domen črnigoj,Salernitana,0,7,1,50.0,8,3,9,9,1,8,6,0,2022-2023,serie-a
-juan cuadrado,Juventus,34,13,3,41.5,50,34,24,15,2,13,32,0,2022-2023,serie-a
-mickaël cuisance,Sampdoria,7,5,1,21.7,13,10,5,10,0,10,4,0,2022-2023,serie-a
-marco d'alessandro,Monza,3,1,0,40.0,4,4,1,2,0,2,3,0,2022-2023,serie-a
-danilo d'ambrosio,Inter,17,7,1,55.6,25,17,10,12,4,8,17,0,2022-2023,serie-a
-luca d'andrea,Sassuolo,2,1,1,25.0,4,0,1,2,0,2,1,0,2022-2023,serie-a
-flavius daniliuc,Salernitana,37,17,3,55.3,57,29,29,30,13,17,76,0,2022-2023,serie-a
-danilo,Juventus,61,23,8,71.2,92,62,47,39,20,19,114,1,2022-2023,serie-a
-matteo darmian,Inter,29,15,12,66.0,56,30,21,33,5,28,36,0,2022-2023,serie-a
-juan david cabal,Hellas Verona,7,3,0,58.3,10,6,13,8,5,3,12,0,2022-2023,serie-a
-paweł dawidowicz,Hellas Verona,28,17,3,71.0,48,31,23,14,9,5,71,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-charles de ketelaere,Milan,7,14,5,43.3,26,12,4,14,2,12,9,0,2022-2023,serie-a
-manuel de luca,Sampdoria,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-tommaso de nipoti,Atalanta,0,1,0,,1,0,0,0,0,0,0,0,2022-2023,serie-a
-mattia de sciglio,Juventus,8,3,3,64.3,14,7,4,9,3,6,20,0,2022-2023,serie-a
-lorenzo de silvestri,Bologna,2,0,1,42.9,3,2,3,6,5,1,20,0,2022-2023,serie-a
-koni de winter,Empoli,11,3,0,38.5,14,9,6,14,12,2,65,0,2022-2023,serie-a
-grégoire defrel,Sassuolo,5,2,2,30.8,9,7,2,11,0,11,5,0,2022-2023,serie-a
-duccio degl'innocenti,Empoli,0,0,0,,0,0,1,0,0,0,0,0,2022-2023,serie-a
-merih demiral,Atalanta,30,11,0,72.2,41,29,24,24,7,17,57,1,2022-2023,serie-a
-diego demme,Napoli,1,0,0,0.0,1,0,0,2,0,2,1,0,2022-2023,serie-a
-fabio depaoli,Hellas Verona,25,16,7,56.8,48,28,18,32,6,26,33,3,2022-2023,serie-a
-fabio depaoli,Sampdoria,2,3,0,75.0,5,3,1,1,0,1,4,0,2022-2023,serie-a
-kastriot dermaku,Lecce,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-cyriel dessers,Cremonese,4,4,3,33.3,11,4,3,14,2,12,5,0,2022-2023,serie-a
-sergiño dest,Milan,3,5,4,75.0,12,6,4,1,0,1,2,0,2022-2023,serie-a
-mattia destro,Empoli,0,1,0,,1,1,1,2,0,2,5,0,2022-2023,serie-a
-gerard deulofeu,Udinese,5,1,2,33.3,8,5,2,8,1,7,1,0,2022-2023,serie-a
-samuel di carmine,Cremonese,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-federico di francesco,Lecce,7,11,10,47.4,28,16,8,16,0,16,14,0,2022-2023,serie-a
-michele di gregorio,Monza,0,0,0,0.0,0,0,4,1,0,1,18,3,2022-2023,serie-a
-giovanni di lorenzo,Napoli,33,19,8,51.0,60,29,30,30,9,21,60,0,2022-2023,serie-a
-ángel di maría,Juventus,3,5,2,15.8,10,5,7,15,0,15,0,0,2022-2023,serie-a
-boulaye dia,Salernitana,3,6,3,28.6,12,5,7,10,0,10,27,1,2022-2023,serie-a
-brahim díaz,Milan,5,22,5,33.3,32,15,7,11,0,11,6,0,2022-2023,serie-a
-federico dimarco,Inter,6,18,7,47.4,31,25,18,15,4,11,20,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-koffi djidji,Torino,32,17,1,56.3,50,25,34,29,14,15,72,0,2022-2023,serie-a
-berat djimsiti,Atalanta,21,13,0,68.0,34,19,36,17,7,10,74,1,2022-2023,serie-a
-dodô,Fiorentina,20,14,6,47.8,40,22,25,26,2,24,37,0,2022-2023,serie-a
-josh doig,Hellas Verona,6,7,6,37.5,19,8,11,25,6,19,13,1,2022-2023,serie-a
-nicolás domínguez,Bologna,34,33,12,51.3,79,49,21,29,3,26,29,1,2022-2023,serie-a
-giulio donati,Monza,1,1,2,50.0,4,1,4,3,1,2,11,0,2022-2023,serie-a
-bartłomiej drągowski,Spezia,1,0,0,20.0,1,0,1,0,0,0,15,3,2022-2023,serie-a
-ondrej duda,Hellas Verona,7,12,3,56.3,22,14,13,11,0,11,8,0,2022-2023,serie-a
-denzel dumfries,Inter,17,13,5,64.7,35,18,12,33,9,24,26,0,2022-2023,serie-a
-alfred duncan,Fiorentina,0,17,1,47.6,18,10,8,9,0,9,6,0,2022-2023,serie-a
-paulo dybala,Roma,1,8,5,30.8,14,4,8,12,1,11,4,0,2022-2023,serie-a
-edin džeko,Inter,0,3,0,0.0,3,2,3,15,1,14,25,0,2022-2023,serie-a
-festy ebosele,Udinese,8,7,0,40.0,15,10,2,5,0,5,5,0,2022-2023,serie-a
-enzo ebosse,Udinese,11,4,0,69.2,15,9,11,27,6,21,29,0,2022-2023,serie-a
-tyronne ebuehi,Empoli,11,7,4,69.2,22,14,12,23,12,11,79,1,2022-2023,serie-a
-éderson,Atalanta,18,42,7,43.9,67,34,36,56,7,49,31,0,2022-2023,serie-a
-kingsley ehizibue,Udinese,28,13,6,64.4,47,31,10,21,3,18,42,1,2022-2023,serie-a
-albin ekdal,Spezia,14,20,3,42.2,37,20,26,24,2,22,36,0,2022-2023,serie-a
-emmanuel ekong,Empoli,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-mikael ellertsson,Spezia,1,3,0,0.0,4,2,2,2,1,1,0,0,2022-2023,serie-a
-elif elmas,Napoli,8,12,4,47.8,24,13,11,18,2,16,5,0,2022-2023,serie-a
-martin erlic,Sassuolo,18,8,1,43.5,27,16,31,36,23,13,120,1,2022-2023,serie-a
-gonzalo escalante,Cremonese,8,8,0,76.9,16,8,10,7,1,6,4,0,2022-2023,serie-a
-salvatore esposito,Spezia,8,5,2,23.8,15,12,11,9,1,8,18,0,2022-2023,serie-a
-nicolò fagioli,Juventus,12,15,2,29.6,29,19,8,16,2,14,7,1,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-wladimiro falcone,Lecce,2,0,0,100.0,2,0,2,0,0,0,21,3,2022-2023,serie-a
-davide faraoni,Hellas Verona,19,13,2,39.0,34,24,15,30,11,19,37,0,2022-2023,serie-a
-federico fazio,Salernitana,8,7,0,36.4,15,12,28,9,4,5,61,0,2022-2023,serie-a
-jacopo fazzini,Empoli,20,8,3,52.9,31,17,7,15,3,12,19,0,2022-2023,serie-a
-lewis ferguson,Bologna,16,20,8,50.0,44,25,19,22,7,15,25,0,2022-2023,serie-a
-alex ferrari,Sampdoria,7,2,0,50.0,9,5,19,21,10,11,25,0,2022-2023,serie-a
-alex ferrari,Cremonese,32,7,1,66.7,40,23,25,19,4,15,45,1,2022-2023,serie-a
-salvador ferrer,Spezia,2,2,0,33.3,4,2,1,3,1,2,4,0,2022-2023,serie-a
-vincenzo fiorillo,Salernitana,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-alessandro florenzi,Milan,3,2,1,57.1,6,4,4,1,0,1,2,0,2022-2023,serie-a
-davide frattesi,Sassuolo,24,29,10,56.8,63,36,16,27,6,21,42,0,2022-2023,serie-a
-matteo gabbia,Milan,12,5,0,75.0,17,10,5,8,3,5,29,0,2022-2023,serie-a
-manolo gabbiadini,Sampdoria,8,9,6,39.1,23,15,6,16,2,14,25,0,2022-2023,serie-a
-gianluca gaetano,Napoli,1,3,1,,5,3,1,1,0,1,0,0,2022-2023,serie-a
-roberto gagliardini,Inter,9,6,1,47.6,16,6,4,14,5,9,15,0,2022-2023,serie-a
-adolfo gaich,Hellas Verona,0,3,2,16.7,5,3,3,7,2,5,7,1,2022-2023,serie-a
-pablo galdames millán,Cremonese,8,3,3,15.2,14,10,10,13,2,11,13,0,2022-2023,serie-a
-antonino gallo,Lecce,35,12,9,66.7,56,36,13,37,6,31,71,0,2022-2023,serie-a
-federico gatti,Juventus,9,4,2,60.0,15,11,21,20,14,6,54,2,2022-2023,serie-a
-valentin gendrey,Lecce,54,25,9,56.3,88,57,37,45,4,41,89,0,2022-2023,serie-a
-paolo ghiglione,Cremonese,10,3,3,43.5,16,11,4,9,4,5,12,0,2022-2023,serie-a
-mario gila,Lazio,3,0,0,0.0,3,1,3,0,0,0,3,0,2022-2023,serie-a
-gvidas gineitis,Torino,0,2,1,50.0,3,1,0,0,0,0,1,0,2022-2023,serie-a
-olivier giroud,Milan,2,4,2,20.0,8,5,3,11,3,8,23,0,2022-2023,serie-a
-pierluigi gollini,Fiorentina,1,0,0,100.0,1,0,0,0,0,0,2,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-pierluigi gollini,Napoli,0,0,0,,0,0,0,0,0,0,1,0,2022-2023,serie-a
-joan gonzàlez,Lecce,20,18,10,33.3,48,28,16,37,8,29,28,0,2022-2023,serie-a
-nicolás gonzález,Fiorentina,3,10,4,31.3,17,10,4,14,0,14,6,0,2022-2023,serie-a
-robin gosens,Inter,15,10,9,60.0,34,18,23,16,2,14,15,0,2022-2023,serie-a
-alberto grassi,Empoli,13,13,0,62.5,26,21,27,23,12,11,45,0,2022-2023,serie-a
-andrew gravillon,Torino,0,3,0,,3,3,9,4,2,2,16,0,2022-2023,serie-a
-axel guessand,Udinese,2,0,0,50.0,2,1,2,1,0,1,3,0,2022-2023,serie-a
-koray günter,Hellas Verona,1,8,1,57.1,10,6,30,24,15,9,46,0,2022-2023,serie-a
-koray günter,Sampdoria,6,4,0,66.7,10,8,11,10,5,5,46,0,2022-2023,serie-a
-emmanuel gyasi,Spezia,11,10,3,25.0,24,15,8,24,6,18,26,0,2022-2023,serie-a
-norbert gyömbér,Salernitana,25,6,1,66.7,32,23,35,33,22,11,92,0,2022-2023,serie-a
-christian gytkjær,Monza,1,4,1,40.0,6,2,0,6,1,5,2,0,2022-2023,serie-a
-nicolas haas,Empoli,16,6,5,50.0,27,13,8,16,4,12,27,0,2022-2023,serie-a
-samir handanović,Inter,0,0,0,,0,0,0,0,0,0,5,0,2022-2023,serie-a
-abdou harroui,Sassuolo,6,7,4,28.6,17,6,2,6,1,5,10,0,2022-2023,serie-a
-hans hateboer,Atalanta,11,8,2,40.7,21,13,12,23,4,19,25,0,2022-2023,serie-a
-liam henderson,Empoli,6,5,2,19.0,13,10,10,10,2,8,10,0,2022-2023,serie-a
-jack hendry,Cremonese,0,0,0,0.0,0,0,1,2,1,1,7,0,2022-2023,serie-a
-matheus henrique,Sassuolo,9,11,6,50.0,26,12,12,15,4,11,10,0,2022-2023,serie-a
-thomas henry,Hellas Verona,1,1,3,20.0,5,3,0,6,2,4,14,0,2022-2023,serie-a
-theo hernández,Milan,27,15,1,57.9,43,24,21,34,7,27,35,1,2022-2023,serie-a
-isak hien,Hellas Verona,54,19,0,62.3,73,36,31,40,17,23,92,1,2022-2023,serie-a
-morten hjulmand,Lecce,49,40,1,55.2,90,52,72,43,11,32,54,0,2022-2023,serie-a
-emil holm,Spezia,13,8,5,51.6,26,15,9,21,6,15,41,0,2022-2023,serie-a
-martin hongla,Hellas Verona,4,4,0,100.0,8,5,6,7,1,6,9,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-petko hristov,Spezia,2,4,0,62.5,6,4,4,4,2,2,12,0,2022-2023,serie-a
-ajdin hrustic,Hellas Verona,1,1,0,50.0,2,1,0,2,0,2,2,1,2022-2023,serie-a
-elseid hysaj,Lazio,24,11,4,56.1,39,23,20,31,7,24,42,0,2022-2023,serie-a
-rasmus højlund,Atalanta,0,2,2,16.7,4,3,1,9,1,8,5,0,2022-2023,serie-a
-roger ibanez,Roma,38,26,3,66.7,67,33,66,30,11,19,95,2,2022-2023,serie-a
-zlatan ibrahimović,Milan,0,0,0,,0,0,0,1,1,0,2,0,2022-2023,serie-a
-antonio iervolino,Salernitana,0,0,0,0.0,0,0,0,0,0,0,0,0,2022-2023,serie-a
-igor,Fiorentina,21,18,4,74.1,43,29,25,33,14,19,56,2,2022-2023,serie-a
-jonathan ikone,Fiorentina,5,6,5,35.7,16,8,4,18,1,17,3,0,2022-2023,serie-a
-ivan ilić,Hellas Verona,9,7,0,54.5,16,10,8,10,1,9,14,0,2022-2023,serie-a
-ivan ilić,Torino,6,11,1,50.0,18,7,5,12,3,9,10,0,2022-2023,serie-a
-samuel iling-junior,Juventus,3,1,3,44.4,7,2,2,5,1,4,6,0,2022-2023,serie-a
-emirhan i̇lkhan,Torino,0,1,0,100.0,1,1,2,3,1,2,2,0,2022-2023,serie-a
-emirhan i̇lkhan,Sampdoria,2,2,2,66.7,6,3,0,5,1,4,3,0,2022-2023,serie-a
-ciro immobile,Lazio,4,4,3,66.7,11,5,1,10,2,8,14,0,2022-2023,serie-a
-ardian ismajli,Empoli,25,15,0,75.0,40,32,27,47,31,16,120,0,2022-2023,serie-a
-mihailo ivanović,Sampdoria,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-armando izzo,Monza,44,27,2,64.4,73,50,50,29,17,12,87,1,2022-2023,serie-a
-mato jajalo,Udinese,0,0,0,0.0,0,0,0,0,0,0,2,0,2022-2023,serie-a
-jesé,Sampdoria,0,2,0,0.0,2,0,1,3,1,2,2,0,2022-2023,serie-a
-juan jesus,Napoli,9,6,1,75.0,16,11,10,18,11,7,29,0,2022-2023,serie-a
-þórir jóhann helgason,Lecce,1,0,1,66.7,2,2,3,3,1,2,3,0,2022-2023,serie-a
-luka jović,Fiorentina,1,4,1,25.0,6,3,2,7,2,5,10,0,2022-2023,serie-a
-hamed junior traorè,Sassuolo,4,6,1,36.4,11,6,2,4,0,4,0,1,2022-2023,serie-a
-yayah kallon,Hellas Verona,5,4,5,58.3,14,10,8,10,0,10,5,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-pierre kalulu,Milan,33,21,3,66.7,57,39,41,41,17,24,56,1,2022-2023,serie-a
-yann karamoh,Torino,3,2,0,20.0,5,2,0,5,0,5,2,1,2022-2023,serie-a
-rick karsdorp,Roma,11,7,3,59.1,21,13,7,0,0,0,15,1,2022-2023,serie-a
-denso kasius,Bologna,7,4,1,80.0,12,6,3,6,3,3,6,0,2022-2023,serie-a
-grigoris kastanos,Salernitana,18,19,2,40.0,39,23,8,20,6,14,8,0,2022-2023,serie-a
-moise kean,Juventus,2,5,1,42.9,8,6,5,4,0,4,2,0,2022-2023,serie-a
-jakub kiwior,Spezia,15,7,0,25.0,22,17,24,26,18,8,71,1,2022-2023,serie-a
-simon kjær,Milan,9,6,0,63.6,15,8,9,14,11,3,35,1,2022-2023,serie-a
-teun koopmeiners,Atalanta,15,24,7,50.9,46,26,19,41,5,36,36,2,2022-2023,serie-a
-filip kostić,Juventus,17,20,4,44.7,41,26,16,30,4,26,32,0,2022-2023,serie-a
-christian kouamé,Fiorentina,8,10,9,50.0,27,18,12,15,3,12,8,0,2022-2023,serie-a
-viktor kovalenko,Spezia,1,6,2,62.5,9,5,4,11,2,9,7,0,2022-2023,serie-a
-julian kristoffersen,Salernitana,0,0,0,,0,0,0,1,0,1,0,0,2022-2023,serie-a
-raimonds krollis,Spezia,0,0,1,0.0,1,1,0,0,0,0,0,0,2022-2023,serie-a
-rade krunić,Milan,18,18,4,32.0,40,28,16,31,11,20,21,0,2022-2023,serie-a
-marash kumbulla,Roma,2,2,0,66.7,4,4,4,2,1,1,6,0,2022-2023,serie-a
-khvicha kvaratskhelia,Napoli,12,8,23,39.5,43,23,5,20,0,20,6,1,2022-2023,serie-a
-giorgos kyriakopoulos,Bologna,4,5,4,43.5,13,6,4,14,2,12,10,0,2022-2023,serie-a
-giorgos kyriakopoulos,Sassuolo,7,9,5,71.4,21,8,11,7,1,6,12,1,2022-2023,serie-a
-sam lammers,Sampdoria,2,7,3,40.0,12,5,6,10,3,7,11,0,2022-2023,serie-a
-sam lammers,Empoli,5,9,6,63.6,20,10,3,4,1,3,8,0,2022-2023,serie-a
-kevin lasagna,Hellas Verona,7,3,2,42.9,12,6,5,17,1,16,13,0,2022-2023,serie-a
-armand lauriente,Sassuolo,5,7,9,38.1,21,15,12,20,0,20,8,0,2022-2023,serie-a
-valentino lazaro,Torino,6,0,4,42.9,10,5,3,16,3,13,29,0,2022-2023,serie-a
-marko lazetić,Milan,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-darko lazović,Hellas Verona,9,12,3,44.8,24,13,16,14,3,11,19,0,2022-2023,serie-a
-manuel lazzari,Lazio,13,14,6,58.3,33,21,18,20,6,14,36,1,2022-2023,serie-a
-rafael leão,Milan,2,3,3,42.9,8,7,15,9,2,7,8,0,2022-2023,serie-a
-mehdi léris,Sampdoria,30,24,9,41.8,63,46,27,38,6,32,34,0,2022-2023,serie-a
-karol linetty,Torino,7,22,3,52.0,32,17,19,28,8,20,25,0,2022-2023,serie-a
-marcin listkowski,Lecce,0,0,0,,0,0,3,0,0,0,2,0,2022-2023,serie-a
-diego llorente,Roma,6,4,0,41.7,10,5,11,4,2,2,20,0,2022-2023,serie-a
-stanislav lobotka,Napoli,35,35,13,58.9,83,44,23,29,7,22,16,0,2022-2023,serie-a
-manuel locatelli,Juventus,26,23,10,56.6,59,33,27,50,22,28,59,0,2022-2023,serie-a
-luka lochoshvili,Cremonese,30,11,4,71.0,45,19,22,31,10,21,89,0,2022-2023,serie-a
-ademola lookman,Atalanta,2,6,5,20.0,13,5,4,18,0,18,1,0,2022-2023,serie-a
-maxime lopez,Sassuolo,26,12,4,28.6,42,18,22,24,6,18,21,0,2022-2023,serie-a
-matteo lovato,Salernitana,14,3,0,40.0,17,14,13,8,5,3,33,2,2022-2023,serie-a
-sandi lovrić,Udinese,16,16,8,58.1,40,18,26,25,2,23,21,0,2022-2023,serie-a
-hirving lozano,Napoli,10,6,8,42.9,24,13,15,31,0,31,6,0,2022-2023,serie-a
-jhon lucumí,Bologna,39,13,1,55.8,53,37,35,43,26,17,100,1,2022-2023,serie-a
-josé luis palomino,Atalanta,16,7,0,57.9,23,14,28,11,4,7,20,0,2022-2023,serie-a
-romelu lukaku,Inter,1,0,2,40.0,3,1,0,3,1,2,16,0,2022-2023,serie-a
-saša lukić,Torino,10,10,1,60.0,21,14,13,17,7,10,10,0,2022-2023,serie-a
-sebastiano luperto,Empoli,24,8,1,45.0,33,18,43,54,42,12,163,1,2022-2023,serie-a
-charalampos lykogiannis,Bologna,5,6,5,38.5,16,8,15,9,4,5,30,0,2022-2023,serie-a
-giulio maggiore,Salernitana,11,6,3,47.6,20,8,8,19,4,15,10,0,2022-2023,serie-a
-giangiacomo magnani,Hellas Verona,20,11,2,76.0,33,22,21,20,15,5,76,0,2022-2023,serie-a
-mike maignan,Milan,1,0,0,100.0,1,0,1,0,0,0,10,1,2022-2023,serie-a
-jordan majchrzak,Roma,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-jean-victor makengo,Udinese,7,7,2,55.6,16,13,9,8,2,6,3,0,2022-2023,serie-a
-lorenzo malagrida,Sampdoria,0,0,1,33.3,1,0,0,1,0,1,1,0,2022-2023,serie-a
-daniel maldini,Spezia,3,4,5,36.4,12,5,1,9,0,9,8,0,2022-2023,serie-a
-youssef maleh,Fiorentina,0,3,0,0.0,3,1,1,5,0,5,3,0,2022-2023,serie-a
-youssef maleh,Lecce,3,7,7,42.9,17,8,5,20,1,19,10,0,2022-2023,serie-a
-ruslan malinovskyi,Atalanta,5,6,3,35.3,14,8,5,8,1,7,2,0,2022-2023,serie-a
-gianluca mancini,Roma,27,9,1,52.9,37,19,46,38,17,21,67,0,2022-2023,serie-a
-rolando mandragora,Fiorentina,12,22,8,44.2,42,24,16,25,3,22,21,0,2022-2023,serie-a
-federico marchetti,Spezia,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-riccardo marchizza,Sassuolo,1,1,0,50.0,2,2,2,2,0,2,8,0,2022-2023,serie-a
-gian marco ferrari,Sassuolo,11,10,2,58.8,23,16,23,29,20,9,81,4,2022-2023,serie-a
-pablo marí,Monza,29,7,1,65.4,37,19,31,22,14,8,111,3,2022-2023,serie-a
-răzvan marin,Empoli,22,21,1,47.5,44,22,14,29,11,18,33,0,2022-2023,serie-a
-marlon,Monza,20,14,1,51.7,35,21,18,13,4,9,50,0,2022-2023,serie-a
-luca marrone,Monza,0,0,0,0.0,0,0,0,2,2,0,4,1,2022-2023,serie-a
-lautaro martínez,Inter,3,15,7,30.4,25,14,13,31,1,30,16,1,2022-2023,serie-a
-lucas martínez quarta,Fiorentina,44,32,4,68.9,80,48,48,41,19,22,78,1,2022-2023,serie-a
-adam marušić,Lazio,23,14,4,64.1,41,30,38,20,6,14,63,1,2022-2023,serie-a
-adam masina,Udinese,7,3,0,40.0,10,7,10,11,4,7,28,1,2022-2023,serie-a
-nemanja matić,Roma,24,19,4,57.6,47,27,25,27,7,20,21,1,2022-2023,serie-a
-luís maximiano,Lazio,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-pasquale mazzocchi,Salernitana,21,5,6,45.9,32,18,10,10,2,8,37,2,2022-2023,serie-a
-weston mckennie,Juventus,3,9,2,62.5,14,5,11,15,4,11,15,1,2022-2023,serie-a
-gary medel,Bologna,16,7,2,56.3,25,15,28,17,10,7,34,0,2022-2023,serie-a
-soualiho meïté,Cremonese,25,15,7,47.8,47,31,27,27,6,21,36,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-alex meret,Napoli,0,0,0,,0,0,0,0,0,0,6,1,2022-2023,serie-a
-yıldırım mert çetin,Lecce,1,0,0,,1,0,1,0,0,0,1,0,2022-2023,serie-a
-junior messias,Milan,9,9,6,26.3,24,18,7,20,4,16,28,0,2022-2023,serie-a
-tommaso milanese,Cremonese,0,0,0,,0,0,0,1,1,0,0,0,2022-2023,serie-a
-nikola milenković,Fiorentina,20,17,3,66.7,40,25,22,27,14,13,72,0,2022-2023,serie-a
-arkadiusz milik,Juventus,2,8,2,25.0,12,8,1,10,1,9,14,0,2022-2023,serie-a
-sergej milinković-savić,Lazio,22,23,13,35.8,58,35,28,50,12,38,49,0,2022-2023,serie-a
-vanja milinković-savić,Torino,2,0,0,100.0,2,1,1,0,0,0,19,1,2022-2023,serie-a
-kim min-jae,Napoli,32,22,1,86.2,55,30,41,36,26,10,123,1,2022-2023,serie-a
-aleksei miranchuk,Torino,3,4,4,27.3,11,5,2,11,0,11,5,0,2022-2023,serie-a
-antonio mirante,Milan,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-fabio miretti,Juventus,15,6,3,41.4,24,11,4,20,1,19,11,0,2022-2023,serie-a
-filippo missori,Roma,3,0,1,50.0,4,3,3,0,0,0,5,0,2022-2023,serie-a
-henrikh mkhitaryan,Inter,13,22,6,34.1,41,26,21,27,4,23,18,0,2022-2023,serie-a
-salvatore molina,Monza,2,4,0,80.0,6,5,1,4,2,2,2,0,2022-2023,serie-a
-daniele montevago,Sampdoria,0,0,1,0.0,1,0,0,2,1,1,1,0,2022-2023,serie-a
-lorenzo montipò,Hellas Verona,1,0,0,0.0,1,0,0,1,0,1,26,3,2022-2023,serie-a
-nikola moro,Bologna,11,15,6,38.9,32,21,8,15,2,13,18,0,2022-2023,serie-a
-dany mota,Monza,1,3,4,20.0,8,7,6,5,1,4,25,0,2022-2023,serie-a
-joão moutinho,Spezia,5,1,1,75.0,7,1,0,1,1,0,0,0,2022-2023,serie-a
-mert müldür,Sassuolo,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-luis muriel,Atalanta,2,3,4,31.3,9,6,2,9,0,9,2,0,2022-2023,serie-a
-jeison murillo,Sampdoria,16,6,0,65.4,22,11,8,22,14,8,39,0,2022-2023,serie-a
-nicola murru,Sampdoria,15,8,1,53.8,24,14,10,17,7,10,21,0,2022-2023,serie-a
-juan musso,Atalanta,1,0,0,100.0,1,1,0,0,0,0,11,1,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-joakim mæhle,Atalanta,12,7,13,56.4,32,18,24,29,6,23,26,0,2022-2023,serie-a
-herculano nabian,Empoli,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-michel ndary adopo,Torino,4,2,1,33.3,7,2,1,2,2,0,4,0,2022-2023,serie-a
-tanguy ndombele,Napoli,4,8,2,57.1,14,8,7,10,1,9,7,1,2022-2023,serie-a
-ilija nestorovski,Udinese,2,1,4,45.5,7,3,2,6,1,5,10,0,2022-2023,serie-a
-cyril ngonge,Hellas Verona,2,2,3,27.3,7,3,6,7,0,7,4,0,2022-2023,serie-a
-hans nicolussi caviglia,Salernitana,5,8,2,60.0,15,6,7,9,0,9,7,1,2022-2023,serie-a
-dimitris nikolaou,Spezia,31,10,4,67.6,45,32,27,41,26,15,82,0,2022-2023,serie-a
-samuel ntanda,Sampdoria,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-bram nuytinck,Udinese,3,4,0,50.0,7,4,5,6,6,0,22,0,2022-2023,serie-a
-bram nuytinck,Sampdoria,33,21,0,67.6,54,38,23,36,21,15,84,0,2022-2023,serie-a
-m'bala nzola,Spezia,0,6,6,33.3,12,5,7,20,6,14,21,0,2022-2023,serie-a
-pedro obiang,Sassuolo,12,12,2,55.6,26,17,8,12,2,10,15,0,2022-2023,serie-a
-guillermo ochoa,Salernitana,0,0,0,0.0,0,0,0,0,0,0,9,1,2022-2023,serie-a
-marios oikonomou,Sampdoria,3,0,0,33.3,3,2,4,5,4,1,13,0,2022-2023,serie-a
-david okereke,Cremonese,4,5,3,18.8,12,8,10,23,3,20,12,0,2022-2023,serie-a
-caleb okoli,Atalanta,14,6,1,40.0,21,17,30,10,5,5,44,3,2022-2023,serie-a
-mathías olivera,Napoli,16,16,7,51.2,39,23,22,28,2,26,26,0,2022-2023,serie-a
-andré onana,Inter,0,0,0,0.0,0,0,0,0,0,0,5,0,2022-2023,serie-a
-divock origi,Milan,4,3,3,50.0,10,5,0,6,2,4,13,0,2022-2023,serie-a
-riccardo orsolini,Bologna,15,10,5,41.5,30,19,8,29,3,26,18,0,2022-2023,serie-a
-victor osimhen,Napoli,1,2,7,0.0,10,6,6,6,1,5,29,0,2022-2023,serie-a
-remi oudin,Lecce,9,12,4,43.5,25,13,29,16,2,14,23,0,2022-2023,serie-a
-adam ounas,Napoli,0,0,0,,0,0,1,0,0,0,0,0,2022-2023,serie-a
-simone pafundi,Udinese,1,5,2,50.0,8,5,1,0,0,0,0,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-flavio paoletti,Sampdoria,0,2,0,20.0,2,2,5,1,0,1,9,0,2022-2023,serie-a
-leandro paredes,Juventus,7,11,1,45.5,19,13,17,8,0,8,22,0,2022-2023,serie-a
-fabiano parisi,Empoli,37,21,7,41.7,65,35,41,51,16,35,91,0,2022-2023,serie-a
-mario pašalić,Atalanta,6,14,2,26.1,22,10,21,22,4,18,13,0,2022-2023,serie-a
-patric,Lazio,12,3,2,68.8,17,11,11,17,12,5,53,1,2022-2023,serie-a
-rui patrício,Roma,1,0,0,100.0,1,1,2,0,0,0,6,3,2022-2023,serie-a
-pedro,Lazio,14,10,11,36.7,35,24,6,18,2,16,4,1,2022-2023,serie-a
-gianluca pegolo,Sassuolo,0,0,0,0.0,0,0,0,0,0,0,1,0,2022-2023,serie-a
-pietro pellegri,Torino,1,3,2,66.7,6,2,0,5,1,4,4,0,2022-2023,serie-a
-lorenzo pellegrini,Roma,24,24,4,45.8,52,29,26,27,4,23,22,0,2022-2023,serie-a
-luca pellegrini,Lazio,0,1,0,25.0,1,0,7,3,0,3,4,0,2022-2023,serie-a
-pepín,Monza,10,11,7,33.3,28,19,13,14,3,11,17,0,2022-2023,serie-a
-roberto pereyra,Udinese,21,12,3,36.4,36,20,16,20,5,15,28,0,2022-2023,serie-a
-nehuén pérez,Udinese,54,20,3,70.9,77,40,35,53,23,30,106,1,2022-2023,serie-a
-simone perilli,Hellas Verona,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-mattia perin,Juventus,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-samuele perisan,Empoli,0,0,0,,0,0,0,0,0,0,2,0,2022-2023,serie-a
-matteo pessina,Monza,28,21,8,41.9,57,36,37,50,15,35,33,1,2022-2023,serie-a
-andrea petagna,Monza,2,3,2,50.0,7,5,3,16,4,12,18,0,2022-2023,serie-a
-giuseppe pezzella,Lecce,16,2,3,56.3,21,9,8,11,3,8,31,1,2022-2023,serie-a
-krzysztof piątek,Salernitana,3,9,6,23.8,18,11,2,17,4,13,39,0,2022-2023,serie-a
-roberto piccoli,Hellas Verona,1,0,0,0.0,1,0,0,2,0,2,2,0,2022-2023,serie-a
-roberto piccoli,Empoli,1,0,0,0.0,1,1,1,4,1,3,9,0,2022-2023,serie-a
-charles pickel,Cremonese,25,26,4,56.1,55,23,24,37,5,32,36,1,2022-2023,serie-a
-andrea pinamonti,Sassuolo,0,5,5,42.9,10,7,2,19,2,17,11,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-lorenzo pirola,Salernitana,18,14,1,70.4,33,29,30,50,35,15,85,1,2022-2023,serie-a
-niccolò pisilli,Roma,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-marko pjaca,Empoli,3,1,0,60.0,4,3,3,3,0,3,3,0,2022-2023,serie-a
-tommaso pobega,Milan,8,15,4,65.0,27,16,9,12,4,8,11,0,2022-2023,serie-a
-paul pogba,Juventus,0,0,0,0.0,0,0,0,0,0,0,2,0,2022-2023,serie-a
-matteo politano,Napoli,9,5,4,44.0,18,9,7,6,0,6,7,0,2022-2023,serie-a
-marin pongračić,Lecce,8,7,1,71.4,16,14,16,4,3,1,31,0,2022-2023,serie-a
-stefan posch,Bologna,41,29,11,58.7,81,43,35,44,15,29,69,0,2022-2023,serie-a
-ivan provedel,Lazio,1,0,0,,1,0,0,0,0,0,15,1,2022-2023,serie-a
-ignacio pussetto,Sampdoria,2,3,1,75.0,6,3,0,4,0,4,3,0,2022-2023,serie-a
-niklas pyyhtiä,Bologna,0,1,0,0.0,1,0,1,1,1,0,4,0,2022-2023,serie-a
-fabio quagliarella,Sampdoria,1,1,0,14.3,2,1,0,5,1,4,9,0,2022-2023,serie-a
-giacomo quagliata,Cremonese,7,1,2,45.5,10,8,11,7,2,5,8,0,2022-2023,serie-a
-adrien rabiot,Juventus,31,23,11,52.6,65,35,26,37,7,30,44,1,2022-2023,serie-a
-nemanja radonjić,Torino,2,0,0,0.0,2,1,2,3,0,3,4,0,2022-2023,serie-a
-ivan radovanović,Salernitana,8,4,0,40.0,12,4,7,9,3,6,9,1,2022-2023,serie-a
-ionuț radu,Cremonese,0,0,0,,0,0,0,0,0,0,1,3,2022-2023,serie-a
-ștefan radu,Lazio,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-antonio raimondo,Bologna,0,0,0,,0,0,0,0,0,0,1,0,2022-2023,serie-a
-luca ranieri,Fiorentina,6,3,0,66.7,9,4,11,5,3,2,15,1,2022-2023,serie-a
-andrea ranocchia,Monza,1,2,0,75.0,3,1,0,5,5,0,7,0,2022-2023,serie-a
-filippo ranocchia,Monza,5,4,2,33.3,11,6,4,5,1,4,7,0,2022-2023,serie-a
-giacomo raspadori,Napoli,0,6,4,40.0,10,8,4,9,0,9,4,0,2022-2023,serie-a
-giacomo raspadori,Sassuolo,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-nicola ravaglia,Sampdoria,0,0,0,0.0,0,0,0,0,0,0,7,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-ante rebić,Milan,1,3,6,27.3,10,8,1,6,1,5,5,0,2022-2023,serie-a
-arkadiusz reca,Spezia,22,12,10,59.4,44,28,24,21,5,16,54,0,2022-2023,serie-a
-panagiotis retsos,Hellas Verona,2,2,1,100.0,5,4,2,4,1,3,3,0,2022-2023,serie-a
-franck ribéry,Salernitana,0,0,0,,0,0,0,1,0,1,0,0,2022-2023,serie-a
-samuele ricci,Torino,17,10,5,78.3,32,21,17,20,5,15,29,1,2022-2023,serie-a
-tomás rincón,Sampdoria,22,26,8,47.5,56,27,30,37,7,30,18,0,2022-2023,serie-a
-pablo rodríguez,Lecce,2,0,0,0.0,2,1,0,3,0,3,0,0,2022-2023,serie-a
-ricardo rodríguez,Torino,30,17,7,66.7,54,33,38,30,15,15,61,0,2022-2023,serie-a
-rogério,Sassuolo,22,8,7,48.6,37,21,37,32,9,23,70,0,2022-2023,serie-a
-filippo romagna,Sassuolo,0,0,0,,0,0,0,1,1,0,2,0,2022-2023,serie-a
-alessio romagnoli,Lazio,19,14,0,50.0,33,15,38,33,26,7,108,0,2022-2023,serie-a
-simone romagnoli,Lecce,3,3,0,100.0,6,5,1,4,1,3,11,0,2022-2023,serie-a
-luka romero,Lazio,0,0,0,0.0,0,0,3,4,0,4,1,0,2022-2023,serie-a
-marten de roon,Atalanta,37,35,5,45.7,77,39,36,37,4,33,58,0,2022-2023,serie-a
-francesco rossi,Atalanta,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-nicolò rovella,Monza,22,21,2,36.1,45,29,40,20,1,19,17,0,2022-2023,serie-a
-nicolò rovella,Juventus,0,1,0,100.0,1,1,0,0,0,0,0,0,2022-2023,serie-a
-amir rrahmani,Napoli,20,13,0,65.4,33,18,14,36,20,16,79,1,2022-2023,serie-a
-ruan,Sassuolo,25,12,1,65.5,38,26,24,29,17,12,80,3,2022-2023,serie-a
-daniele rugani,Juventus,6,1,0,100.0,7,0,7,7,5,2,32,0,2022-2023,serie-a
-matteo ruggeri,Atalanta,5,9,3,50.0,17,12,12,14,3,11,16,0,2022-2023,serie-a
-mário rui,Napoli,17,13,4,48.8,34,22,15,17,4,13,24,1,2022-2023,serie-a
-alessandro russo,Sassuolo,0,0,0,,0,0,0,0,0,0,1,1,2022-2023,serie-a
-abdelhamid sabiri,Sampdoria,5,9,4,30.8,18,7,2,18,4,14,5,0,2022-2023,serie-a
-alexis saelemaekers,Milan,12,16,3,46.3,31,20,19,13,1,12,11,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-jacopo sala,Spezia,1,0,0,0.0,1,0,1,2,0,2,2,0,2022-2023,serie-a
-lazar samardzic,Udinese,9,20,4,39.5,33,16,11,13,0,13,16,0,2022-2023,serie-a
-junior sambia,Salernitana,7,4,1,60.0,12,5,8,9,3,6,16,1,2022-2023,serie-a
-antonio sanabria,Torino,3,3,5,14.3,11,5,4,9,2,7,7,0,2022-2023,serie-a
-leandro sanca,Spezia,0,0,1,100.0,1,1,0,0,0,0,0,0,2022-2023,serie-a
-alex sandro,Juventus,16,16,3,68.2,35,20,15,27,10,17,64,1,2022-2023,serie-a
-nicola sansone,Bologna,6,4,2,50.0,12,4,0,0,0,0,4,0,2022-2023,serie-a
-riccardo saponara,Fiorentina,3,6,1,55.6,10,5,5,7,1,6,9,1,2022-2023,serie-a
-mouhamadou sarr,Cremonese,0,0,0,,0,0,0,0,0,0,2,0,2022-2023,serie-a
-martin satriano,Empoli,5,6,2,42.9,13,8,3,5,0,5,22,0,2022-2023,serie-a
-giorgio scalvini,Atalanta,30,18,6,52.7,54,29,56,36,13,23,57,2,2022-2023,serie-a
-jerdy schouten,Bologna,28,33,2,55.1,63,38,40,40,17,23,43,1,2022-2023,serie-a
-perr schuurs,Torino,29,17,5,53.8,51,25,28,28,16,12,102,0,2022-2023,serie-a
-demba seck,Torino,3,2,0,66.7,5,2,1,3,1,2,1,0,2022-2023,serie-a
-telasco segovia,Sampdoria,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-jacopo segre,Torino,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-vivaldo semedo,Udinese,0,0,0,,0,0,0,1,0,1,1,0,2022-2023,serie-a
-stefano sensi,Monza,25,13,3,37.5,41,26,20,13,3,10,4,0,2022-2023,serie-a
-luigi sepe,Salernitana,0,0,0,0.0,0,0,0,0,0,0,0,0,2022-2023,serie-a
-leonardo sernicola,Cremonese,25,13,7,67.4,45,33,38,23,6,17,55,0,2022-2023,serie-a
-stephan el shaarawy,Roma,8,10,3,27.3,21,9,15,11,1,10,11,0,2022-2023,serie-a
-eldor shomurodov,Spezia,3,1,1,18.2,5,5,3,5,1,4,4,0,2022-2023,serie-a
-eldor shomurodov,Roma,1,0,0,0.0,1,0,1,1,0,1,0,0,2022-2023,serie-a
-marco silvestri,Udinese,2,0,0,66.7,2,1,1,0,0,0,15,1,2022-2023,serie-a
-giovanni simeone,Napoli,3,5,4,37.5,12,3,1,2,1,1,4,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-wilfried singo,Torino,14,10,3,63.2,27,17,12,15,2,13,33,1,2022-2023,serie-a
-salvatore sirigu,Fiorentina,0,0,0,,0,0,0,0,0,0,1,0,2022-2023,serie-a
-leo skiri østigård,Napoli,3,1,0,100.0,4,1,6,3,3,0,18,1,2022-2023,serie-a
-łukasz skorupski,Bologna,2,0,0,50.0,2,1,0,0,0,0,19,2,2022-2023,serie-a
-milan škriniar,Inter,14,11,4,56.3,29,18,13,18,13,5,46,3,2022-2023,serie-a
-chris smalling,Roma,16,10,0,61.9,26,15,43,51,36,15,123,0,2022-2023,serie-a
-ola solbakken,Roma,1,1,0,28.6,2,2,2,2,0,2,8,0,2022-2023,serie-a
-brandon soppy,Udinese,0,1,0,,1,1,1,4,0,4,1,0,2022-2023,serie-a
-brandon soppy,Atalanta,4,4,0,33.3,8,5,3,10,0,10,7,0,2022-2023,serie-a
-roberto soriano,Bologna,9,16,6,52.0,31,16,6,23,2,21,14,0,2022-2023,serie-a
-joaquin sosa,Bologna,5,1,0,22.2,6,2,6,5,3,2,31,0,2022-2023,serie-a
-riccardo sottil,Fiorentina,2,0,2,40.0,4,3,0,2,0,2,0,0,2022-2023,serie-a
-matìas soulé,Juventus,3,2,2,71.4,7,4,3,7,1,6,3,0,2022-2023,serie-a
-adama soumaoro,Bologna,11,12,2,71.4,25,17,15,18,13,5,75,1,2022-2023,serie-a
-leonardo spinazzola,Roma,7,6,2,34.8,15,8,9,13,3,10,25,0,2022-2023,serie-a
-marco sportiello,Atalanta,1,0,0,33.3,1,0,0,0,0,0,2,0,2022-2023,serie-a
-petar stojanović,Empoli,28,10,4,60.5,42,22,11,17,5,12,55,0,2022-2023,serie-a
-gabriel strefezza,Lecce,18,20,12,50.9,50,24,16,36,3,33,15,0,2022-2023,serie-a
-dávid strelec,Spezia,0,1,1,100.0,2,2,0,0,0,0,0,0,2022-2023,serie-a
-isaac success,Udinese,2,5,1,37.5,8,4,4,13,2,11,18,0,2022-2023,serie-a
-ibrahim sulemana,Hellas Verona,10,7,2,50.0,19,13,14,8,2,6,15,0,2022-2023,serie-a
-mile svilar,Roma,0,0,0,,0,0,0,0,0,0,1,0,2022-2023,serie-a
-wojciech szczęsny,Juventus,1,0,0,0.0,1,0,0,0,0,0,7,0,2022-2023,serie-a
-benjamin tahirovic,Roma,5,2,1,33.3,8,5,3,9,4,5,3,0,2022-2023,serie-a
-adrien tameze,Hellas Verona,21,26,4,44.4,51,30,37,51,14,37,55,2,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-ciprian tătărușanu,Milan,0,0,0,,0,0,1,0,0,0,2,0,2022-2023,serie-a
-filippo terracciano,Hellas Verona,11,7,2,75.0,20,13,10,7,4,3,14,0,2022-2023,serie-a
-pietro terracciano,Fiorentina,2,0,0,66.7,2,1,1,0,0,0,14,0,2022-2023,serie-a
-aleksa terzić,Fiorentina,9,4,3,52.4,16,9,5,13,4,9,16,0,2022-2023,serie-a
-florian thauvin,Udinese,0,2,0,15.4,2,1,2,5,0,5,2,0,2022-2023,serie-a
-malick thiaw,Milan,22,9,0,55.0,31,26,12,11,5,6,65,1,2022-2023,serie-a
-kristian thorstvedt,Sassuolo,4,9,3,35.3,16,7,14,19,5,14,13,0,2022-2023,serie-a
-jeremy toljan,Sassuolo,17,14,5,66.7,36,23,18,31,14,17,60,1,2022-2023,serie-a
-rafael tolói,Atalanta,37,32,0,54.7,69,44,57,42,18,24,88,1,2022-2023,serie-a
-fikayo tomori,Milan,44,25,1,64.7,70,34,29,46,25,21,88,1,2022-2023,serie-a
-sandro tonali,Milan,35,24,5,61.4,64,41,25,34,9,25,26,1,2022-2023,serie-a
-lorenzo tonelli,Empoli,0,0,0,0.0,0,0,0,0,0,0,0,0,2022-2023,serie-a
-william troost-ekong,Salernitana,7,4,0,85.7,11,3,6,7,4,3,10,0,2022-2023,serie-a
-frank tsadjout,Cremonese,3,6,1,33.3,10,8,8,7,1,6,9,0,2022-2023,serie-a
-alessandro tuia,Lecce,6,4,0,33.3,10,6,15,3,1,2,29,0,2022-2023,serie-a
-martin turk,Sampdoria,0,0,0,,0,0,0,0,0,0,1,0,2022-2023,serie-a
-destiny udogie,Udinese,42,24,5,57.6,71,45,36,34,6,28,25,0,2022-2023,serie-a
-samir ujkani,Empoli,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-samuel umtiti,Lecce,25,25,2,69.2,52,34,26,26,14,12,79,0,2022-2023,serie-a
-diego valencia,Salernitana,4,2,2,22.2,8,5,1,10,1,9,2,0,2022-2023,serie-a
-emanuele valeri,Cremonese,29,21,4,42.0,54,27,22,17,3,14,44,1,2022-2023,serie-a
-mattia valoti,Monza,7,9,1,31.3,17,10,3,13,3,10,6,0,2022-2023,serie-a
-johan vásquez,Cremonese,34,7,0,46.2,41,26,45,27,20,7,93,1,2022-2023,serie-a
-matías vecino,Lazio,13,23,11,47.9,47,27,16,33,10,23,39,1,2022-2023,serie-a
-miguel veloso,Hellas Verona,20,12,1,61.5,33,10,6,26,6,20,14,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-lorenzo venuti,Fiorentina,6,11,1,61.1,18,7,5,7,2,5,17,2,2022-2023,serie-a
-daniele verde,Spezia,3,0,1,42.9,4,4,8,6,0,6,4,0,2022-2023,serie-a
-simone verdi,Hellas Verona,7,5,3,35.3,15,10,0,8,1,7,2,0,2022-2023,serie-a
-valerio verre,Sampdoria,6,5,3,47.1,14,7,9,9,1,8,3,0,2022-2023,serie-a
-guglielmo vicario,Empoli,1,0,0,50.0,1,1,0,0,0,0,15,2,2022-2023,serie-a
-ronaldo vieira,Torino,0,1,0,100.0,1,0,0,0,0,0,2,0,2022-2023,serie-a
-ronaldo vieira,Sampdoria,4,12,2,76.9,18,10,13,15,5,10,10,2,2022-2023,serie-a
-emanuel vignato,Bologna,2,2,0,50.0,4,4,3,2,0,2,0,0,2022-2023,serie-a
-emanuel vignato,Empoli,2,0,0,,2,0,0,0,0,0,1,0,2022-2023,serie-a
-samuele vignato,Monza,0,0,0,,0,0,0,1,0,1,0,0,2022-2023,serie-a
-tonny vilhena,Salernitana,16,23,5,40.0,44,22,18,17,7,10,21,0,2022-2023,serie-a
-gonzalo villar,Sampdoria,4,8,1,46.7,13,7,4,11,3,8,9,1,2022-2023,serie-a
-matías viña,Roma,1,1,1,33.3,3,1,2,5,1,4,5,0,2022-2023,serie-a
-dušan vlahović,Juventus,0,7,4,40.0,11,6,3,10,3,7,8,1,2022-2023,serie-a
-nikola vlašić,Torino,9,16,7,44.1,32,21,10,25,2,23,14,0,2022-2023,serie-a
-joel voelkerling persson,Lecce,0,0,1,0.0,1,1,0,1,0,1,0,0,2022-2023,serie-a
-mërgim vojvoda,Torino,15,6,1,50.0,22,12,10,14,2,12,31,1,2022-2023,serie-a
-cristian volpato,Roma,1,1,1,0.0,3,2,2,2,0,2,0,0,2022-2023,serie-a
-lukáš vorlický,Atalanta,0,0,0,,0,0,1,0,0,0,0,0,2022-2023,serie-a
-aster vranckx,Milan,0,2,1,28.6,3,2,2,3,1,2,1,0,2022-2023,serie-a
-stefan de vrij,Inter,19,9,0,57.1,28,18,40,18,10,8,80,0,2022-2023,serie-a
-walace,Udinese,42,31,9,45.6,82,39,51,47,12,35,51,1,2022-2023,serie-a
-sebastian walukiewicz,Empoli,7,2,0,66.7,9,6,7,10,9,1,30,0,2022-2023,serie-a
-georginio wijnaldum,Roma,1,3,0,0.0,4,3,2,7,1,6,3,0,2022-2023,serie-a
-harry winks,Sampdoria,7,18,2,32.6,27,12,24,14,8,6,24,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-przemysław wiśniewski,Spezia,7,6,0,33.3,13,6,11,16,8,8,66,0,2022-2023,serie-a
-gerard yepes,Sampdoria,2,3,0,33.3,5,3,4,3,0,3,3,0,2022-2023,serie-a
-mattia zaccagni,Lazio,16,18,8,36.8,42,28,21,37,3,34,10,1,2022-2023,serie-a
-denis zakaria,Juventus,1,4,1,100.0,6,3,2,2,0,2,1,0,2022-2023,serie-a
-nicola zalewski,Roma,25,15,5,31.0,45,26,31,27,1,26,23,0,2022-2023,serie-a
-andre-frank zambo anguissa,Napoli,16,29,8,25.0,53,32,49,50,4,46,25,0,2022-2023,serie-a
-luca zanimacchia,Cremonese,11,6,4,38.1,21,13,9,9,0,9,5,0,2022-2023,serie-a
-nicolò zaniolo,Roma,2,4,1,28.6,7,5,2,11,0,11,0,0,2022-2023,serie-a
-alessandro zanoli,Sampdoria,14,6,2,47.1,22,14,12,19,15,4,39,0,2022-2023,serie-a
-alessandro zanoli,Napoli,0,1,0,,1,0,0,0,0,0,1,0,2022-2023,serie-a
-mattia zanotti,Inter,0,0,0,0.0,0,0,0,2,0,2,0,0,2022-2023,serie-a
-duván zapata,Atalanta,1,3,4,60.0,8,4,4,6,2,4,17,1,2022-2023,serie-a
-davide zappacosta,Atalanta,17,12,5,68.2,34,18,9,23,2,21,16,0,2022-2023,serie-a
-karim zedadka,Napoli,0,0,0,,0,0,0,0,0,0,1,0,2022-2023,serie-a
-deyovaisio zeefuik,Hellas Verona,0,1,0,,1,1,0,0,0,0,0,0,2022-2023,serie-a
-marvin zeegelaar,Udinese,6,2,0,75.0,8,4,3,2,0,2,5,0,2022-2023,serie-a
-alessio zerbin,Napoli,4,5,1,50.0,10,5,2,2,0,2,2,0,2022-2023,serie-a
-piotr zieliński,Napoli,1,11,5,48.0,17,10,14,16,5,11,7,0,2022-2023,serie-a
-david zima,Torino,5,4,0,75.0,9,5,9,7,2,5,11,2,2022-2023,serie-a
-joshua zirkzee,Bologna,1,1,2,28.6,4,2,4,4,1,3,4,0,2022-2023,serie-a
-jeroen zoet,Spezia,1,0,0,100.0,1,1,0,0,0,0,1,0,2022-2023,serie-a
-nadir zortea,Atalanta,3,7,0,75.0,10,5,0,4,0,4,4,0,2022-2023,serie-a
-nadir zortea,Sassuolo,12,2,1,64.3,15,8,4,10,4,6,21,0,2022-2023,serie-a
-petar zovko,Spezia,1,0,0,100.0,1,0,0,0,0,0,0,0,2022-2023,serie-a
-szymon żurkowski,Fiorentina,0,0,0,,0,0,0,0,0,0,0,0,2022-2023,serie-a
-player,Squad,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Tkl,TklW,Int,Blocks,Sh,Pass,Clr,Err,2022-2023,serie-a
-szymon żurkowski,Spezia,4,4,1,13.3,9,3,4,9,2,7,6,0,2022-2023,serie-a
-milan đurić,Hellas Verona,1,0,1,33.3,2,1,1,7,4,3,24,0,2022-2023,serie-a
-filip đuričić,Sampdoria,18,20,5,43.8,43,22,7,19,6,13,8,0,2022-2023,serie-a
+nombre,entradas_1/3,entradas_2/3,entradas_3/3,duelos_ganados,entradas,entradas_ganadas,bloqueos,bloqueos_tiro,bloqueos_pase,temporada,liga
+james abankwah,0,1,0,,1,1,4,2,2,2022-2023,serie-a
+oliver abildgaard,6,3,1,43.8,10,6,7,1,6,2022-2023,serie-a
+tammy abraham,4,8,5,18.8,17,10,10,4,6,2022-2023,serie-a
+christian acella,1,0,0,0.0,1,0,0,0,0,2022-2023,serie-a
+francesco acerbi,22,7,4,74.1,33,19,25,18,7,2022-2023,serie-a
+yacine adli,2,4,0,100.0,6,3,2,0,2,2022-2023,serie-a
+michel aebischer,3,6,3,11.1,12,6,14,2,12,2022-2023,serie-a
+felix afena-gyan,4,1,2,20.0,7,3,5,1,4,2022-2023,serie-a
+kevin agudelo,22,30,19,42.4,71,38,39,5,34,2022-2023,serie-a
+ola aina,5,8,4,60.0,17,13,12,2,10,2022-2023,serie-a
+emanuel aiwum,36,17,2,70.2,55,34,28,16,12,2022-2023,serie-a
+jean-daniel akpa-akpro,25,19,9,54.8,53,37,35,4,31,2022-2023,serie-a
+luis alberto,18,20,11,31.9,49,29,35,6,29,2022-2023,serie-a
+agustín álvarez,0,5,1,25.0,6,3,5,1,4,2022-2023,serie-a
+kelvin amian,33,12,9,77.4,54,32,34,12,22,2022-2023,serie-a
+bruno amione,1,0,0,50.0,1,1,1,0,1,2022-2023,serie-a
+bruno amione,36,14,0,44.2,50,33,26,11,15,2022-2023,serie-a
+ethan ampadu,33,28,5,41.5,66,37,48,23,25,2022-2023,serie-a
+sofyan amrabat,15,17,7,55.2,39,24,23,5,18,2022-2023,serie-a
+felipe anderson,31,41,8,35.2,80,50,58,6,52,2022-2023,serie-a
+janis antiste,1,0,0,100.0,1,0,0,0,0,2022-2023,serie-a
+marcos antônio,4,5,0,45.0,9,6,7,2,5,2022-2023,serie-a
+valentin antov,3,3,0,20.0,6,5,5,4,1,2022-2023,serie-a
+marko arnautović,2,5,2,16.7,9,6,11,1,10,2022-2023,serie-a
+tolgay arslan,13,15,1,35.9,29,18,19,0,19,2022-2023,serie-a
+santiago ascacíbar,17,10,2,40.0,29,14,14,2,12,2022-2023,serie-a
+kristoffer askildsen,2,3,2,40.0,7,3,15,4,11,2022-2023,serie-a
+kristjan asllani,1,8,2,70.0,11,5,3,1,2,2022-2023,serie-a
+emil audero,0,0,0,0.0,0,0,0,0,0,2022-2023,serie-a
+tommaso augello,13,2,2,45.0,17,14,23,7,16,2022-2023,serie-a
+carlos augusto,42,23,8,61.1,73,38,24,6,18,2022-2023,serie-a
+kaan ayhan,6,4,0,100.0,10,4,5,4,1,2022-2023,serie-a
+jaime báez,3,0,1,50.0,4,2,0,0,0,2022-2023,serie-a
+nedim bajrami,3,3,2,66.7,8,4,5,0,5,2022-2023,serie-a
+nedim bajrami,6,2,4,45.5,12,7,9,1,8,2022-2023,serie-a
+tiemoué bakayoko,4,1,0,100.0,5,5,0,0,0,2022-2023,serie-a
+tommaso baldanzi,9,13,3,21.9,25,12,21,1,20,2022-2023,serie-a
+fodé ballo-touré,7,6,1,70.0,14,9,11,3,8,2022-2023,serie-a
+lameck banda,13,14,3,36.6,30,20,24,2,22,2022-2023,serie-a
+filippo bandinelli,19,26,10,37.8,55,34,20,7,13,2022-2023,serie-a
+antonín barák,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+antonín barák,5,7,9,37.5,21,9,16,2,14,2022-2023,serie-a
+andrea barberis,4,3,0,45.5,7,2,0,0,0,2022-2023,serie-a
+tommaso barbieri,3,0,0,37.5,3,3,3,0,3,2022-2023,serie-a
+francesco bardi,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+nicolò barella,17,26,6,52.8,49,25,29,5,24,2022-2023,serie-a
+enzo barrenechea,3,4,1,60.0,8,3,3,0,3,2022-2023,serie-a
+musa barrow,10,6,5,57.1,21,4,25,1,24,2022-2023,serie-a
+federico baschirotto,35,5,0,61.1,40,30,45,29,16,2022-2023,serie-a
+toma bašić,4,1,1,37.5,6,4,9,0,9,2022-2023,serie-a
+alberto basso,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+alessandro bastoni,20,14,7,40.7,41,20,27,13,14,2022-2023,serie-a
+simone bastoni,23,19,5,45.5,47,24,20,5,15,2022-2023,serie-a
+brian bayeye,3,0,0,100.0,3,0,1,1,0,2022-2023,serie-a
+rodrigo becão,50,17,3,75.5,70,36,44,24,20,2022-2023,serie-a
+julius beck,1,1,0,,2,1,0,0,0,2022-2023,serie-a
+raoul bellanova,11,2,1,64.3,14,6,6,1,5,2022-2023,serie-a
+andrea belotti,3,5,4,45.5,12,5,11,1,10,2022-2023,serie-a
+marco benassi,2,0,1,75.0,3,3,0,0,0,2022-2023,serie-a
+marco benassi,9,11,6,62.5,26,15,13,1,12,2022-2023,serie-a
+ismaël bennacer,26,31,2,58.8,59,33,25,7,18,2022-2023,serie-a
+domenico berardi,8,10,5,22.5,23,14,13,0,13,2022-2023,serie-a
+bartosz bereszyński,15,11,2,65.4,28,18,18,4,14,2022-2023,serie-a
+bartosz bereszyński,1,1,1,100.0,3,2,4,0,4,2022-2023,serie-a
+marco bertini,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+beto,0,9,7,23.5,16,9,18,3,15,2022-2023,serie-a
+matteo bianchetti,21,9,2,62.5,32,19,31,17,14,2022-2023,serie-a
+alessandro bianco,2,3,0,66.7,5,2,1,0,1,2022-2023,serie-a
+jaka bijol,32,7,0,59.3,39,23,41,25,16,2022-2023,serie-a
+cristiano biraghi,29,29,7,49.2,65,38,32,7,25,2022-2023,serie-a
+samuele birindelli,21,10,4,62.1,35,19,28,8,20,2022-2023,serie-a
+kristijan bistrović,3,0,0,0.0,3,1,3,0,3,2022-2023,serie-a
+alexis blin,27,33,9,52.1,69,39,55,15,40,2022-2023,serie-a
+jeremie boga,3,2,4,40.0,9,5,6,0,6,2022-2023,serie-a
+emil bohinen,15,8,2,52.2,25,13,25,7,18,2022-2023,serie-a
+giacomo bonaventura,14,15,6,64.9,35,23,14,0,14,2022-2023,serie-a
+federico bonazzoli,0,3,2,0.0,5,3,9,1,8,2022-2023,serie-a
+warren bondo,1,0,0,,1,0,1,0,1,2022-2023,serie-a
+kevin bonifazi,7,6,0,50.0,13,8,11,8,3,2022-2023,serie-a
+leonardo bonucci,1,4,0,50.0,5,4,12,8,4,2022-2023,serie-a
+erik botheim,3,4,4,46.2,11,7,3,0,3,2022-2023,serie-a
+mehdi bourabia,13,22,6,46.3,41,20,39,12,27,2022-2023,serie-a
+edoardo bove,12,15,8,41.0,35,18,15,1,14,2022-2023,serie-a
+jayden braaf,2,3,0,,5,3,1,0,1,2022-2023,serie-a
+domagoj bradarić,14,8,4,43.8,26,19,20,5,15,2022-2023,serie-a
+josip brekalo,0,1,1,25.0,2,1,1,0,1,2022-2023,serie-a
+gleison bremer,23,5,1,73.1,29,20,44,22,22,2022-2023,serie-a
+dylan bronn,17,16,1,66.7,34,18,32,20,12,2022-2023,serie-a
+marcelo brozović,13,22,2,29.7,37,22,23,7,16,2022-2023,serie-a
+cristian buonaiuto,8,11,6,46.2,25,16,11,0,11,2022-2023,serie-a
+alessandro buongiorno,22,16,0,51.6,38,25,38,19,19,2022-2023,serie-a
+leonardo buta,0,1,0,,1,1,0,0,0,2022-2023,serie-a
+arthur cabral,1,4,4,50.0,9,2,10,1,9,2022-2023,serie-a
+liberato cacace,12,8,5,60.0,25,10,15,7,8,2022-2023,serie-a
+davide calabria,31,32,8,62.3,71,44,22,7,15,2022-2023,serie-a
+mattia caldara,10,11,2,45.0,23,14,23,16,7,2022-2023,serie-a
+luca caldirola,19,4,3,50.0,26,14,32,18,14,2022-2023,serie-a
+hakan çalhanoğlu,17,26,5,37.2,48,27,30,5,25,2022-2023,serie-a
+mohamed camara,3,7,3,33.3,13,10,5,1,4,2022-2023,serie-a
+nicolò cambiaghi,11,12,7,29.6,30,22,19,1,18,2022-2023,serie-a
+andrea cambiaso,34,20,3,43.1,57,34,26,2,24,2022-2023,serie-a
+matteo cancellieri,5,3,2,55.6,10,4,4,0,4,2022-2023,serie-a
+antonio candreva,13,2,2,28.9,17,7,7,3,4,2022-2023,serie-a
+gianluca caprari,3,11,2,30.8,16,6,22,1,21,2022-2023,serie-a
+francesco caputo,0,0,3,0.0,3,1,0,0,0,2022-2023,serie-a
+francesco caputo,0,1,1,0.0,2,2,7,2,5,2022-2023,serie-a
+andrea carboni,2,0,1,40.0,3,2,3,2,1,2022-2023,serie-a
+franco carboni,1,0,0,0.0,1,1,3,0,3,2022-2023,serie-a
+valentin carboni,0,1,0,33.3,1,1,1,0,1,2022-2023,serie-a
+marco carnesecchi,1,0,0,50.0,1,1,0,0,0,2022-2023,serie-a
+nicolò casale,28,14,0,64.7,42,20,25,17,8,2022-2023,serie-a
+tommaso cassandro,0,1,0,,1,1,1,1,0,2022-2023,serie-a
+michele castagnetti,20,24,2,33.3,46,21,14,4,10,2022-2023,serie-a
+gaetano castrovilli,1,7,2,22.2,10,8,5,1,4,2022-2023,serie-a
+danilo cataldi,7,15,3,35.0,25,16,23,9,14,2022-2023,serie-a
+pietro ceccaroni,0,0,0,,0,0,1,1,0,2022-2023,serie-a
+federico ceccherini,15,9,1,56.5,25,19,17,10,7,2022-2023,serie-a
+assan ceesay,7,8,8,52.9,23,18,15,2,13,2022-2023,serie-a
+emil ceide,5,0,0,60.0,5,2,3,1,2,2022-2023,serie-a
+zeki çelik,19,21,2,58.5,42,21,33,6,27,2022-2023,serie-a
+michele cerofolini,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+federico chiesa,6,6,10,35.7,22,11,13,1,12,2022-2023,serie-a
+vlad chiricheș,27,7,1,66.7,35,20,36,23,13,2022-2023,serie-a
+daniel ciofani,1,2,3,57.1,6,3,7,1,6,2022-2023,serie-a
+tio cipot,6,3,3,75.0,12,7,0,0,0,2022-2023,serie-a
+patrick ciurria,20,10,1,51.5,31,18,24,2,22,2022-2023,serie-a
+nicolò cocetta,0,0,0,0.0,0,0,1,1,0,2022-2023,serie-a
+omar colley,10,7,0,75.0,17,10,9,5,4,2022-2023,serie-a
+lorenzo colombo,1,9,7,42.9,17,9,22,0,22,2022-2023,serie-a
+andrea colpani,6,5,3,66.7,14,9,14,2,12,2022-2023,serie-a
+andrea consigli,1,0,0,0.0,1,0,0,0,0,2022-2023,serie-a
+andrea conti,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+diego coppola,15,10,0,45.8,25,17,20,6,14,2022-2023,serie-a
+alex cordaz,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+joaquín correa,3,6,3,26.7,12,7,4,1,3,2022-2023,serie-a
+alessandro cortinovis,1,0,0,,1,0,1,0,1,2022-2023,serie-a
+lassana coulibaly,42,35,7,41.1,84,50,35,7,28,2022-2023,serie-a
+alessio cragno,0,0,0,0.0,0,0,0,0,0,2022-2023,serie-a
+bryan cristante,55,49,9,61.1,113,62,39,10,29,2022-2023,serie-a
+domen črnigoj,0,7,1,50.0,8,3,9,1,8,2022-2023,serie-a
+juan cuadrado,34,13,3,41.5,50,34,15,2,13,2022-2023,serie-a
+mickaël cuisance,7,5,1,21.7,13,10,10,0,10,2022-2023,serie-a
+marco d'alessandro,3,1,0,40.0,4,4,2,0,2,2022-2023,serie-a
+danilo d'ambrosio,17,7,1,55.6,25,17,12,4,8,2022-2023,serie-a
+luca d'andrea,2,1,1,25.0,4,0,2,0,2,2022-2023,serie-a
+flavius daniliuc,37,17,3,55.3,57,29,30,13,17,2022-2023,serie-a
+danilo,61,23,8,71.2,92,62,39,20,19,2022-2023,serie-a
+matteo darmian,29,15,12,66.0,56,30,33,5,28,2022-2023,serie-a
+juan david cabal,7,3,0,58.3,10,6,8,5,3,2022-2023,serie-a
+paweł dawidowicz,28,17,3,71.0,48,31,14,9,5,2022-2023,serie-a
+charles de ketelaere,7,14,5,43.3,26,12,14,2,12,2022-2023,serie-a
+manuel de luca,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+tommaso de nipoti,0,1,0,,1,0,0,0,0,2022-2023,serie-a
+mattia de sciglio,8,3,3,64.3,14,7,9,3,6,2022-2023,serie-a
+lorenzo de silvestri,2,0,1,42.9,3,2,6,5,1,2022-2023,serie-a
+koni de winter,11,3,0,38.5,14,9,14,12,2,2022-2023,serie-a
+grégoire defrel,5,2,2,30.8,9,7,11,0,11,2022-2023,serie-a
+duccio degl'innocenti,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+merih demiral,30,11,0,72.2,41,29,24,7,17,2022-2023,serie-a
+diego demme,1,0,0,0.0,1,0,2,0,2,2022-2023,serie-a
+fabio depaoli,25,16,7,56.8,48,28,32,6,26,2022-2023,serie-a
+fabio depaoli,2,3,0,75.0,5,3,1,0,1,2022-2023,serie-a
+kastriot dermaku,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+cyriel dessers,4,4,3,33.3,11,4,14,2,12,2022-2023,serie-a
+sergiño dest,3,5,4,75.0,12,6,1,0,1,2022-2023,serie-a
+mattia destro,0,1,0,,1,1,2,0,2,2022-2023,serie-a
+gerard deulofeu,5,1,2,33.3,8,5,8,1,7,2022-2023,serie-a
+samuel di carmine,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+federico di francesco,7,11,10,47.4,28,16,16,0,16,2022-2023,serie-a
+michele di gregorio,0,0,0,0.0,0,0,1,0,1,2022-2023,serie-a
+giovanni di lorenzo,33,19,8,51.0,60,29,30,9,21,2022-2023,serie-a
+ángel di maría,3,5,2,15.8,10,5,15,0,15,2022-2023,serie-a
+boulaye dia,3,6,3,28.6,12,5,10,0,10,2022-2023,serie-a
+brahim díaz,5,22,5,33.3,32,15,11,0,11,2022-2023,serie-a
+federico dimarco,6,18,7,47.4,31,25,15,4,11,2022-2023,serie-a
+koffi djidji,32,17,1,56.3,50,25,29,14,15,2022-2023,serie-a
+berat djimsiti,21,13,0,68.0,34,19,17,7,10,2022-2023,serie-a
+dodô,20,14,6,47.8,40,22,26,2,24,2022-2023,serie-a
+josh doig,6,7,6,37.5,19,8,25,6,19,2022-2023,serie-a
+nicolás domínguez,34,33,12,51.3,79,49,29,3,26,2022-2023,serie-a
+giulio donati,1,1,2,50.0,4,1,3,1,2,2022-2023,serie-a
+bartłomiej drągowski,1,0,0,20.0,1,0,0,0,0,2022-2023,serie-a
+ondrej duda,7,12,3,56.3,22,14,11,0,11,2022-2023,serie-a
+denzel dumfries,17,13,5,64.7,35,18,33,9,24,2022-2023,serie-a
+alfred duncan,0,17,1,47.6,18,10,9,0,9,2022-2023,serie-a
+paulo dybala,1,8,5,30.8,14,4,12,1,11,2022-2023,serie-a
+edin džeko,0,3,0,0.0,3,2,15,1,14,2022-2023,serie-a
+festy ebosele,8,7,0,40.0,15,10,5,0,5,2022-2023,serie-a
+enzo ebosse,11,4,0,69.2,15,9,27,6,21,2022-2023,serie-a
+tyronne ebuehi,11,7,4,69.2,22,14,23,12,11,2022-2023,serie-a
+éderson,18,42,7,43.9,67,34,56,7,49,2022-2023,serie-a
+kingsley ehizibue,28,13,6,64.4,47,31,21,3,18,2022-2023,serie-a
+albin ekdal,14,20,3,42.2,37,20,24,2,22,2022-2023,serie-a
+emmanuel ekong,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+mikael ellertsson,1,3,0,0.0,4,2,2,1,1,2022-2023,serie-a
+elif elmas,8,12,4,47.8,24,13,18,2,16,2022-2023,serie-a
+martin erlic,18,8,1,43.5,27,16,36,23,13,2022-2023,serie-a
+gonzalo escalante,8,8,0,76.9,16,8,7,1,6,2022-2023,serie-a
+salvatore esposito,8,5,2,23.8,15,12,9,1,8,2022-2023,serie-a
+nicolò fagioli,12,15,2,29.6,29,19,16,2,14,2022-2023,serie-a
+wladimiro falcone,2,0,0,100.0,2,0,0,0,0,2022-2023,serie-a
+davide faraoni,19,13,2,39.0,34,24,30,11,19,2022-2023,serie-a
+federico fazio,8,7,0,36.4,15,12,9,4,5,2022-2023,serie-a
+jacopo fazzini,20,8,3,52.9,31,17,15,3,12,2022-2023,serie-a
+lewis ferguson,16,20,8,50.0,44,25,22,7,15,2022-2023,serie-a
+alex ferrari,7,2,0,50.0,9,5,21,10,11,2022-2023,serie-a
+alex ferrari,32,7,1,66.7,40,23,19,4,15,2022-2023,serie-a
+salvador ferrer,2,2,0,33.3,4,2,3,1,2,2022-2023,serie-a
+vincenzo fiorillo,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+alessandro florenzi,3,2,1,57.1,6,4,1,0,1,2022-2023,serie-a
+davide frattesi,24,29,10,56.8,63,36,27,6,21,2022-2023,serie-a
+matteo gabbia,12,5,0,75.0,17,10,8,3,5,2022-2023,serie-a
+manolo gabbiadini,8,9,6,39.1,23,15,16,2,14,2022-2023,serie-a
+gianluca gaetano,1,3,1,,5,3,1,0,1,2022-2023,serie-a
+roberto gagliardini,9,6,1,47.6,16,6,14,5,9,2022-2023,serie-a
+adolfo gaich,0,3,2,16.7,5,3,7,2,5,2022-2023,serie-a
+pablo galdames millán,8,3,3,15.2,14,10,13,2,11,2022-2023,serie-a
+antonino gallo,35,12,9,66.7,56,36,37,6,31,2022-2023,serie-a
+federico gatti,9,4,2,60.0,15,11,20,14,6,2022-2023,serie-a
+valentin gendrey,54,25,9,56.3,88,57,45,4,41,2022-2023,serie-a
+paolo ghiglione,10,3,3,43.5,16,11,9,4,5,2022-2023,serie-a
+mario gila,3,0,0,0.0,3,1,0,0,0,2022-2023,serie-a
+gvidas gineitis,0,2,1,50.0,3,1,0,0,0,2022-2023,serie-a
+olivier giroud,2,4,2,20.0,8,5,11,3,8,2022-2023,serie-a
+pierluigi gollini,1,0,0,100.0,1,0,0,0,0,2022-2023,serie-a
+pierluigi gollini,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+joan gonzàlez,20,18,10,33.3,48,28,37,8,29,2022-2023,serie-a
+nicolás gonzález,3,10,4,31.3,17,10,14,0,14,2022-2023,serie-a
+robin gosens,15,10,9,60.0,34,18,16,2,14,2022-2023,serie-a
+alberto grassi,13,13,0,62.5,26,21,23,12,11,2022-2023,serie-a
+andrew gravillon,0,3,0,,3,3,4,2,2,2022-2023,serie-a
+axel guessand,2,0,0,50.0,2,1,1,0,1,2022-2023,serie-a
+koray günter,1,8,1,57.1,10,6,24,15,9,2022-2023,serie-a
+koray günter,6,4,0,66.7,10,8,10,5,5,2022-2023,serie-a
+emmanuel gyasi,11,10,3,25.0,24,15,24,6,18,2022-2023,serie-a
+norbert gyömbér,25,6,1,66.7,32,23,33,22,11,2022-2023,serie-a
+christian gytkjær,1,4,1,40.0,6,2,6,1,5,2022-2023,serie-a
+nicolas haas,16,6,5,50.0,27,13,16,4,12,2022-2023,serie-a
+samir handanović,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+abdou harroui,6,7,4,28.6,17,6,6,1,5,2022-2023,serie-a
+hans hateboer,11,8,2,40.7,21,13,23,4,19,2022-2023,serie-a
+liam henderson,6,5,2,19.0,13,10,10,2,8,2022-2023,serie-a
+jack hendry,0,0,0,0.0,0,0,2,1,1,2022-2023,serie-a
+matheus henrique,9,11,6,50.0,26,12,15,4,11,2022-2023,serie-a
+thomas henry,1,1,3,20.0,5,3,6,2,4,2022-2023,serie-a
+theo hernández,27,15,1,57.9,43,24,34,7,27,2022-2023,serie-a
+isak hien,54,19,0,62.3,73,36,40,17,23,2022-2023,serie-a
+morten hjulmand,49,40,1,55.2,90,52,43,11,32,2022-2023,serie-a
+emil holm,13,8,5,51.6,26,15,21,6,15,2022-2023,serie-a
+martin hongla,4,4,0,100.0,8,5,7,1,6,2022-2023,serie-a
+petko hristov,2,4,0,62.5,6,4,4,2,2,2022-2023,serie-a
+ajdin hrustic,1,1,0,50.0,2,1,2,0,2,2022-2023,serie-a
+elseid hysaj,24,11,4,56.1,39,23,31,7,24,2022-2023,serie-a
+rasmus højlund,0,2,2,16.7,4,3,9,1,8,2022-2023,serie-a
+roger ibanez,38,26,3,66.7,67,33,30,11,19,2022-2023,serie-a
+zlatan ibrahimović,0,0,0,,0,0,1,1,0,2022-2023,serie-a
+antonio iervolino,0,0,0,0.0,0,0,0,0,0,2022-2023,serie-a
+igor,21,18,4,74.1,43,29,33,14,19,2022-2023,serie-a
+jonathan ikone,5,6,5,35.7,16,8,18,1,17,2022-2023,serie-a
+ivan ilić,9,7,0,54.5,16,10,10,1,9,2022-2023,serie-a
+ivan ilić,6,11,1,50.0,18,7,12,3,9,2022-2023,serie-a
+samuel iling-junior,3,1,3,44.4,7,2,5,1,4,2022-2023,serie-a
+emirhan i̇lkhan,0,1,0,100.0,1,1,3,1,2,2022-2023,serie-a
+emirhan i̇lkhan,2,2,2,66.7,6,3,5,1,4,2022-2023,serie-a
+ciro immobile,4,4,3,66.7,11,5,10,2,8,2022-2023,serie-a
+ardian ismajli,25,15,0,75.0,40,32,47,31,16,2022-2023,serie-a
+mihailo ivanović,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+armando izzo,44,27,2,64.4,73,50,29,17,12,2022-2023,serie-a
+mato jajalo,0,0,0,0.0,0,0,0,0,0,2022-2023,serie-a
+jesé,0,2,0,0.0,2,0,3,1,2,2022-2023,serie-a
+juan jesus,9,6,1,75.0,16,11,18,11,7,2022-2023,serie-a
+þórir jóhann helgason,1,0,1,66.7,2,2,3,1,2,2022-2023,serie-a
+luka jović,1,4,1,25.0,6,3,7,2,5,2022-2023,serie-a
+hamed junior traorè,4,6,1,36.4,11,6,4,0,4,2022-2023,serie-a
+yayah kallon,5,4,5,58.3,14,10,10,0,10,2022-2023,serie-a
+pierre kalulu,33,21,3,66.7,57,39,41,17,24,2022-2023,serie-a
+yann karamoh,3,2,0,20.0,5,2,5,0,5,2022-2023,serie-a
+rick karsdorp,11,7,3,59.1,21,13,0,0,0,2022-2023,serie-a
+denso kasius,7,4,1,80.0,12,6,6,3,3,2022-2023,serie-a
+grigoris kastanos,18,19,2,40.0,39,23,20,6,14,2022-2023,serie-a
+moise kean,2,5,1,42.9,8,6,4,0,4,2022-2023,serie-a
+jakub kiwior,15,7,0,25.0,22,17,26,18,8,2022-2023,serie-a
+simon kjær,9,6,0,63.6,15,8,14,11,3,2022-2023,serie-a
+teun koopmeiners,15,24,7,50.9,46,26,41,5,36,2022-2023,serie-a
+filip kostić,17,20,4,44.7,41,26,30,4,26,2022-2023,serie-a
+christian kouamé,8,10,9,50.0,27,18,15,3,12,2022-2023,serie-a
+viktor kovalenko,1,6,2,62.5,9,5,11,2,9,2022-2023,serie-a
+julian kristoffersen,0,0,0,,0,0,1,0,1,2022-2023,serie-a
+raimonds krollis,0,0,1,0.0,1,1,0,0,0,2022-2023,serie-a
+rade krunić,18,18,4,32.0,40,28,31,11,20,2022-2023,serie-a
+marash kumbulla,2,2,0,66.7,4,4,2,1,1,2022-2023,serie-a
+khvicha kvaratskhelia,12,8,23,39.5,43,23,20,0,20,2022-2023,serie-a
+giorgos kyriakopoulos,4,5,4,43.5,13,6,14,2,12,2022-2023,serie-a
+giorgos kyriakopoulos,7,9,5,71.4,21,8,7,1,6,2022-2023,serie-a
+sam lammers,2,7,3,40.0,12,5,10,3,7,2022-2023,serie-a
+sam lammers,5,9,6,63.6,20,10,4,1,3,2022-2023,serie-a
+kevin lasagna,7,3,2,42.9,12,6,17,1,16,2022-2023,serie-a
+armand lauriente,5,7,9,38.1,21,15,20,0,20,2022-2023,serie-a
+valentino lazaro,6,0,4,42.9,10,5,16,3,13,2022-2023,serie-a
+marko lazetić,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+darko lazović,9,12,3,44.8,24,13,14,3,11,2022-2023,serie-a
+manuel lazzari,13,14,6,58.3,33,21,20,6,14,2022-2023,serie-a
+rafael leão,2,3,3,42.9,8,7,9,2,7,2022-2023,serie-a
+mehdi léris,30,24,9,41.8,63,46,38,6,32,2022-2023,serie-a
+karol linetty,7,22,3,52.0,32,17,28,8,20,2022-2023,serie-a
+marcin listkowski,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+diego llorente,6,4,0,41.7,10,5,4,2,2,2022-2023,serie-a
+stanislav lobotka,35,35,13,58.9,83,44,29,7,22,2022-2023,serie-a
+manuel locatelli,26,23,10,56.6,59,33,50,22,28,2022-2023,serie-a
+luka lochoshvili,30,11,4,71.0,45,19,31,10,21,2022-2023,serie-a
+ademola lookman,2,6,5,20.0,13,5,18,0,18,2022-2023,serie-a
+maxime lopez,26,12,4,28.6,42,18,24,6,18,2022-2023,serie-a
+matteo lovato,14,3,0,40.0,17,14,8,5,3,2022-2023,serie-a
+sandi lovrić,16,16,8,58.1,40,18,25,2,23,2022-2023,serie-a
+hirving lozano,10,6,8,42.9,24,13,31,0,31,2022-2023,serie-a
+jhon lucumí,39,13,1,55.8,53,37,43,26,17,2022-2023,serie-a
+josé luis palomino,16,7,0,57.9,23,14,11,4,7,2022-2023,serie-a
+romelu lukaku,1,0,2,40.0,3,1,3,1,2,2022-2023,serie-a
+saša lukić,10,10,1,60.0,21,14,17,7,10,2022-2023,serie-a
+sebastiano luperto,24,8,1,45.0,33,18,54,42,12,2022-2023,serie-a
+charalampos lykogiannis,5,6,5,38.5,16,8,9,4,5,2022-2023,serie-a
+giulio maggiore,11,6,3,47.6,20,8,19,4,15,2022-2023,serie-a
+giangiacomo magnani,20,11,2,76.0,33,22,20,15,5,2022-2023,serie-a
+mike maignan,1,0,0,100.0,1,0,0,0,0,2022-2023,serie-a
+jordan majchrzak,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+jean-victor makengo,7,7,2,55.6,16,13,8,2,6,2022-2023,serie-a
+lorenzo malagrida,0,0,1,33.3,1,0,1,0,1,2022-2023,serie-a
+daniel maldini,3,4,5,36.4,12,5,9,0,9,2022-2023,serie-a
+youssef maleh,0,3,0,0.0,3,1,5,0,5,2022-2023,serie-a
+youssef maleh,3,7,7,42.9,17,8,20,1,19,2022-2023,serie-a
+ruslan malinovskyi,5,6,3,35.3,14,8,8,1,7,2022-2023,serie-a
+gianluca mancini,27,9,1,52.9,37,19,38,17,21,2022-2023,serie-a
+rolando mandragora,12,22,8,44.2,42,24,25,3,22,2022-2023,serie-a
+federico marchetti,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+riccardo marchizza,1,1,0,50.0,2,2,2,0,2,2022-2023,serie-a
+gian marco ferrari,11,10,2,58.8,23,16,29,20,9,2022-2023,serie-a
+pablo marí,29,7,1,65.4,37,19,22,14,8,2022-2023,serie-a
+răzvan marin,22,21,1,47.5,44,22,29,11,18,2022-2023,serie-a
+marlon,20,14,1,51.7,35,21,13,4,9,2022-2023,serie-a
+luca marrone,0,0,0,0.0,0,0,2,2,0,2022-2023,serie-a
+lautaro martínez,3,15,7,30.4,25,14,31,1,30,2022-2023,serie-a
+lucas martínez quarta,44,32,4,68.9,80,48,41,19,22,2022-2023,serie-a
+adam marušić,23,14,4,64.1,41,30,20,6,14,2022-2023,serie-a
+adam masina,7,3,0,40.0,10,7,11,4,7,2022-2023,serie-a
+nemanja matić,24,19,4,57.6,47,27,27,7,20,2022-2023,serie-a
+luís maximiano,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+pasquale mazzocchi,21,5,6,45.9,32,18,10,2,8,2022-2023,serie-a
+weston mckennie,3,9,2,62.5,14,5,15,4,11,2022-2023,serie-a
+gary medel,16,7,2,56.3,25,15,17,10,7,2022-2023,serie-a
+soualiho meïté,25,15,7,47.8,47,31,27,6,21,2022-2023,serie-a
+alex meret,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+yıldırım mert çetin,1,0,0,,1,0,0,0,0,2022-2023,serie-a
+junior messias,9,9,6,26.3,24,18,20,4,16,2022-2023,serie-a
+tommaso milanese,0,0,0,,0,0,1,1,0,2022-2023,serie-a
+nikola milenković,20,17,3,66.7,40,25,27,14,13,2022-2023,serie-a
+arkadiusz milik,2,8,2,25.0,12,8,10,1,9,2022-2023,serie-a
+sergej milinković-savić,22,23,13,35.8,58,35,50,12,38,2022-2023,serie-a
+vanja milinković-savić,2,0,0,100.0,2,1,0,0,0,2022-2023,serie-a
+kim min-jae,32,22,1,86.2,55,30,36,26,10,2022-2023,serie-a
+aleksei miranchuk,3,4,4,27.3,11,5,11,0,11,2022-2023,serie-a
+antonio mirante,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+fabio miretti,15,6,3,41.4,24,11,20,1,19,2022-2023,serie-a
+filippo missori,3,0,1,50.0,4,3,0,0,0,2022-2023,serie-a
+henrikh mkhitaryan,13,22,6,34.1,41,26,27,4,23,2022-2023,serie-a
+salvatore molina,2,4,0,80.0,6,5,4,2,2,2022-2023,serie-a
+daniele montevago,0,0,1,0.0,1,0,2,1,1,2022-2023,serie-a
+lorenzo montipò,1,0,0,0.0,1,0,1,0,1,2022-2023,serie-a
+nikola moro,11,15,6,38.9,32,21,15,2,13,2022-2023,serie-a
+dany mota,1,3,4,20.0,8,7,5,1,4,2022-2023,serie-a
+joão moutinho,5,1,1,75.0,7,1,1,1,0,2022-2023,serie-a
+mert müldür,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+luis muriel,2,3,4,31.3,9,6,9,0,9,2022-2023,serie-a
+jeison murillo,16,6,0,65.4,22,11,22,14,8,2022-2023,serie-a
+nicola murru,15,8,1,53.8,24,14,17,7,10,2022-2023,serie-a
+juan musso,1,0,0,100.0,1,1,0,0,0,2022-2023,serie-a
+joakim mæhle,12,7,13,56.4,32,18,29,6,23,2022-2023,serie-a
+herculano nabian,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+michel ndary adopo,4,2,1,33.3,7,2,2,2,0,2022-2023,serie-a
+tanguy ndombele,4,8,2,57.1,14,8,10,1,9,2022-2023,serie-a
+ilija nestorovski,2,1,4,45.5,7,3,6,1,5,2022-2023,serie-a
+cyril ngonge,2,2,3,27.3,7,3,7,0,7,2022-2023,serie-a
+hans nicolussi caviglia,5,8,2,60.0,15,6,9,0,9,2022-2023,serie-a
+dimitris nikolaou,31,10,4,67.6,45,32,41,26,15,2022-2023,serie-a
+samuel ntanda,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+bram nuytinck,3,4,0,50.0,7,4,6,6,0,2022-2023,serie-a
+bram nuytinck,33,21,0,67.6,54,38,36,21,15,2022-2023,serie-a
+m'bala nzola,0,6,6,33.3,12,5,20,6,14,2022-2023,serie-a
+pedro obiang,12,12,2,55.6,26,17,12,2,10,2022-2023,serie-a
+guillermo ochoa,0,0,0,0.0,0,0,0,0,0,2022-2023,serie-a
+marios oikonomou,3,0,0,33.3,3,2,5,4,1,2022-2023,serie-a
+david okereke,4,5,3,18.8,12,8,23,3,20,2022-2023,serie-a
+caleb okoli,14,6,1,40.0,21,17,10,5,5,2022-2023,serie-a
+mathías olivera,16,16,7,51.2,39,23,28,2,26,2022-2023,serie-a
+andré onana,0,0,0,0.0,0,0,0,0,0,2022-2023,serie-a
+divock origi,4,3,3,50.0,10,5,6,2,4,2022-2023,serie-a
+riccardo orsolini,15,10,5,41.5,30,19,29,3,26,2022-2023,serie-a
+victor osimhen,1,2,7,0.0,10,6,6,1,5,2022-2023,serie-a
+remi oudin,9,12,4,43.5,25,13,16,2,14,2022-2023,serie-a
+adam ounas,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+simone pafundi,1,5,2,50.0,8,5,0,0,0,2022-2023,serie-a
+flavio paoletti,0,2,0,20.0,2,2,1,0,1,2022-2023,serie-a
+leandro paredes,7,11,1,45.5,19,13,8,0,8,2022-2023,serie-a
+fabiano parisi,37,21,7,41.7,65,35,51,16,35,2022-2023,serie-a
+mario pašalić,6,14,2,26.1,22,10,22,4,18,2022-2023,serie-a
+patric,12,3,2,68.8,17,11,17,12,5,2022-2023,serie-a
+rui patrício,1,0,0,100.0,1,1,0,0,0,2022-2023,serie-a
+pedro,14,10,11,36.7,35,24,18,2,16,2022-2023,serie-a
+gianluca pegolo,0,0,0,0.0,0,0,0,0,0,2022-2023,serie-a
+pietro pellegri,1,3,2,66.7,6,2,5,1,4,2022-2023,serie-a
+lorenzo pellegrini,24,24,4,45.8,52,29,27,4,23,2022-2023,serie-a
+luca pellegrini,0,1,0,25.0,1,0,3,0,3,2022-2023,serie-a
+pepín,10,11,7,33.3,28,19,14,3,11,2022-2023,serie-a
+roberto pereyra,21,12,3,36.4,36,20,20,5,15,2022-2023,serie-a
+nehuén pérez,54,20,3,70.9,77,40,53,23,30,2022-2023,serie-a
+simone perilli,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+mattia perin,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+samuele perisan,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+matteo pessina,28,21,8,41.9,57,36,50,15,35,2022-2023,serie-a
+andrea petagna,2,3,2,50.0,7,5,16,4,12,2022-2023,serie-a
+giuseppe pezzella,16,2,3,56.3,21,9,11,3,8,2022-2023,serie-a
+krzysztof piątek,3,9,6,23.8,18,11,17,4,13,2022-2023,serie-a
+roberto piccoli,1,0,0,0.0,1,0,2,0,2,2022-2023,serie-a
+roberto piccoli,1,0,0,0.0,1,1,4,1,3,2022-2023,serie-a
+charles pickel,25,26,4,56.1,55,23,37,5,32,2022-2023,serie-a
+andrea pinamonti,0,5,5,42.9,10,7,19,2,17,2022-2023,serie-a
+lorenzo pirola,18,14,1,70.4,33,29,50,35,15,2022-2023,serie-a
+niccolò pisilli,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+marko pjaca,3,1,0,60.0,4,3,3,0,3,2022-2023,serie-a
+tommaso pobega,8,15,4,65.0,27,16,12,4,8,2022-2023,serie-a
+paul pogba,0,0,0,0.0,0,0,0,0,0,2022-2023,serie-a
+matteo politano,9,5,4,44.0,18,9,6,0,6,2022-2023,serie-a
+marin pongračić,8,7,1,71.4,16,14,4,3,1,2022-2023,serie-a
+stefan posch,41,29,11,58.7,81,43,44,15,29,2022-2023,serie-a
+ivan provedel,1,0,0,,1,0,0,0,0,2022-2023,serie-a
+ignacio pussetto,2,3,1,75.0,6,3,4,0,4,2022-2023,serie-a
+niklas pyyhtiä,0,1,0,0.0,1,0,1,1,0,2022-2023,serie-a
+fabio quagliarella,1,1,0,14.3,2,1,5,1,4,2022-2023,serie-a
+giacomo quagliata,7,1,2,45.5,10,8,7,2,5,2022-2023,serie-a
+adrien rabiot,31,23,11,52.6,65,35,37,7,30,2022-2023,serie-a
+nemanja radonjić,2,0,0,0.0,2,1,3,0,3,2022-2023,serie-a
+ivan radovanović,8,4,0,40.0,12,4,9,3,6,2022-2023,serie-a
+ionuț radu,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+ștefan radu,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+antonio raimondo,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+luca ranieri,6,3,0,66.7,9,4,5,3,2,2022-2023,serie-a
+andrea ranocchia,1,2,0,75.0,3,1,5,5,0,2022-2023,serie-a
+filippo ranocchia,5,4,2,33.3,11,6,5,1,4,2022-2023,serie-a
+giacomo raspadori,0,6,4,40.0,10,8,9,0,9,2022-2023,serie-a
+giacomo raspadori,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+nicola ravaglia,0,0,0,0.0,0,0,0,0,0,2022-2023,serie-a
+ante rebić,1,3,6,27.3,10,8,6,1,5,2022-2023,serie-a
+arkadiusz reca,22,12,10,59.4,44,28,21,5,16,2022-2023,serie-a
+panagiotis retsos,2,2,1,100.0,5,4,4,1,3,2022-2023,serie-a
+franck ribéry,0,0,0,,0,0,1,0,1,2022-2023,serie-a
+samuele ricci,17,10,5,78.3,32,21,20,5,15,2022-2023,serie-a
+tomás rincón,22,26,8,47.5,56,27,37,7,30,2022-2023,serie-a
+pablo rodríguez,2,0,0,0.0,2,1,3,0,3,2022-2023,serie-a
+ricardo rodríguez,30,17,7,66.7,54,33,30,15,15,2022-2023,serie-a
+rogério,22,8,7,48.6,37,21,32,9,23,2022-2023,serie-a
+filippo romagna,0,0,0,,0,0,1,1,0,2022-2023,serie-a
+alessio romagnoli,19,14,0,50.0,33,15,33,26,7,2022-2023,serie-a
+simone romagnoli,3,3,0,100.0,6,5,4,1,3,2022-2023,serie-a
+luka romero,0,0,0,0.0,0,0,4,0,4,2022-2023,serie-a
+marten de roon,37,35,5,45.7,77,39,37,4,33,2022-2023,serie-a
+francesco rossi,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+nicolò rovella,22,21,2,36.1,45,29,20,1,19,2022-2023,serie-a
+nicolò rovella,0,1,0,100.0,1,1,0,0,0,2022-2023,serie-a
+amir rrahmani,20,13,0,65.4,33,18,36,20,16,2022-2023,serie-a
+ruan,25,12,1,65.5,38,26,29,17,12,2022-2023,serie-a
+daniele rugani,6,1,0,100.0,7,0,7,5,2,2022-2023,serie-a
+matteo ruggeri,5,9,3,50.0,17,12,14,3,11,2022-2023,serie-a
+mário rui,17,13,4,48.8,34,22,17,4,13,2022-2023,serie-a
+alessandro russo,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+abdelhamid sabiri,5,9,4,30.8,18,7,18,4,14,2022-2023,serie-a
+alexis saelemaekers,12,16,3,46.3,31,20,13,1,12,2022-2023,serie-a
+jacopo sala,1,0,0,0.0,1,0,2,0,2,2022-2023,serie-a
+lazar samardzic,9,20,4,39.5,33,16,13,0,13,2022-2023,serie-a
+junior sambia,7,4,1,60.0,12,5,9,3,6,2022-2023,serie-a
+antonio sanabria,3,3,5,14.3,11,5,9,2,7,2022-2023,serie-a
+leandro sanca,0,0,1,100.0,1,1,0,0,0,2022-2023,serie-a
+alex sandro,16,16,3,68.2,35,20,27,10,17,2022-2023,serie-a
+nicola sansone,6,4,2,50.0,12,4,0,0,0,2022-2023,serie-a
+riccardo saponara,3,6,1,55.6,10,5,7,1,6,2022-2023,serie-a
+mouhamadou sarr,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+martin satriano,5,6,2,42.9,13,8,5,0,5,2022-2023,serie-a
+giorgio scalvini,30,18,6,52.7,54,29,36,13,23,2022-2023,serie-a
+jerdy schouten,28,33,2,55.1,63,38,40,17,23,2022-2023,serie-a
+perr schuurs,29,17,5,53.8,51,25,28,16,12,2022-2023,serie-a
+demba seck,3,2,0,66.7,5,2,3,1,2,2022-2023,serie-a
+telasco segovia,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+jacopo segre,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+vivaldo semedo,0,0,0,,0,0,1,0,1,2022-2023,serie-a
+stefano sensi,25,13,3,37.5,41,26,13,3,10,2022-2023,serie-a
+luigi sepe,0,0,0,0.0,0,0,0,0,0,2022-2023,serie-a
+leonardo sernicola,25,13,7,67.4,45,33,23,6,17,2022-2023,serie-a
+stephan el shaarawy,8,10,3,27.3,21,9,11,1,10,2022-2023,serie-a
+eldor shomurodov,3,1,1,18.2,5,5,5,1,4,2022-2023,serie-a
+eldor shomurodov,1,0,0,0.0,1,0,1,0,1,2022-2023,serie-a
+marco silvestri,2,0,0,66.7,2,1,0,0,0,2022-2023,serie-a
+giovanni simeone,3,5,4,37.5,12,3,2,1,1,2022-2023,serie-a
+wilfried singo,14,10,3,63.2,27,17,15,2,13,2022-2023,serie-a
+salvatore sirigu,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+leo skiri østigård,3,1,0,100.0,4,1,3,3,0,2022-2023,serie-a
+łukasz skorupski,2,0,0,50.0,2,1,0,0,0,2022-2023,serie-a
+milan škriniar,14,11,4,56.3,29,18,18,13,5,2022-2023,serie-a
+chris smalling,16,10,0,61.9,26,15,51,36,15,2022-2023,serie-a
+ola solbakken,1,1,0,28.6,2,2,2,0,2,2022-2023,serie-a
+brandon soppy,0,1,0,,1,1,4,0,4,2022-2023,serie-a
+brandon soppy,4,4,0,33.3,8,5,10,0,10,2022-2023,serie-a
+roberto soriano,9,16,6,52.0,31,16,23,2,21,2022-2023,serie-a
+joaquin sosa,5,1,0,22.2,6,2,5,3,2,2022-2023,serie-a
+riccardo sottil,2,0,2,40.0,4,3,2,0,2,2022-2023,serie-a
+matìas soulé,3,2,2,71.4,7,4,7,1,6,2022-2023,serie-a
+adama soumaoro,11,12,2,71.4,25,17,18,13,5,2022-2023,serie-a
+leonardo spinazzola,7,6,2,34.8,15,8,13,3,10,2022-2023,serie-a
+marco sportiello,1,0,0,33.3,1,0,0,0,0,2022-2023,serie-a
+petar stojanović,28,10,4,60.5,42,22,17,5,12,2022-2023,serie-a
+gabriel strefezza,18,20,12,50.9,50,24,36,3,33,2022-2023,serie-a
+dávid strelec,0,1,1,100.0,2,2,0,0,0,2022-2023,serie-a
+isaac success,2,5,1,37.5,8,4,13,2,11,2022-2023,serie-a
+ibrahim sulemana,10,7,2,50.0,19,13,8,2,6,2022-2023,serie-a
+mile svilar,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+wojciech szczęsny,1,0,0,0.0,1,0,0,0,0,2022-2023,serie-a
+benjamin tahirovic,5,2,1,33.3,8,5,9,4,5,2022-2023,serie-a
+adrien tameze,21,26,4,44.4,51,30,51,14,37,2022-2023,serie-a
+ciprian tătărușanu,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+filippo terracciano,11,7,2,75.0,20,13,7,4,3,2022-2023,serie-a
+pietro terracciano,2,0,0,66.7,2,1,0,0,0,2022-2023,serie-a
+aleksa terzić,9,4,3,52.4,16,9,13,4,9,2022-2023,serie-a
+florian thauvin,0,2,0,15.4,2,1,5,0,5,2022-2023,serie-a
+malick thiaw,22,9,0,55.0,31,26,11,5,6,2022-2023,serie-a
+kristian thorstvedt,4,9,3,35.3,16,7,19,5,14,2022-2023,serie-a
+jeremy toljan,17,14,5,66.7,36,23,31,14,17,2022-2023,serie-a
+rafael tolói,37,32,0,54.7,69,44,42,18,24,2022-2023,serie-a
+fikayo tomori,44,25,1,64.7,70,34,46,25,21,2022-2023,serie-a
+sandro tonali,35,24,5,61.4,64,41,34,9,25,2022-2023,serie-a
+lorenzo tonelli,0,0,0,0.0,0,0,0,0,0,2022-2023,serie-a
+william troost-ekong,7,4,0,85.7,11,3,7,4,3,2022-2023,serie-a
+frank tsadjout,3,6,1,33.3,10,8,7,1,6,2022-2023,serie-a
+alessandro tuia,6,4,0,33.3,10,6,3,1,2,2022-2023,serie-a
+martin turk,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+destiny udogie,42,24,5,57.6,71,45,34,6,28,2022-2023,serie-a
+samir ujkani,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+samuel umtiti,25,25,2,69.2,52,34,26,14,12,2022-2023,serie-a
+diego valencia,4,2,2,22.2,8,5,10,1,9,2022-2023,serie-a
+emanuele valeri,29,21,4,42.0,54,27,17,3,14,2022-2023,serie-a
+mattia valoti,7,9,1,31.3,17,10,13,3,10,2022-2023,serie-a
+johan vásquez,34,7,0,46.2,41,26,27,20,7,2022-2023,serie-a
+matías vecino,13,23,11,47.9,47,27,33,10,23,2022-2023,serie-a
+miguel veloso,20,12,1,61.5,33,10,26,6,20,2022-2023,serie-a
+lorenzo venuti,6,11,1,61.1,18,7,7,2,5,2022-2023,serie-a
+daniele verde,3,0,1,42.9,4,4,6,0,6,2022-2023,serie-a
+simone verdi,7,5,3,35.3,15,10,8,1,7,2022-2023,serie-a
+valerio verre,6,5,3,47.1,14,7,9,1,8,2022-2023,serie-a
+guglielmo vicario,1,0,0,50.0,1,1,0,0,0,2022-2023,serie-a
+ronaldo vieira,0,1,0,100.0,1,0,0,0,0,2022-2023,serie-a
+ronaldo vieira,4,12,2,76.9,18,10,15,5,10,2022-2023,serie-a
+emanuel vignato,2,2,0,50.0,4,4,2,0,2,2022-2023,serie-a
+emanuel vignato,2,0,0,,2,0,0,0,0,2022-2023,serie-a
+samuele vignato,0,0,0,,0,0,1,0,1,2022-2023,serie-a
+tonny vilhena,16,23,5,40.0,44,22,17,7,10,2022-2023,serie-a
+gonzalo villar,4,8,1,46.7,13,7,11,3,8,2022-2023,serie-a
+matías viña,1,1,1,33.3,3,1,5,1,4,2022-2023,serie-a
+dušan vlahović,0,7,4,40.0,11,6,10,3,7,2022-2023,serie-a
+nikola vlašić,9,16,7,44.1,32,21,25,2,23,2022-2023,serie-a
+joel voelkerling persson,0,0,1,0.0,1,1,1,0,1,2022-2023,serie-a
+mërgim vojvoda,15,6,1,50.0,22,12,14,2,12,2022-2023,serie-a
+cristian volpato,1,1,1,0.0,3,2,2,0,2,2022-2023,serie-a
+lukáš vorlický,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+aster vranckx,0,2,1,28.6,3,2,3,1,2,2022-2023,serie-a
+stefan de vrij,19,9,0,57.1,28,18,18,10,8,2022-2023,serie-a
+walace,42,31,9,45.6,82,39,47,12,35,2022-2023,serie-a
+sebastian walukiewicz,7,2,0,66.7,9,6,10,9,1,2022-2023,serie-a
+georginio wijnaldum,1,3,0,0.0,4,3,7,1,6,2022-2023,serie-a
+harry winks,7,18,2,32.6,27,12,14,8,6,2022-2023,serie-a
+przemysław wiśniewski,7,6,0,33.3,13,6,16,8,8,2022-2023,serie-a
+gerard yepes,2,3,0,33.3,5,3,3,0,3,2022-2023,serie-a
+mattia zaccagni,16,18,8,36.8,42,28,37,3,34,2022-2023,serie-a
+denis zakaria,1,4,1,100.0,6,3,2,0,2,2022-2023,serie-a
+nicola zalewski,25,15,5,31.0,45,26,27,1,26,2022-2023,serie-a
+andre-frank zambo anguissa,16,29,8,25.0,53,32,50,4,46,2022-2023,serie-a
+luca zanimacchia,11,6,4,38.1,21,13,9,0,9,2022-2023,serie-a
+nicolò zaniolo,2,4,1,28.6,7,5,11,0,11,2022-2023,serie-a
+alessandro zanoli,14,6,2,47.1,22,14,19,15,4,2022-2023,serie-a
+alessandro zanoli,0,1,0,,1,0,0,0,0,2022-2023,serie-a
+mattia zanotti,0,0,0,0.0,0,0,2,0,2,2022-2023,serie-a
+duván zapata,1,3,4,60.0,8,4,6,2,4,2022-2023,serie-a
+davide zappacosta,17,12,5,68.2,34,18,23,2,21,2022-2023,serie-a
+karim zedadka,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+deyovaisio zeefuik,0,1,0,,1,1,0,0,0,2022-2023,serie-a
+marvin zeegelaar,6,2,0,75.0,8,4,2,0,2,2022-2023,serie-a
+alessio zerbin,4,5,1,50.0,10,5,2,0,2,2022-2023,serie-a
+piotr zieliński,1,11,5,48.0,17,10,16,5,11,2022-2023,serie-a
+david zima,5,4,0,75.0,9,5,7,2,5,2022-2023,serie-a
+joshua zirkzee,1,1,2,28.6,4,2,4,1,3,2022-2023,serie-a
+jeroen zoet,1,0,0,100.0,1,1,0,0,0,2022-2023,serie-a
+nadir zortea,3,7,0,75.0,10,5,4,0,4,2022-2023,serie-a
+nadir zortea,12,2,1,64.3,15,8,10,4,6,2022-2023,serie-a
+petar zovko,1,0,0,100.0,1,0,0,0,0,2022-2023,serie-a
+szymon żurkowski,0,0,0,,0,0,0,0,0,2022-2023,serie-a
+szymon żurkowski,4,4,1,13.3,9,3,9,2,7,2022-2023,serie-a
+milan đurić,1,0,1,33.3,2,1,7,4,3,2022-2023,serie-a
+filip đuričić,18,20,5,43.8,43,22,19,6,13,2022-2023,serie-a
